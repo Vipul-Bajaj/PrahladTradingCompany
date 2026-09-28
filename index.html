@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prahlad Trading Company - Industrial Safety Equipment Supplier</title>
-  <meta name="description" content="Prahlad Trading Company - Premium safety equipment and protective gear supplier in Raipur. Authorized distributor of leading safety brands for over 20 years.">
-  <meta name="keywords" content="Safety Equipment, PPE, Industrial Safety, Raipur, Safety Helmets, Safety Shoes, Welding Products, Fire Safety">
+  <title>Prahlad Trading Company - Industrial Safety Equipment Supplier | Raipur</title>
+  <meta name="description" content="Prahlad Trading Company - Authorized dealer of Acme, Udyogi, Tiger, Malcolm, Karam safety products. Premium PPE supplier in Raipur serving industries for 20+ years.">
+  <meta name="keywords" content="Safety Equipment, PPE, Industrial Safety, Raipur, Safety Helmets, Safety Shoes, Acme, Udyogi, Tiger, Malcolm, Karam, Welding, Fire Safety, Omex">
   <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1a1a1a; line-height: 1.6; }
@@ -460,6 +460,102 @@ body { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Seg
   color: #666;
 }
 
+/* Brands Section */
+.brands-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3.5rem 2rem;
+}
+
+.brands-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 2rem;
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.brand-item {
+  background: white;
+  border: 2px solid #f0f0f0;
+  padding: 2rem 1.5rem;
+  border-radius: 6px;
+  transition: all 0.3s;
+}
+
+.brand-item:hover {
+  border-color: #c85a3a;
+  box-shadow: 0 4px 12px rgba(200, 90, 58, 0.1);
+}
+
+.brand-item h4 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-top: 1rem;
+}
+
+.brand-item p {
+  font-size: 12px;
+  color: #999;
+  margin-top: 0.5rem;
+}
+
+.brand-logo {
+  font-size: 48px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Product Specifications */
+.product-spec {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: #fafafa;
+  border-left: 3px solid #c85a3a;
+  border-radius: 4px;
+}
+
+.product-spec h5 {
+  color: #1a1a1a;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.product-spec-list {
+  font-size: 13px;
+  color: #666;
+  line-height: 1.6;
+  list-style: none;
+  padding-left: 0;
+}
+
+.product-spec-list li {
+  padding: 0.3rem 0;
+}
+
+.product-spec-list li:before {
+  content: '→ ';
+  color: #c85a3a;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.brand-mention {
+  display: inline-block;
+  background: #f5f5f5;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 12px;
+  color: #c85a3a;
+  font-weight: 600;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .hero-content h1 { font-size: 28px; }
@@ -467,6 +563,7 @@ body { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Seg
   .about-container { grid-template-columns: 1fr; }
   .process-grid { grid-template-columns: 1fr; }
   .navbar { padding: 1rem; }
+  .brands-grid { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; }
 }
   </style>
 </head>
@@ -519,28 +616,28 @@ body { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Seg
 <section class="products-section" id="products">
   <div class="section-header">
     <h2>Our Product Categories</h2>
-    <p>Click to explore our comprehensive range of safety solutions</p>
+    <p>Click to explore our comprehensive range of safety solutions with leading brands</p>
   </div>
   <div class="products-grid">
     <div class="product-card" onclick="openModal('headSafety')">
       <div class="product-icon">⛑️</div>
       <h3>Head Protection</h3>
-      <p>Safety helmets and hard hats for all industries</p>
+      <p>Safety helmets and hard hats - Karam, Udyogi, Tiger</p>
     </div>
     <div class="product-card" onclick="openModal('footSafety')">
       <div class="product-icon">👢</div>
       <h3>Foot Protection</h3>
-      <p>Steel toe boots and safety shoes</p>
+      <p>Safety shoes & boots - Acme, Karam, Tiger, Malcolm</p>
     </div>
     <div class="product-card" onclick="openModal('bodyProtection')">
       <div class="product-icon">🦺</div>
       <h3>Body Protection</h3>
-      <p>Safety jackets, vests and aprons</p>
+      <p>Jackets, vests, aprons - Udyogi, Karam</p>
     </div>
     <div class="product-card" onclick="openModal('handProtection')">
       <div class="product-icon">🧤</div>
       <h3>Hand Protection</h3>
-      <p>Work gloves for industrial applications</p>
+      <p>Work gloves for all applications</p>
     </div>
     <div class="product-card" onclick="openModal('eyeProtection')">
       <div class="product-icon">👓</div>
@@ -550,22 +647,61 @@ body { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Seg
     <div class="product-card" onclick="openModal('respiratory')">
       <div class="product-icon">🫁</div>
       <h3>Respiratory Protection</h3>
-      <p>Masks, respirators and filters</p>
+      <p>Masks, respirators and certified filters</p>
     </div>
     <div class="product-card" onclick="openModal('welding')">
       <div class="product-icon">🔥</div>
       <h3>Welding Products</h3>
-      <p>Masks, gloves and accessories</p>
+      <p>Complete welding safety equipment</p>
     </div>
     <div class="product-card" onclick="openModal('fireSafety')">
       <div class="product-icon">🧯</div>
       <h3>Fire Safety</h3>
-      <p>Fire extinguishers and equipment</p>
+      <p>Extinguishers & equipment - Omex</p>
     </div>
     <div class="product-card" onclick="openModal('fallProtection')">
       <div class="product-icon">⛓️</div>
       <h3>Fall Protection</h3>
-      <p>Harnesses and safety systems</p>
+      <p>Harnesses, ropes and safety systems</p>
+    </div>
+  </div>
+</section>
+
+<section class="brands-section" id="brands">
+  <div class="section-header">
+    <h2>Our Authorized Brands</h2>
+    <p>We are proud authorized dealers of India's leading safety equipment manufacturers</p>
+  </div>
+  <div class="brands-grid">
+    <div class="brand-item">
+      <div class="brand-logo">🏆</div>
+      <h4>Acme</h4>
+      <p>Premium Safety Shoes</p>
+    </div>
+    <div class="brand-item">
+      <div class="brand-logo">🛡️</div>
+      <h4>Karam</h4>
+      <p>Complete PPE Range</p>
+    </div>
+    <div class="brand-item">
+      <div class="brand-logo">⛑️</div>
+      <h4>Udyogi</h4>
+      <p>Industrial Safety Gear</p>
+    </div>
+    <div class="brand-item">
+      <div class="brand-logo">👟</div>
+      <h4>Tiger</h4>
+      <p>Safety Footwear</p>
+    </div>
+    <div class="brand-item">
+      <div class="brand-logo">🥾</div>
+      <h4>Malcolm</h4>
+      <p>Protective Boots</p>
+    </div>
+    <div class="brand-item">
+      <div class="brand-logo">🧯</div>
+      <h4>Omex</h4>
+      <p>Fire Extinguishers</p>
     </div>
   </div>
 </section>
@@ -574,14 +710,15 @@ body { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Seg
   <div class="about-container">
     <div class="about-content">
       <h2>About Prahlad Trading Company</h2>
-      <p>Prahlad Trading Company is a leading distributor of industrial safety equipment and PPE in Raipur. With over 20 years of experience, we've built trust through quality and reliability.</p>
-      <p>Founded by Bipin Agrawal, we are authorized dealers for numerous leading safety brands, specializing in helmets, shoes, harnesses, welding products, and fire safety equipment.</p>
+      <p>Prahlad Trading Company is a leading distributor of industrial safety equipment and PPE in Raipur. With over 20 years of experience, we've built trust through quality, authenticity, and unwavering commitment to workplace safety.</p>
+      <p>Founded by Bipin Agrawal, we are proud authorized dealers for India's top safety brands including <strong>Acme</strong>, <strong>Karam</strong>, <strong>Udyogi</strong>, <strong>Tiger</strong>, <strong>Malcolm</strong>, and <strong>Omex</strong>. We specialize in comprehensive PPE solutions including safety helmets, shoes, harnesses, welding products, fire safety equipment, and complete protective gear for all industries.</p>
       <ul class="about-list">
-        <li>Authentic certified products</li>
-        <li>Authorized brand dealer</li>
-        <li>Competitive pricing</li>
-        <li>Professional guidance</li>
-        <li>Quick delivery</li>
+        <li>Authorized dealer for Acme, Karam, Udyogi, Tiger, Malcolm & Omex</li>
+        <li>100% authentic certified products</li>
+        <li>Competitive wholesale & retail pricing</li>
+        <li>Expert technical guidance & recommendations</li>
+        <li>Fast delivery across Raipur & surrounding areas</li>
+        <li>Professional installation & maintenance services</li>
       </ul>
     </div>
     <div class="about-image">
@@ -665,82 +802,190 @@ const productData = {
   headSafety: {
     title: 'Head Protection',
     items: [
-      { name: 'Construction Helmets', desc: 'Heavy-duty hard hats with chin straps' },
-      { name: 'Industrial Hard Hats', desc: 'ANSI/OSHA compliant helmets' },
-      { name: 'Safety Caps', desc: 'Lightweight bump caps for indoor use' },
-      { name: 'Premium Brands', desc: 'Leading manufacturers with multiple models' }
+      {
+        name: 'Karam Safety Helmets',
+        desc: 'Premium helmets with shock absorption, multiple colors, chin straps, OSHA compliant'
+      },
+      {
+        name: 'Udyogi Industrial Caps',
+        desc: 'Lightweight bump caps for construction sites, flexible rim design'
+      },
+      {
+        name: 'Tiger Hard Hats',
+        desc: 'Heavy-duty protection with wide brim, sweatband included, 4-point suspension'
+      },
+      {
+        name: 'Advanced Helmets',
+        desc: 'Auto-adjustment headgear, ventilation ports, integrated LED options'
+      }
     ]
   },
   footSafety: {
     title: 'Foot Protection',
     items: [
-      { name: 'Steel Toe Boots', desc: 'Oil-resistant, construction grade' },
-      { name: 'Puncture-Resistant Shoes', desc: 'Anti-puncture sole protection' },
-      { name: 'Welding Boots', desc: 'Heat-resistant leather boots' },
-      { name: 'Brand Varieties', desc: 'Multiple models and sizes available' }
+      {
+        name: 'Acme Safety Shoes',
+        desc: 'Steel toe, anti-slip sole, oil-resistant PU midsole, cushioned insole for all-day comfort'
+      },
+      {
+        name: 'Karam Safety Shoes',
+        desc: 'Lightweight composite toe, water-resistant, electrical hazard rated'
+      },
+      {
+        name: 'Tiger Safety Boots',
+        desc: 'High ankle support, puncture-resistant steel sole, heat-resistant for welding sites'
+      },
+      {
+        name: 'Malcolm Protective Footwear',
+        desc: 'Breathable mesh linings, shock-absorbing heel, steel toe certified'
+      }
     ]
   },
   bodyProtection: {
     title: 'Body Protection',
     items: [
-      { name: 'Safety Jackets', desc: 'High-visibility with reflective strips' },
-      { name: 'Work Vests', desc: 'Protective vests with pockets' },
-      { name: 'Heat-Resistant Aprons', desc: 'Leather aprons for hot work' },
-      { name: 'Protective Clothing', desc: 'Complete range of body protection' }
+      {
+        name: 'Udyogi Safety Jackets',
+        desc: 'High-visibility with reflective strips, multiple pockets, heavy-duty canvas'
+      },
+      {
+        name: 'Karam Protective Vests',
+        desc: 'Tool storage pockets, comfort fit design, various sizes available'
+      },
+      {
+        name: 'Welding Aprons',
+        desc: 'Leather construction, heat-resistant, full front protection for hot work'
+      },
+      {
+        name: 'Industrial Dungarees',
+        desc: 'Heavy-duty fabric, multiple pockets, reinforced seams for durability'
+      }
     ]
   },
   handProtection: {
     title: 'Hand Protection',
     items: [
-      { name: 'Leather Work Gloves', desc: 'Premium leather for general handling' },
-      { name: 'Cotton Gloves', desc: 'Lightweight basic protection' },
-      { name: 'Nitrile Gloves', desc: 'Chemical-resistant gloves' },
-      { name: 'Welding Gloves', desc: 'Heat-resistant welding gloves' }
+      {
+        name: 'Leather Work Gloves',
+        desc: 'Premium quality, flexible fit, suitable for general handling and construction'
+      },
+      {
+        name: 'Cotton Jersey Gloves',
+        desc: 'Lightweight, breathable, economical protection for light work'
+      },
+      {
+        name: 'Nitrile Coated Gloves',
+        desc: 'Chemical-resistant, oil-resistant, enhanced grip in wet conditions'
+      },
+      {
+        name: 'Welding Gloves',
+        desc: 'Heavy leather reinforced, heat-resistant up to 200°C, cuff protection'
+      }
     ]
   },
   eyeProtection: {
     title: 'Eye Protection',
     items: [
-      { name: 'Clear Safety Glasses', desc: 'UV-protected for general use' },
-      { name: 'Tinted Glasses', desc: 'Dark-tinted for outdoor work' },
-      { name: 'Welding Goggles', desc: 'Special dark filters' },
-      { name: 'Anti-Scratch Eyewear', desc: 'Anti-fog and anti-scratch coatings' }
+      {
+        name: 'Clear Safety Glasses',
+        desc: 'Polycarbonate lenses, 100% UV protection, scratch-resistant coating'
+      },
+      {
+        name: 'Tinted Welding Goggles',
+        desc: 'Dark shade #5-14, flexible headband, impact-resistant lens'
+      },
+      {
+        name: 'Safety Spectacles',
+        desc: 'Anti-fog coating, prescription-compatible frames, ANSI Z87.1 certified'
+      },
+      {
+        name: 'Chemical Splash Goggles',
+        desc: 'Indirect ventilation, sealed protection, elastic headband'
+      }
     ]
   },
   respiratory: {
     title: 'Respiratory Protection',
     items: [
-      { name: 'N95 Masks', desc: 'Dust and particle protection' },
-      { name: 'Gas Masks', desc: 'Full-face respirators' },
-      { name: 'Cartridge Filters', desc: 'Various hazard protection' },
-      { name: 'Certified Equipment', desc: 'International standards' }
+      {
+        name: 'N95 Face Masks',
+        desc: 'Particle filtration, elastic ear loops, latex-free, box of 50/100'
+      },
+      {
+        name: 'Reusable Respirators',
+        desc: 'Multi-cartridge system, comfortable fit, washable silicone mask'
+      },
+      {
+        name: 'Cartridge Filters',
+        desc: 'Multiple hazard types - organic vapor, acid gas, particulate'
+      },
+      {
+        name: 'Full-Face Respirators',
+        desc: 'Wide-view lens, dual-cartridge system, suitable for heavy exposure'
+      }
     ]
   },
   welding: {
     title: 'Welding Products',
     items: [
-      { name: 'Welding Masks', desc: 'Auto-darkening and fixed-shade' },
-      { name: 'Welding Gloves', desc: 'High-temperature rated' },
-      { name: 'Welding Aprons', desc: 'Heavy leather protection' },
-      { name: 'Welding Accessories', desc: 'Tips, nozzles and holders' }
+      {
+        name: 'Auto-Darkening Masks',
+        desc: 'Sensor-based shade adjustment, 4-arc sensors, rapid response time'
+      },
+      {
+        name: 'Welding Gloves',
+        desc: 'Heavy leather, heat-resistant, elastic cuff, durable stitching'
+      },
+      {
+        name: 'Welding Aprons',
+        desc: 'Split leather, full coverage, reinforced with heat-resistant thread'
+      },
+      {
+        name: 'Welding Accessories',
+        desc: 'Torch tips, nozzles, consumables, cleaning wire brushes'
+      }
     ]
   },
   fireSafety: {
     title: 'Fire Safety',
     items: [
-      { name: 'Dry Powder Extinguishers', desc: 'ABC-rated general use' },
-      { name: 'CO2 Extinguishers', desc: 'For electrical fires' },
-      { name: 'Water Extinguishers', desc: 'Class A fires' },
-      { name: 'Maintenance & Refill', desc: 'Professional servicing available' }
+      {
+        name: 'Omex ABC Extinguishers',
+        desc: 'Dry powder, multi-purpose, 1kg-6kg variants, pressure gauge included'
+      },
+      {
+        name: 'Omex CO2 Extinguishers',
+        desc: 'For electrical & Class B fires, 2kg-5kg sizes, clean agent technology'
+      },
+      {
+        name: 'Water Spray Extinguishers',
+        desc: 'Pressurized water, Class A fires, 9L capacity, pull-pin operation'
+      },
+      {
+        name: 'Fire Safety Services',
+        desc: 'Annual maintenance, hydrostatic testing, certification & compliance'
+      }
     ]
   },
   fallProtection: {
     title: 'Fall Protection',
     items: [
-      { name: 'Safety Harnesses', desc: 'Full-body harnesses' },
-      { name: 'Lanyards & Straps', desc: 'Shock-absorbing equipment' },
-      { name: 'Anchor Points', desc: 'Installation guidance' },
-      { name: 'Expert Consultation', desc: 'Professional installation' }
+      {
+        name: 'Full-Body Safety Harnesses',
+        desc: 'D-ring attachment, adjustable straps, high-visibility webbing'
+      },
+      {
+        name: 'Shock-Absorbing Lanyards',
+        desc: 'Automatic extension, impact energy absorption, karabiner attachment'
+      },
+      {
+        name: 'Rope Access Systems',
+        desc: 'Static rope, carabiners, edge protection, certified equipment'
+      },
+      {
+        name: 'Anchor Point Installation',
+        desc: 'Professional consultation, site assessment, proper anchor placement'
+      }
     ]
   }
 };
