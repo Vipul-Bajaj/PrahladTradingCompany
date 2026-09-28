@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prahlad Trading Company - Industrial Safety Equipment Supplier</title>
+  <meta name="description" content="Prahlad Trading Company - Premium safety equipment and protective gear supplier in Raipur. Authorized distributor of leading safety brands for over 20 years.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75' fill='%23c85a3a'>⛑️</text></svg>">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #faf8f3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; color: #3d3d39; line-height: 1.6; }
+
+    .header {
+      background: linear-gradient(135deg, #c85a3a 0%, #d97548 100%);
+      padding: 1.5rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 2px 8px rgba(200, 90, 58, 0.1);
+    }
+
+    .logo {
+      font-size: 20px;
+      font-weight: 600;
+      color: white;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      letter-spacing: -0.3px;
+    }
+
+    .nav {
+      display: flex;
+      gap: 2.5rem;
+      list-style: none;
+    }
+
+    .nav a {
+      text-decoration: none;
+      color: rgba(255,255,255,0.9);
+      font-size: 14px;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+
+    .nav a:hover { color: #fff; }
+
+    .hero {
+      background: linear-gradient(135deg, #d97548 0%, #e8a570 100%);
+      padding: 3.5rem 2rem;
+      text-align: center;
+      color: white;
+      border-bottom: 3px solid #c85a3a;
+    }
+
+    .hero h1 {
+      font-size: 36px;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      letter-spacing: -0.5px;
+    }
+
+    .hero p {
+      font-size: 16px;
+      opacity: 0.95;
+      max-width: 700px;
+      margin: 0 auto 1.5rem;
+    }
+
+    .cta-buttons {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 11px 24px;
+      border: 2px solid white;
+      border-radius: 6px;
+      background: transparent;
+      color: white;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+
+    .btn:hover {
+      background: white;
+      color: #c85a3a;
+      transform: translateY(-2px);
+    }
+
+    .btn-primary {
+      background: white;
+      color: #c85a3a;
+      border-color: white;
+    }
+
+    .btn-primary:hover {
+      background: #faf8f3;
+      color: #c85a3a;
+    }
+
+    .trust-section {
+      background: white;
+      padding: 2.5rem 2rem;
+      border-top: 2px solid #c85a3a;
+      border-bottom: 1px solid #e8e3d8;
+    }
+
+    .trust-content {
+      max-width: 1000px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 2rem;
+      text-align: center;
+    }
+
+    .stat {
+      padding: 1rem;
+    }
+
+    .stat-number {
+      font-size: 32px;
+      font-weight: 700;
+      color: #c85a3a;
+      margin-bottom: 0.5rem;
+    }
+
+    .stat-label {
+      font-size: 14px;
+      color: #7a7a76;
+      font-weight: 500;
+    }
+
+    .categories-section {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+
+    .section-title {
+      font-size: 28px;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #3d3d39;
+    }
+
+    .section-subtitle {
+      font-size: 14px;
+      color: #7a7a76;
+      margin-bottom: 2rem;
+    }
+
+    .categories-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .category-card {
+      background: white;
+      border: 1px solid #e8e3d8;
+      border-radius: 10px;
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .category-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, #c85a3a, #d97548);
+    }
+
+    .category-card:hover {
+      border-color: #d97548;
+      box-shadow: 0 6px 16px rgba(200, 90, 58, 0.08);
+      transform: translateY(-3px);
+    }
+
+    .category-icon {
+      font-size: 40px;
+      margin-bottom: 1rem;
+      height: 50px;
+      display: flex;
+      align-items: center;
+    }
+
+    .category-name {
+      font-size: 16px;
+      font-weight: 600;
+      color: #3d3d39;
+      margin-bottom: 0.5rem;
+    }
+
+    .category-desc {
+      font-size: 13px;
+      color: #7a7a76;
+      margin-bottom: 1rem;
+    }
+
+    .category-arrow {
+      color: #c85a3a;
+      font-weight: 600;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.4);
+      z-index: 100;
+      overflow-y: auto;
+      padding: 2rem;
+    }
+
+    .modal-overlay.active {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-content {
+      background: white;
+      border-radius: 12px;
+      padding: 2.5rem;
+      max-width: 800px;
+      width: 100%;
+      max-height: 85vh;
+      overflow-y: auto;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+      animation: slideInModal 0.3s ease;
+    }
+
+    @keyframes slideInModal {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 1.5rem;
+    }
+
+    .modal-title {
+      font-size: 22px;
+      font-weight: 600;
+      color: #c85a3a;
+      line-height: 1.4;
+      flex: 1;
+    }
+
+    .close-btn {
+      background: none;
+      border: none;
+      font-size: 28px;
+      color: #c8c8c4;
+      cursor: pointer;
+      padding: 0;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: color 0.2s;
+    }
+
+    .close-btn:hover {
+      color: #3d3d39;
+    }
+
+    .details-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .detail-item {
+      background: #faf8f3;
+      padding: 1.25rem;
+      border-radius: 8px;
+      border-left: 3px solid #d97548;
+    }
+
+    .detail-item h4 {
+      font-size: 13px;
+      font-weight: 700;
+      color: #c85a3a;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 0.75rem;
+    }
+
+    .detail-item p {
+      font-size: 13px;
+      color: #6a6a66;
+      line-height: 1.6;
+    }
+
+    .about-section {
+      background: white;
+      padding: 3rem 2rem;
+      border-top: 1px solid #e8e3d8;
+    }
+
+    .about-content {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    .about-content p {
+      font-size: 14px;
+      color: #6a6a66;
+      margin-bottom: 1rem;
+      line-height: 1.8;
+    }
+
+    .contact-section {
+      background: linear-gradient(135deg, #d97548 0%, #e8a570 100%);
+      padding: 3rem 2rem;
+      text-align: center;
+      color: white;
+    }
+
+    .contact-content {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    .contact-content h2 {
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 2rem;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 2rem;
+    }
+
+    .contact-item {
+      background: rgba(255,255,255,0.15);
+      backdrop-filter: blur(10px);
+      padding: 1.5rem;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.25);
+    }
+
+    .contact-item h4 {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .contact-item p {
+      font-size: 14px;
+      opacity: 0.95;
+    }
+
+    .contact-item a {
+      color: white;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .contact-item a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      background: #3d3d39;
+      padding: 2rem;
+      text-align: center;
+      font-size: 13px;
+      color: #9a9a96;
+    }
+
+    @media (max-width: 768px) {
+      .header { padding: 1rem; }
+      .nav { gap: 1.5rem; font-size: 12px; }
+      .hero h1 { font-size: 28px; }
+      .categories-grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+      .modal-content { padding: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">
+    <span style="font-size: 24px;">⛑️</span>
+    <span>Prahlad Trading Company</span>
+  </div>
+  <ul class="nav">
+    <li><a href="#categories">Products</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</div>
+
+<div class="hero">
+  <h1>Industrial Safety Solutions Since 2004</h1>
+  <p>Prahlad Trading Company - Your trusted supplier of premium safety equipment and protective gear. Authorized distributor of leading safety brands serving Raipur for over 20 years.</p>
+  <div class="cta-buttons">
+    <a href="#categories" class="btn btn-primary">Explore Products</a>
+    <a href="#contact" class="btn">Get in Touch</a>
+  </div>
+</div>
+
+<div class="trust-section">
+  <div class="trust-content">
+    <div class="stat">
+      <div class="stat-number">20+</div>
+      <div class="stat-label">Years in Business</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">50+</div>
+      <div class="stat-label">Trusted Brands</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">10k+</div>
+      <div class="stat-label">Satisfied Customers</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">100%</div>
+      <div class="stat-label">Authentic Products</div>
+    </div>
+  </div>
+</div>
+
+<div class="categories-section" id="categories">
+  <h2 class="section-title">Our Product Categories</h2>
+  <p class="section-subtitle">Click on any category to explore our range and featured brands</p>
+
+  <div class="categories-grid">
+    <div class="category-card" onclick="showModal('headSafety')">
+      <div class="category-icon">⛑️</div>
+      <div class="category-name">Head Protection</div>
+      <div class="category-desc">Safety helmets and hard hats for various industries</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('footSafety')">
+      <div class="category-icon">👢</div>
+      <div class="category-name">Foot Protection</div>
+      <div class="category-desc">Safety shoes and boots with steel toe and puncture resistance</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('bodyProtection')">
+      <div class="category-icon">🦺</div>
+      <div class="category-name">Body Protection</div>
+      <div class="category-desc">Safety jackets, vests, and protective clothing</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('handProtection')">
+      <div class="category-icon">🧤</div>
+      <div class="category-name">Hand Protection</div>
+      <div class="category-desc">Work gloves for different industrial applications</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('eyeProtection')">
+      <div class="category-icon">👓</div>
+      <div class="category-name">Eye Protection</div>
+      <div class="category-desc">Safety glasses and protective eyewear</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('respiratoryProtection')">
+      <div class="category-icon">🫁</div>
+      <div class="category-name">Respiratory Protection</div>
+      <div class="category-desc">Respirators, masks, and breathing equipment</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('welding')">
+      <div class="category-icon">🔥</div>
+      <div class="category-name">Welding Products</div>
+      <div class="category-desc">Welding masks, aprons, gloves, and accessories</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('fireSafety')">
+      <div class="category-icon">🧯</div>
+      <div class="category-name">Fire Safety</div>
+      <div class="category-desc">Fire extinguishers and fire protection equipment</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+
+    <div class="category-card" onclick="showModal('fallProtection')">
+      <div class="category-icon">⛓️</div>
+      <div class="category-name">Fall Protection</div>
+      <div class="category-desc">Harnesses, lanyards, and climbing equipment</div>
+      <div class="category-arrow">→ View Details</div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="modalOverlay" onclick="closeModal(event)">
+  <div class="modal-content" onclick="event.stopPropagation()">
+    <div class="modal-header">
+      <div class="modal-title" id="modalTitle"></div>
+      <button class="close-btn" onclick="closeModal()">✕</button>
+    </div>
+    <div class="details-grid" id="modalDetails"></div>
+  </div>
+</div>
+
+<div class="about-section" id="about">
+  <div class="about-content">
+    <h2 class="section-title">About Prahlad Trading Company</h2>
+    <p>Prahlad Trading Company is a leading distributor of industrial safety equipment and personal protective equipment (PPE) in Raipur and surrounding regions. With over 20 years of experience serving the industrial community, we have built a reputation for providing authentic, certified safety products from trusted manufacturers.</p>
+    <p>Founded and led by Bipin Agrawal, our company is an authorized dealer for numerous leading safety brands. We specialize in a comprehensive range of products including safety helmets, safety shoes, harnesses, welding products, and fire safety equipment. Our commitment to quality and customer satisfaction has made us a trusted partner for factories, construction sites, workshops, and industrial facilities across the region.</p>
+    <p>Every product we supply is 100% authentic and meets international safety standards. We believe that safety is not just a regulatory requirement—it's a responsibility we take seriously to protect workers and contribute to safer workplaces.</p>
+  </div>
+</div>
+
+<div class="contact-section" id="contact">
+  <div class="contact-content">
+    <h2>Get in Touch with Us</h2>
+    <div class="contact-grid">
+      <div class="contact-item">
+        <h4>📞 Call Us</h4>
+        <p><a href="tel:08109047714">08109047714</a></p>
+      </div>
+      <div class="contact-item">
+        <h4>✉️ Email</h4>
+        <p><a href="mailto:prahladtrading@yahoo.co.in">prahladtrading@yahoo.co.in</a></p>
+      </div>
+      <div class="contact-item">
+        <h4>🕐 Business Hours</h4>
+        <p>Monday - Saturday<br>10:30 AM - 7:30 PM</p>
+      </div>
+      <div class="contact-item">
+        <h4>📍 Location</h4>
+        <p>Raipur, Chhattisgarh<br>India</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  © 2024 Prahlad Trading Company. Premium Industrial Safety Supplier. All rights reserved.
+</div>
+
+<script>
+const categoryDetails = {
+  headSafety: {
+    title: 'Head Protection - Safety Helmets & Hard Hats',
+    items: [
+      { category: 'Construction Helmets', details: 'Heavy-duty hard hats with chin straps, available in multiple colors' },
+      { category: 'Industrial Hard Hats', details: 'ANSI/OSHA compliant, impact resistant helmets for factory and warehouse use' },
+      { category: 'Safety Caps', details: 'Lightweight bump caps for indoor use and light-duty applications' },
+      { category: 'Featured Brands', details: 'Authorized dealers for leading helmet manufacturers with multiple models' }
+    ]
+  },
+  footSafety: {
+    title: 'Foot Protection - Safety Shoes & Boots',
+    items: [
+      { category: 'Steel Toe Boots', details: 'Reinforced steel toe protection, oil-resistant, suitable for construction and industrial sites' },
+      { category: 'Puncture-Resistant Shoes', details: 'Anti-puncture sole with steel plates for warehouse and manufacturing environments' },
+      { category: 'Welding Boots', details: 'Heat-resistant leather boots designed for welding operations' },
+      { category: 'Brand Varieties', details: 'Authorized stockist of premium safety footwear brands with multiple models and sizes' }
+    ]
+  },
+  bodyProtection: {
+    title: 'Body Protection - Jackets & Vests',
+    items: [
+      { category: 'Safety Jackets', details: 'High-visibility orange/red jackets with reflective strips for factory and field work' },
+      { category: 'Work Vests', details: 'Protective vests with multiple pockets for tools and equipment' },
+      { category: 'Heat-Resistant Aprons', details: 'Leather aprons for welding and hot work environments' },
+      { category: 'Full Range', details: 'Complete selection of protective clothing for various industrial applications' }
+    ]
+  },
+  handProtection: {
+    title: 'Hand Protection - Work Gloves',
+    items: [
+      { category: 'Leather Work Gloves', details: 'Premium leather for general purpose handling and construction work' },
+      { category: 'Cotton Gloves', details: 'Lightweight cotton gloves for basic protection and light handling' },
+      { category: 'Nitrile Gloves', details: 'Chemical-resistant nitrile gloves for hazardous material handling' },
+      { category: 'Welding Gloves', details: 'Heavy-duty heat-resistant gloves specifically designed for welding' }
+    ]
+  },
+  eyeProtection: {
+    title: 'Eye Protection - Safety Glasses',
+    items: [
+      { category: 'Clear Safety Glasses', details: 'UV-protected lenses for general factory and workshop use' },
+      { category: 'Tinted Glasses', details: 'Dark-tinted glasses for outdoor work and bright light conditions' },
+      { category: 'Welding Goggles', details: 'Special dark filters for protection during welding operations' },
+      { category: 'Anti-Scratch Coatings', details: 'Durable eyewear with anti-fog and anti-scratch protective coatings' }
+    ]
+  },
+  respiratoryProtection: {
+    title: 'Respiratory Protection - Masks & Respirators',
+    items: [
+      { category: 'N95 Masks', details: 'Particulate masks for dust and particle protection' },
+      { category: 'Gas Masks', details: 'Full-face respirators for chemical and gas hazard protection' },
+      { category: 'Cartridge Filters', details: 'Replacement cartridges for various respiratory hazards' },
+      { category: 'Compliance & Certification', details: 'All respirators meet international safety standards and certifications' }
+    ]
+  },
+  welding: {
+    title: 'Welding Products & Accessories',
+    items: [
+      { category: 'Welding Masks', details: 'Auto-darkening and fixed-shade welding masks with UV/IR protection' },
+      { category: 'Welding Gloves', details: 'Heat-resistant gloves rated for high-temperature welding work' },
+      { category: 'Welding Aprons', details: 'Heavy leather aprons to protect clothing and body from sparks' },
+      { category: 'Accessories', details: 'Torch tips, nozzles, electrode holders, and other welding consumables' }
+    ]
+  },
+  fireSafety: {
+    title: 'Fire Safety Equipment',
+    items: [
+      { category: 'Dry Powder Extinguishers', details: 'ABC-rated extinguishers for general fire suppression' },
+      { category: 'CO2 Extinguishers', details: 'Non-residue extinguishers suitable for electrical fires' },
+      { category: 'Water Extinguishers', details: 'Water-based extinguishers for Class A fires' },
+      { category: 'Maintenance & Refill', details: 'Professional servicing and refill services available for all fire extinguishers' }
+    ]
+  },
+  fallProtection: {
+    title: 'Fall Protection Systems',
+    items: [
+      { category: 'Safety Harnesses', details: 'Full-body harnesses for working at heights with secure attachment points' },
+      { category: 'Lanyards & Straps', details: 'Shock-absorbing lanyards and connecting straps for fall arrest' },
+      { category: 'Anchor Points', details: 'Equipment and installation guidance for secure anchor points' },
+      { category: 'Professional Installation', details: 'Expert consultation and installation for complex fall protection systems' }
+    ]
+  }
+};
+
+function showModal(category) {
+  const details = categoryDetails[category];
+  const modal = document.getElementById('modalOverlay');
+  const title = document.getElementById('modalTitle');
+  const detailsContainer = document.getElementById('modalDetails');
+  
+  title.textContent = details.title;
+  
+  let itemsHTML = details.items.map(item => `
+    <div class="detail-item">
+      <h4>${item.category}</h4>
+      <p>${item.details}</p>
+    </div>
+  `).join('');
+
+  detailsContainer.innerHTML = itemsHTML;
+  modal.classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal(event) {
+  if (event && event.target.id !== 'modalOverlay') return;
+  
+  const modal = document.getElementById('modalOverlay');
+  modal.classList.remove('active');
+  document.body.style.overflow = 'auto';
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeModal();
+});
+</script>
+
+</body>
+</html>
