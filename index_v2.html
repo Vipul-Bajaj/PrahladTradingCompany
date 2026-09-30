@@ -1,0 +1,1078 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prahlad Trading - Industrial Safety Solutions</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --color-primary: #d97757;
+      --color-primary-dark: #c2633e;
+      --color-text-dark: #1f2937;
+      --color-text-light: #6b7280;
+      --color-text-lighter: #9ca3af;
+      --color-bg-light: #fef5f0;
+      --color-bg-lighter: #fffbf7;
+      --color-border: #f2d9cf;
+      --color-white: #ffffff;
+      --color-success: #16a34a;
+      --color-dark-bg: #1a1a1a;
+
+      --space-xs: 8px;
+      --space-s: 16px;
+      --space-m: 24px;
+      --space-l: 32px;
+      --space-xl: 48px;
+      --space-2xl: 64px;
+
+      --radius-sm: 2px;
+      --radius-md: 4px;
+      --radius-lg: 8px;
+
+      --font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      --transition: all 0.3s ease;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      color: var(--color-text-dark);
+      background: var(--color-white);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* Typography */
+    h1 {
+      font-size: 48px;
+      font-weight: 700;
+      line-height: 1.2;
+      letter-spacing: -0.5px;
+      margin-bottom: var(--space-m);
+    }
+
+    h2 {
+      font-size: 36px;
+      font-weight: 600;
+      line-height: 1.3;
+      margin-bottom: var(--space-s);
+    }
+
+    h3 {
+      font-size: 24px;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+
+    h4 {
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+
+    p {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 1.6;
+      color: var(--color-text-light);
+    }
+
+    .text-large {
+      font-size: 16px;
+    }
+
+    .text-small {
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    /* Buttons */
+    button, .btn {
+      font-family: var(--font-family);
+      border: none;
+      border-radius: var(--radius-md);
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      padding: 12px 32px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+
+    .btn-primary {
+      background: var(--color-primary);
+      color: var(--color-white);
+    }
+
+    .btn-primary:hover {
+      background: var(--color-primary-dark);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+    }
+
+    .btn-secondary {
+      background: var(--color-white);
+      color: var(--color-primary);
+      border: 2px solid var(--color-primary);
+    }
+
+    .btn-secondary:hover {
+      background: var(--color-primary);
+      color: var(--color-white);
+      transform: translateY(-2px);
+    }
+
+    .btn-tertiary {
+      background: transparent;
+      color: var(--color-primary);
+      padding: 0;
+    }
+
+    .btn-tertiary:hover {
+      color: var(--color-primary-dark);
+    }
+
+    /* Navigation Bar */
+    nav {
+      height: 70px;
+      border-bottom: 1px solid var(--color-border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 var(--space-xl);
+      background: var(--color-white);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    .nav-logo {
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--color-text-dark);
+    }
+
+    .nav-menu {
+      display: flex;
+      gap: var(--space-l);
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--color-text-light);
+    }
+
+    .nav-menu a {
+      text-decoration: none;
+      color: var(--color-text-light);
+      transition: var(--transition);
+      cursor: pointer;
+    }
+
+    .nav-menu a:hover {
+      color: var(--color-primary);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        flex-direction: column;
+        height: auto;
+        padding: var(--space-s) var(--space-m);
+        gap: var(--space-m);
+      }
+
+      .nav-menu {
+        flex-direction: column;
+        gap: var(--space-s);
+      }
+    }
+
+    /* Hero Section */
+    .hero {
+      min-height: 400px;
+      background: linear-gradient(180deg, var(--color-bg-light) 0%, var(--color-white) 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: var(--space-2xl) var(--space-xl);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 4px;
+      height: 100%;
+      background: var(--color-primary);
+    }
+
+    .hero-content {
+      max-width: 700px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      margin-bottom: var(--space-m);
+    }
+
+    .hero p {
+      font-size: 16px;
+      margin-bottom: var(--space-l);
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: var(--space-s);
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        min-height: 300px;
+        padding: var(--space-xl) var(--space-m);
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+      }
+
+      button, .btn {
+        width: 100%;
+      }
+    }
+
+    /* Stats Section */
+    .stats {
+      background: var(--color-bg-light);
+      padding: var(--space-l);
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0;
+      border-top: 1px solid var(--color-border);
+    }
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: var(--space-l);
+      border-right: 1px solid var(--color-border);
+    }
+
+    .stat-item:last-child {
+      border-right: none;
+    }
+
+    .stat-number {
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: var(--space-xs);
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: var(--color-text-light);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    @media (max-width: 768px) {
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .stat-item {
+        border-right: 1px solid var(--color-border);
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .stat-item:nth-child(odd) {
+        border-right: none;
+      }
+
+      .stat-item:last-child,
+      .stat-item:nth-last-child(2) {
+        border-bottom: none;
+      }
+    }
+
+    /* Section */
+    .section {
+      padding: var(--space-2xl) var(--space-xl);
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: var(--space-2xl);
+    }
+
+    .section-header h2 {
+      margin-bottom: var(--space-s);
+    }
+
+    .section-header p {
+      color: var(--color-text-light);
+    }
+
+    /* Product Categories Grid */
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-l);
+      margin-bottom: var(--space-2xl);
+    }
+
+    .product-card {
+      background: var(--color-white);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    .product-card:hover {
+      border-color: var(--color-primary);
+      box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
+      transform: translateY(-4px);
+    }
+
+    .product-card-image {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      background: var(--color-bg-light);
+    }
+
+    .product-card-content {
+      padding: var(--space-m);
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .product-card h3 {
+      font-size: 16px;
+      margin-bottom: var(--space-s);
+      color: var(--color-text-dark);
+    }
+
+    .product-card p {
+      flex: 1;
+      font-size: 13px;
+      margin-bottom: var(--space-m);
+    }
+
+    .product-card-link {
+      color: var(--color-primary);
+      font-size: 13px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: var(--transition);
+      cursor: pointer;
+    }
+
+    .product-card-link:hover {
+      color: var(--color-primary-dark);
+      transform: translateX(4px);
+      display: inline-block;
+    }
+
+    @media (max-width: 768px) {
+      .product-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: var(--space-m);
+      }
+
+      .product-card-image {
+        height: 150px;
+      }
+    }
+
+    /* Brands Section */
+    .brands-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: var(--space-l);
+    }
+
+    .brand-card {
+      background: var(--color-white);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      padding: var(--space-l);
+      text-align: center;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: var(--space-m);
+    }
+
+    .brand-card:hover {
+      border-color: var(--color-primary);
+      box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
+    }
+
+    .brand-logo {
+      width: 100%;
+      height: 100px;
+      background: linear-gradient(135deg, var(--color-primary) 0%, #1d4ed8 100%);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--color-white);
+      letter-spacing: 1px;
+    }
+
+    .brand-card h4 {
+      font-size: 14px;
+    }
+
+    .brand-description {
+      font-size: 11px;
+      color: var(--color-text-lighter);
+    }
+
+    @media (max-width: 768px) {
+      .brands-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      }
+    }
+
+    /* How We Work Section */
+    .how-we-work {
+      background: var(--color-bg-lighter);
+    }
+
+    .steps-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-l);
+    }
+
+    .step-card {
+      text-align: center;
+      padding: var(--space-l);
+    }
+
+    .step-number {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: var(--color-primary);
+      color: var(--color-white);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      font-weight: 700;
+      margin: 0 auto var(--space-m);
+    }
+
+    .step-card h3 {
+      font-size: 18px;
+      margin-bottom: var(--space-s);
+    }
+
+    .step-card p {
+      font-size: 13px;
+    }
+
+    /* Company Info Section */
+    .company-info {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-2xl);
+      align-items: center;
+    }
+
+    .company-text h3 {
+      margin-bottom: var(--space-m);
+    }
+
+    .company-text p {
+      margin-bottom: var(--space-m);
+    }
+
+    .features-list {
+      list-style: none;
+    }
+
+    .features-list li {
+      padding: var(--space-s) 0;
+      padding-left: var(--space-m);
+      position: relative;
+      font-size: 14px;
+      color: var(--color-text-light);
+    }
+
+    .features-list li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: var(--color-success);
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    @media (max-width: 768px) {
+      .company-info {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Contact Section */
+    .contact-section {
+      background: var(--color-dark-bg);
+      color: var(--color-white);
+      padding: var(--space-2xl) var(--space-xl);
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: var(--space-l);
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+
+    .contact-item h4 {
+      color: var(--color-white);
+      margin-bottom: var(--space-s);
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .contact-item p {
+      color: #d1d5db;
+      font-size: 14px;
+      margin: 0;
+    }
+
+    /* Footer */
+    footer {
+      background: #0f172a;
+      color: #cbd5e1;
+      padding: var(--space-l) var(--space-xl);
+      text-align: center;
+      font-size: 12px;
+    }
+
+    .footer-content {
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: var(--space-l);
+      justify-content: center;
+      margin-bottom: var(--space-m);
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      text-decoration: none;
+      color: #cbd5e1;
+      transition: var(--transition);
+    }
+
+    .footer-links a:hover {
+      color: var(--color-primary);
+    }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 200;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      animation: fadeIn 0.3s ease;
+    }
+
+    .modal.active {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-content {
+      background-color: var(--color-white);
+      padding: var(--space-2xl);
+      border-radius: var(--radius-lg);
+      max-width: 600px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+      animation: slideIn 0.3s ease;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: var(--space-l);
+      padding-bottom: var(--space-l);
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .modal-header h2 {
+      margin: 0;
+    }
+
+    .close-btn {
+      background: none;
+      border: none;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+      color: var(--color-text-light);
+      padding: 0;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: var(--transition);
+    }
+
+    .close-btn:hover {
+      color: var(--color-text-dark);
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes slideIn {
+      from {
+        transform: translateY(-50px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    /* Utility Classes */
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 var(--space-m);
+    }
+
+    @media (max-width: 640px) {
+      .section {
+        padding: var(--space-l) var(--space-m);
+      }
+
+      h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 24px;
+      }
+
+      h3 {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav>
+    <div class="nav-logo">Prahlad Trading</div>
+    <div class="nav-menu">
+      <a href="#products">Products</a>
+      <a href="#brands">Brands</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <button class="btn btn-primary">Get Started</button>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Industrial Safety Solutions for Raipur Industries</h1>
+      <p>Authorized dealer of India's leading safety brands. 20+ years of trusted service. Expert guidance for all industries.</p>
+      <div class="hero-buttons">
+        <button class="btn btn-primary" onclick="scrollToSection('products')">Browse Products</button>
+        <button class="btn btn-secondary" onclick="openModal('contactModal')">Contact Us</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats Section -->
+  <section class="stats">
+    <div class="stat-item">
+      <div class="stat-number">20+</div>
+      <div class="stat-label">Years</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">10k+</div>
+      <div class="stat-label">Clients</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">5</div>
+      <div class="stat-label">Brands</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">100%</div>
+      <div class="stat-label">Authentic</div>
+    </div>
+  </section>
+
+  <!-- Product Categories Section -->
+  <section class="section" id="products">
+    <div class="section-header">
+      <h2>Our Product Categories</h2>
+      <p>Click to explore our comprehensive range of safety solutions</p>
+    </div>
+    <div class="product-grid">
+      <div class="product-card" onclick="openModal('productModal', 'Head Protection', 'Safety helmets and hard hats for all industrial environments')">
+        <img src="assets/images/head-protection.jpg" alt="Safety Helmet" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Head Protection</h3>
+          <p>Safety helmets and hard hats</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Foot Protection', 'Safety shoes and boots with certified protection')">
+        <img src="assets/images/foot-protection.jpg" alt="Safety Shoes" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Foot Protection</h3>
+          <p>Safety shoes and boots</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Body Protection', 'Jackets, vests, and aprons for comprehensive coverage')">
+        <img src="assets/images/body-protection.jpg" alt="Safety Vest" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Body Protection</h3>
+          <p>Jackets, vests, and aprons</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Hand Protection', 'Work gloves for all applications and materials')">
+        <img src="assets/images/hand-protection.jpg" alt="Work Gloves" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Hand Protection</h3>
+          <p>Work gloves for all applications</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Eye Protection', 'Safety glasses and eyewear for clear vision')">
+        <img src="assets/images/eye-protection.jpg" alt="Safety Glasses" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Eye Protection</h3>
+          <p>Safety glasses and eyewear</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Welding Products', 'Complete welding safety equipment and protective gear')">
+        <img src="assets/images/welding-products.jpg" alt="Welding Equipment" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Welding Products</h3>
+          <p>Complete welding safety</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Fire Safety', 'Fire extinguishers and emergency equipment')">
+        <img src="assets/images/fire-safety.jpg" alt="Fire Extinguisher" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Fire Safety</h3>
+          <p>Extinguishers and equipment</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Respiratory Protection', 'Masks and respirators for hazardous environments')">
+        <img src="assets/images/respiratory-protection.jpg" alt="Face Mask" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Respiratory Protection</h3>
+          <p>Masks and respirators</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Fall Protection', 'Harnesses and safety systems for heights')">
+        <img src="assets/images/fall-protection.jpg" alt="Safety Harness" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Fall Protection</h3>
+          <p>Harnesses and safety systems</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Brands Section -->
+  <section class="section" id="brands">
+    <div class="section-header">
+      <h2>Our Authorized Brands</h2>
+      <p>We partner with India's leading safety equipment manufacturers</p>
+    </div>
+    <div class="brands-grid">
+      <div class="brand-card">
+        <div class="brand-logo">ACME</div>
+        <h4>Acme Universal</h4>
+        <p class="brand-description">Safety Shoes</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">KARAM</div>
+        <h4>Karam Industries</h4>
+        <p class="brand-description">PPE Products</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">UDYOGI</div>
+        <h4>Udyogi Safety</h4>
+        <p class="brand-description">Protective Gear</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">MCL</div>
+        <h4>Mallcom</h4>
+        <p class="brand-description">Safety Footwear</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">OMEX</div>
+        <h4>Omex Industries</h4>
+        <p class="brand-description">Fire Safety</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- How We Work Section -->
+  <section class="section how-we-work" id="about">
+    <div class="section-header">
+      <h2>How We Work</h2>
+      <p>Our three-step process ensures you get the right solutions</p>
+    </div>
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-number">1</div>
+        <h3>Safety First</h3>
+        <p>Every product meets international standards and certifications. We prioritize your safety above all else.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">2</div>
+        <h3>Expert Guidance</h3>
+        <p>Our team provides professional consultation to understand your specific safety needs and requirements.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">3</div>
+        <h3>Reliable Service</h3>
+        <p>Fast delivery, competitive pricing, and ongoing support—we're committed to your satisfaction.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Company Info Section -->
+  <section class="section">
+    <div class="company-info">
+      <div class="company-text">
+        <h3>Why Choose Prahlad Trading?</h3>
+        <p>With over 20 years of experience in the industrial safety sector, Prahlad Trading has established itself as a trusted partner for businesses across Raipur and beyond. We specialize in providing authentic, certified safety equipment from India's leading manufacturers.</p>
+        <p>Our commitment to quality, safety, and customer service sets us apart. Every product in our catalog is carefully selected and verified to meet international safety standards.</p>
+      </div>
+      <div>
+        <ul class="features-list">
+          <li>20+ years of industry experience</li>
+          <li>100% authentic products</li>
+          <li>5 authorized brand partnerships</li>
+          <li>International certifications</li>
+          <li>Expert technical support</li>
+          <li>Fast and reliable delivery</li>
+          <li>Competitive pricing</li>
+          <li>Dedicated account management</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="contact-section" id="contact">
+    <div class="contact-grid">
+      <div class="contact-item">
+        <h4>Phone</h4>
+        <p>+91 (0) 731-2345678</p>
+        <p>Mon-Fri 9AM-6PM IST</p>
+      </div>
+      <div class="contact-item">
+        <h4>Email</h4>
+        <p>info@prahladtrading.com</p>
+        <p>support@prahladtrading.com</p>
+      </div>
+      <div class="contact-item">
+        <h4>Office Hours</h4>
+        <p>Monday to Friday</p>
+        <p>9:00 AM - 6:00 PM</p>
+      </div>
+      <div class="contact-item">
+        <h4>Location</h4>
+        <p>Raipur, Chhattisgarh</p>
+        <p>India</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <div class="footer-links">
+        <a href="#products">Products</a>
+        <a href="#brands">Brands</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <p>&copy; 2026 Prahlad Trading Company. All rights reserved. | Industrial Safety Solutions for Raipur Industries</p>
+    </div>
+  </footer>
+
+  <!-- Modals -->
+  <div id="productModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="modalTitle">Product Category</h2>
+        <button class="close-btn" onclick="closeModal('productModal')">&times;</button>
+      </div>
+      <p id="modalDescription"></p>
+      <p style="margin-top: 20px; color: #6b7280;">Our team specializes in this category and can provide expert guidance on product selection, specifications, and pricing. Contact us for a personalized consultation.</p>
+      <button class="btn btn-primary" style="margin-top: 20px; width: 100%;" onclick="openModal('contactModal')">Request More Information</button>
+    </div>
+  </div>
+
+  <div id="contactModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Get in Touch</h2>
+        <button class="close-btn" onclick="closeModal('contactModal')">&times;</button>
+      </div>
+      <form onsubmit="handleFormSubmit(event)">
+        <div style="margin-bottom: 16px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Name</label>
+          <input type="text" required style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family);">
+        </div>
+        <div style="margin-bottom: 16px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Email</label>
+          <input type="email" required style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family);">
+        </div>
+        <div style="margin-bottom: 16px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Phone</label>
+          <input type="tel" required style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family);">
+        </div>
+        <div style="margin-bottom: 20px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Message</label>
+          <textarea required rows="4" style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family); resize: vertical;"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width: 100%;">Send Message</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    function openModal(modalId, title, description) {
+      const modal = document.getElementById(modalId);
+      if (modal) {
+        modal.classList.add('active');
+        if (modalId === 'productModal') {
+          document.getElementById('modalTitle').textContent = title;
+          document.getElementById('modalDescription').textContent = description;
+        }
+      }
+    }
+
+    function closeModal(modalId) {
+      const modal = document.getElementById(modalId);
+      if (modal) {
+        modal.classList.remove('active');
+      }
+    }
+
+    function scrollToSection(sectionId) {
+      const element = document.getElementById(sectionId);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+
+    function handleFormSubmit(event) {
+      event.preventDefault();
+      alert('Thank you for your message! We will get back to you shortly.');
+      event.target.reset();
+      closeModal('contactModal');
+    }
+
+    // Close modal when clicking outside
+    window.addEventListener('click', (event) => {
+      const productModal = document.getElementById('productModal');
+      const contactModal = document.getElementById('contactModal');
+
+      if (event.target === productModal) {
+        closeModal('productModal');
+      }
+      if (event.target === contactModal) {
+        closeModal('contactModal');
+      }
+    });
+
+    // Add smooth scroll behavior for navigation links
+    document.querySelectorAll('.nav-menu a').forEach(link => {
+      link.addEventListener('click', (e) => {
+        const href = link.getAttribute('href');
+        if (href.startsWith('#')) {
+          e.preventDefault();
+          scrollToSection(href.substring(1));
+        }
+      });
+    });
+  </script>
+</body>
+</html>
