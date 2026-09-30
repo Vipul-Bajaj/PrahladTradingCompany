@@ -1,1138 +1,1078 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prahlad Trading Company - Industrial Safety Equipment Supplier | Raipur</title>
-  <meta name="description" content="Prahlad Trading Company - Authorized dealer of Acme, Udyogi, Tiger, Malcolm, Karam safety products. Premium PPE supplier in Raipur serving industries for 20+ years.">
-  <meta name="keywords" content="Safety Equipment, PPE, Industrial Safety, Raipur, Safety Helmets, Safety Shoes, Acme, Udyogi, Tiger, Malcolm, Karam, Welding, Fire Safety, Omex">
+  <title>Prahlad Trading - Industrial Safety Solutions</title>
   <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1a1a1a; line-height: 1.6; }
-
-/* Navigation */
-.navbar {
-  background: #ffffff;
-  border-bottom: 1px solid #e5e5e5;
-  padding: 1rem 2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: sticky;
-  top: 0;
-  z-index: 10;
-}
-
-.navbar-brand {
-  font-size: 18px;
-  font-weight: 600;
-  color: #1a1a1a;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.navbar-brand span { font-size: 24px; }
-
-.navbar-nav {
-  display: flex;
-  list-style: none;
-  gap: 2rem;
-}
-
-.navbar-nav a {
-  text-decoration: none;
-  color: #666;
-  font-size: 13px;
-  font-weight: 500;
-  transition: color 0.3s;
-}
-
-.navbar-nav a:hover { color: #c85a3a; }
-
-/* Hero Banner */
-.hero-banner {
-  width: 100%;
-  height: 400px;
-  background: linear-gradient(135deg, #d97548 0%, #e8a570 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-.hero-content h1 {
-  font-size: 42px;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  letter-spacing: -1px;
-}
-
-.hero-content p {
-  font-size: 18px;
-  opacity: 0.95;
-  max-width: 600px;
-  margin: 0 auto 2rem;
-}
-
-.cta-group {
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-}
-
-.btn-solid {
-  padding: 12px 28px;
-  background: white;
-  color: #c85a3a;
-  border: none;
-  border-radius: 4px;
-  font-size: 14px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.3s;
-}
-
-.btn-solid:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-.btn-outline {
-  padding: 12px 28px;
-  background: transparent;
-  color: white;
-  border: 2px solid white;
-  border-radius: 4px;
-  font-size: 14px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.3s;
-}
-
-.btn-outline:hover {
-  background: white;
-  color: #c85a3a;
-}
-
-/* Stats Section */
-.stats-section {
-  background: #f5f5f5;
-  padding: 3rem 2rem;
-}
-
-.stats-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 2rem;
-  text-align: center;
-}
-
-.stat-item h3 {
-  font-size: 36px;
-  font-weight: 700;
-  color: #c85a3a;
-  margin-bottom: 0.5rem;
-}
-
-.stat-item p {
-  font-size: 14px;
-  color: #666;
-  font-weight: 500;
-}
-
-/* Products Section */
-.products-section {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 3.5rem 2rem;
-}
-
-.section-header {
-  text-align: center;
-  margin-bottom: 2.5rem;
-}
-
-.section-header h2 {
-  font-size: 32px;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  color: #1a1a1a;
-}
-
-.section-header p {
-  font-size: 15px;
-  color: #666;
-}
-
-.products-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1.5rem;
-}
-
-.product-card {
-  background: white;
-  border: 1px solid #e5e5e5;
-  border-radius: 6px;
-  padding: 1.5rem;
-  text-align: center;
-  cursor: pointer;
-  transition: all 0.3s;
-}
-
-.product-card:hover {
-  border-color: #c85a3a;
-  box-shadow: 0 4px 12px rgba(200, 90, 58, 0.1);
-}
-
-.product-icon {
-  font-size: 44px;
-  margin-bottom: 1rem;
-}
-
-.product-card h3 {
-  font-size: 16px;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  color: #1a1a1a;
-}
-
-.product-card p {
-  font-size: 13px;
-  color: #666;
-  line-height: 1.5;
-}
-
-/* About Section */
-.about-section {
-  background: #f5f5f5;
-  padding: 3.5rem 2rem;
-}
-
-.about-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 3rem;
-  align-items: center;
-}
-
-.about-content h2 {
-  font-size: 32px;
-  font-weight: 600;
-  margin-bottom: 1.5rem;
-  color: #1a1a1a;
-}
-
-.about-content p {
-  font-size: 14px;
-  color: #666;
-  margin-bottom: 1rem;
-  line-height: 1.8;
-}
-
-.about-list {
-  list-style: none;
-  margin-top: 1.5rem;
-}
-
-.about-list li {
-  font-size: 14px;
-  color: #666;
-  padding: 0.5rem 0;
-  padding-left: 1.5rem;
-  position: relative;
-}
-
-.about-list li:before {
-  content: '✓';
-  position: absolute;
-  left: 0;
-  color: #c85a3a;
-  font-weight: bold;
-}
-
-.about-image {
-  background: linear-gradient(135deg, #d97548 0%, #e8a570 100%);
-  height: 300px;
-  border-radius: 6px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 64px;
-}
-
-/* Three Steps Section */
-.process-section {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 3.5rem 2rem;
-}
-
-.process-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.process-card {
-  text-align: center;
-}
-
-.process-number {
-  font-size: 48px;
-  font-weight: 700;
-  color: #c85a3a;
-  margin-bottom: 1rem;
-}
-
-.process-card h3 {
-  font-size: 18px;
-  font-weight: 600;
-  margin-bottom: 0.75rem;
-  color: #1a1a1a;
-}
-
-.process-card p {
-  font-size: 13px;
-  color: #666;
-  line-height: 1.6;
-}
-
-/* Contact Section */
-.contact-section {
-  background: #1a1a1a;
-  color: white;
-  padding: 3.5rem 2rem;
-}
-
-.contact-container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.contact-header {
-  text-align: center;
-  margin-bottom: 2.5rem;
-}
-
-.contact-header h2 {
-  font-size: 32px;
-  font-weight: 600;
-  margin-bottom: 1rem;
-}
-
-.contact-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 2rem;
-}
-
-.contact-item {
-  text-align: center;
-}
-
-.contact-item h4 {
-  font-size: 14px;
-  font-weight: 600;
-  margin-bottom: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.contact-item p {
-  font-size: 14px;
-  opacity: 0.9;
-}
-
-.contact-item a {
-  color: #e8a570;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.contact-item a:hover {
-  text-decoration: underline;
-}
-
-/* Footer */
-.footer {
-  background: #0d0d0d;
-  border-top: 1px solid #333;
-  padding: 2.5rem;
-  text-align: center;
-  font-size: 12px;
-  color: #888;
-}
-
-.footer-links {
-  margin-bottom: 1rem;
-}
-
-.footer-links a {
-  color: #e8a570;
-  text-decoration: none;
-  margin: 0 1rem;
-}
-
-/* Modal */
-.modal {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.5);
-  z-index: 100;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
-}
-
-.modal.active {
-  display: flex;
-}
-
-.modal-content {
-  background: white;
-  border-radius: 6px;
-  padding: 2.5rem;
-  max-width: 700px;
-  width: 100%;
-  max-height: 85vh;
-  overflow-y: auto;
-}
-
-.modal-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 1.5rem;
-}
-
-.modal-title {
-  font-size: 24px;
-  font-weight: 600;
-  color: #1a1a1a;
-}
-
-.modal-close {
-  background: none;
-  border: none;
-  font-size: 28px;
-  cursor: pointer;
-  color: #999;
-}
-
-.modal-items {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1.5rem;
-}
-
-.modal-item {
-  background: #f5f5f5;
-  padding: 1.25rem;
-  border-radius: 4px;
-  border-left: 3px solid #c85a3a;
-}
-
-.modal-item h4 {
-  font-size: 13px;
-  font-weight: 700;
-  color: #c85a3a;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  margin-bottom: 0.75rem;
-}
-
-.modal-item p {
-  font-size: 13px;
-  color: #666;
-}
-
-/* Brands Section */
-.brands-section {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 3.5rem 2rem;
-}
-
-.brands-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 2rem;
-  margin-top: 2.5rem;
-  text-align: center;
-}
-
-.brand-item {
-  background: white;
-  border: 2px solid #f0f0f0;
-  padding: 2rem 1.5rem;
-  border-radius: 6px;
-  transition: all 0.3s;
-}
-
-.brand-item:hover {
-  border-color: #c85a3a;
-  box-shadow: 0 4px 12px rgba(200, 90, 58, 0.1);
-}
-
-.brand-item h4 {
-  font-size: 16px;
-  font-weight: 600;
-  color: #1a1a1a;
-  margin-top: 1rem;
-}
-
-.brand-item p {
-  font-size: 12px;
-  color: #999;
-  margin-top: 0.5rem;
-}
-
-.brand-logo {
-  height: 80px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 0.5rem;
-}
-
-.brand-logo img {
-  max-height: 80px;
-  max-width: 100%;
-  object-fit: contain;
-}
-
-.brand-text-logo {
-  background: linear-gradient(135deg, #c85a3a 0%, #e8a570 100%);
-  border-radius: 4px;
-  padding: 10px 15px;
-  color: white;
-}
-
-/* Product Specifications */
-.product-spec {
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  background: #fafafa;
-  border-left: 3px solid #c85a3a;
-  border-radius: 4px;
-}
-
-.product-spec h5 {
-  color: #1a1a1a;
-  font-size: 14px;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-
-.product-spec-list {
-  font-size: 13px;
-  color: #666;
-  line-height: 1.6;
-  list-style: none;
-  padding-left: 0;
-}
-
-.product-spec-list li {
-  padding: 0.3rem 0;
-}
-
-.product-spec-list li:before {
-  content: '→ ';
-  color: #c85a3a;
-  font-weight: bold;
-  margin-right: 0.5rem;
-}
-
-.brand-mention {
-  display: inline-block;
-  background: #f5f5f5;
-  padding: 0.25rem 0.75rem;
-  border-radius: 12px;
-  font-size: 12px;
-  color: #c85a3a;
-  font-weight: 600;
-  margin-right: 0.5rem;
-  margin-top: 0.5rem;
-}
-
-/* Credentials Section */
-.credentials-section {
-  background: linear-gradient(135deg, #f5f5f5 0%, #ffffff 100%);
-  padding: 3rem 2rem;
-  border-top: 1px solid #e5e5e5;
-}
-
-.credentials-container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.credentials-header {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.credentials-header h2 {
-  font-size: 28px;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  color: #1a1a1a;
-}
-
-.credentials-header p {
-  font-size: 14px;
-  color: #666;
-}
-
-.credentials-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2.5rem;
-}
-
-.credential-item {
-  background: white;
-  padding: 2rem;
-  border-radius: 6px;
-  border-left: 4px solid #c85a3a;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-}
-
-.credential-item h3 {
-  font-size: 16px;
-  font-weight: 600;
-  color: #c85a3a;
-  margin-bottom: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  font-size: 18px;
-}
-
-.credential-item p {
-  font-size: 13px;
-  color: #666;
-  line-height: 1.7;
-}
-
-.credential-stat {
-  font-size: 28px;
-  font-weight: 700;
-  color: #c85a3a;
-  margin-bottom: 0.25rem;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-  .hero-content h1 { font-size: 28px; }
-  .navbar-nav { gap: 1rem; font-size: 12px; }
-  .about-container { grid-template-columns: 1fr; }
-  .process-grid { grid-template-columns: 1fr; }
-  .navbar { padding: 1rem; }
-  .brands-grid { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; }
-  .credentials-grid { grid-template-columns: 1fr; }
-}
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --color-primary: #d97757;
+      --color-primary-dark: #c2633e;
+      --color-text-dark: #1f2937;
+      --color-text-light: #6b7280;
+      --color-text-lighter: #9ca3af;
+      --color-bg-light: #fef5f0;
+      --color-bg-lighter: #fffbf7;
+      --color-border: #f2d9cf;
+      --color-white: #ffffff;
+      --color-success: #16a34a;
+      --color-dark-bg: #1a1a1a;
+
+      --space-xs: 8px;
+      --space-s: 16px;
+      --space-m: 24px;
+      --space-l: 32px;
+      --space-xl: 48px;
+      --space-2xl: 64px;
+
+      --radius-sm: 2px;
+      --radius-md: 4px;
+      --radius-lg: 8px;
+
+      --font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      --transition: all 0.3s ease;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      color: var(--color-text-dark);
+      background: var(--color-white);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* Typography */
+    h1 {
+      font-size: 48px;
+      font-weight: 700;
+      line-height: 1.2;
+      letter-spacing: -0.5px;
+      margin-bottom: var(--space-m);
+    }
+
+    h2 {
+      font-size: 36px;
+      font-weight: 600;
+      line-height: 1.3;
+      margin-bottom: var(--space-s);
+    }
+
+    h3 {
+      font-size: 24px;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+
+    h4 {
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+
+    p {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 1.6;
+      color: var(--color-text-light);
+    }
+
+    .text-large {
+      font-size: 16px;
+    }
+
+    .text-small {
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    /* Buttons */
+    button, .btn {
+      font-family: var(--font-family);
+      border: none;
+      border-radius: var(--radius-md);
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      padding: 12px 32px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+
+    .btn-primary {
+      background: var(--color-primary);
+      color: var(--color-white);
+    }
+
+    .btn-primary:hover {
+      background: var(--color-primary-dark);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+    }
+
+    .btn-secondary {
+      background: var(--color-white);
+      color: var(--color-primary);
+      border: 2px solid var(--color-primary);
+    }
+
+    .btn-secondary:hover {
+      background: var(--color-primary);
+      color: var(--color-white);
+      transform: translateY(-2px);
+    }
+
+    .btn-tertiary {
+      background: transparent;
+      color: var(--color-primary);
+      padding: 0;
+    }
+
+    .btn-tertiary:hover {
+      color: var(--color-primary-dark);
+    }
+
+    /* Navigation Bar */
+    nav {
+      height: 70px;
+      border-bottom: 1px solid var(--color-border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 var(--space-xl);
+      background: var(--color-white);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    .nav-logo {
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--color-text-dark);
+    }
+
+    .nav-menu {
+      display: flex;
+      gap: var(--space-l);
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--color-text-light);
+    }
+
+    .nav-menu a {
+      text-decoration: none;
+      color: var(--color-text-light);
+      transition: var(--transition);
+      cursor: pointer;
+    }
+
+    .nav-menu a:hover {
+      color: var(--color-primary);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        flex-direction: column;
+        height: auto;
+        padding: var(--space-s) var(--space-m);
+        gap: var(--space-m);
+      }
+
+      .nav-menu {
+        flex-direction: column;
+        gap: var(--space-s);
+      }
+    }
+
+    /* Hero Section */
+    .hero {
+      min-height: 400px;
+      background: linear-gradient(180deg, var(--color-bg-light) 0%, var(--color-white) 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: var(--space-2xl) var(--space-xl);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 4px;
+      height: 100%;
+      background: var(--color-primary);
+    }
+
+    .hero-content {
+      max-width: 700px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      margin-bottom: var(--space-m);
+    }
+
+    .hero p {
+      font-size: 16px;
+      margin-bottom: var(--space-l);
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: var(--space-s);
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        min-height: 300px;
+        padding: var(--space-xl) var(--space-m);
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+      }
+
+      button, .btn {
+        width: 100%;
+      }
+    }
+
+    /* Stats Section */
+    .stats {
+      background: var(--color-bg-light);
+      padding: var(--space-l);
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0;
+      border-top: 1px solid var(--color-border);
+    }
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: var(--space-l);
+      border-right: 1px solid var(--color-border);
+    }
+
+    .stat-item:last-child {
+      border-right: none;
+    }
+
+    .stat-number {
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: var(--space-xs);
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: var(--color-text-light);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    @media (max-width: 768px) {
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .stat-item {
+        border-right: 1px solid var(--color-border);
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .stat-item:nth-child(odd) {
+        border-right: none;
+      }
+
+      .stat-item:last-child,
+      .stat-item:nth-last-child(2) {
+        border-bottom: none;
+      }
+    }
+
+    /* Section */
+    .section {
+      padding: var(--space-2xl) var(--space-xl);
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: var(--space-2xl);
+    }
+
+    .section-header h2 {
+      margin-bottom: var(--space-s);
+    }
+
+    .section-header p {
+      color: var(--color-text-light);
+    }
+
+    /* Product Categories Grid */
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-l);
+      margin-bottom: var(--space-2xl);
+    }
+
+    .product-card {
+      background: var(--color-white);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    .product-card:hover {
+      border-color: var(--color-primary);
+      box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
+      transform: translateY(-4px);
+    }
+
+    .product-card-image {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      background: var(--color-bg-light);
+    }
+
+    .product-card-content {
+      padding: var(--space-m);
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .product-card h3 {
+      font-size: 16px;
+      margin-bottom: var(--space-s);
+      color: var(--color-text-dark);
+    }
+
+    .product-card p {
+      flex: 1;
+      font-size: 13px;
+      margin-bottom: var(--space-m);
+    }
+
+    .product-card-link {
+      color: var(--color-primary);
+      font-size: 13px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: var(--transition);
+      cursor: pointer;
+    }
+
+    .product-card-link:hover {
+      color: var(--color-primary-dark);
+      transform: translateX(4px);
+      display: inline-block;
+    }
+
+    @media (max-width: 768px) {
+      .product-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: var(--space-m);
+      }
+
+      .product-card-image {
+        height: 150px;
+      }
+    }
+
+    /* Brands Section */
+    .brands-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: var(--space-l);
+    }
+
+    .brand-card {
+      background: var(--color-white);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      padding: var(--space-l);
+      text-align: center;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: var(--space-m);
+    }
+
+    .brand-card:hover {
+      border-color: var(--color-primary);
+      box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
+    }
+
+    .brand-logo {
+      width: 100%;
+      height: 100px;
+      background: linear-gradient(135deg, var(--color-primary) 0%, #1d4ed8 100%);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--color-white);
+      letter-spacing: 1px;
+    }
+
+    .brand-card h4 {
+      font-size: 14px;
+    }
+
+    .brand-description {
+      font-size: 11px;
+      color: var(--color-text-lighter);
+    }
+
+    @media (max-width: 768px) {
+      .brands-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      }
+    }
+
+    /* How We Work Section */
+    .how-we-work {
+      background: var(--color-bg-lighter);
+    }
+
+    .steps-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-l);
+    }
+
+    .step-card {
+      text-align: center;
+      padding: var(--space-l);
+    }
+
+    .step-number {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: var(--color-primary);
+      color: var(--color-white);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      font-weight: 700;
+      margin: 0 auto var(--space-m);
+    }
+
+    .step-card h3 {
+      font-size: 18px;
+      margin-bottom: var(--space-s);
+    }
+
+    .step-card p {
+      font-size: 13px;
+    }
+
+    /* Company Info Section */
+    .company-info {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-2xl);
+      align-items: center;
+    }
+
+    .company-text h3 {
+      margin-bottom: var(--space-m);
+    }
+
+    .company-text p {
+      margin-bottom: var(--space-m);
+    }
+
+    .features-list {
+      list-style: none;
+    }
+
+    .features-list li {
+      padding: var(--space-s) 0;
+      padding-left: var(--space-m);
+      position: relative;
+      font-size: 14px;
+      color: var(--color-text-light);
+    }
+
+    .features-list li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: var(--color-success);
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    @media (max-width: 768px) {
+      .company-info {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Contact Section */
+    .contact-section {
+      background: var(--color-dark-bg);
+      color: var(--color-white);
+      padding: var(--space-2xl) var(--space-xl);
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: var(--space-l);
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+
+    .contact-item h4 {
+      color: var(--color-white);
+      margin-bottom: var(--space-s);
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .contact-item p {
+      color: #d1d5db;
+      font-size: 14px;
+      margin: 0;
+    }
+
+    /* Footer */
+    footer {
+      background: #0f172a;
+      color: #cbd5e1;
+      padding: var(--space-l) var(--space-xl);
+      text-align: center;
+      font-size: 12px;
+    }
+
+    .footer-content {
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: var(--space-l);
+      justify-content: center;
+      margin-bottom: var(--space-m);
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      text-decoration: none;
+      color: #cbd5e1;
+      transition: var(--transition);
+    }
+
+    .footer-links a:hover {
+      color: var(--color-primary);
+    }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 200;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      animation: fadeIn 0.3s ease;
+    }
+
+    .modal.active {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-content {
+      background-color: var(--color-white);
+      padding: var(--space-2xl);
+      border-radius: var(--radius-lg);
+      max-width: 600px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+      animation: slideIn 0.3s ease;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: var(--space-l);
+      padding-bottom: var(--space-l);
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .modal-header h2 {
+      margin: 0;
+    }
+
+    .close-btn {
+      background: none;
+      border: none;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+      color: var(--color-text-light);
+      padding: 0;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: var(--transition);
+    }
+
+    .close-btn:hover {
+      color: var(--color-text-dark);
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes slideIn {
+      from {
+        transform: translateY(-50px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    /* Utility Classes */
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 var(--space-m);
+    }
+
+    @media (max-width: 640px) {
+      .section {
+        padding: var(--space-l) var(--space-m);
+      }
+
+      h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 24px;
+      }
+
+      h3 {
+        font-size: 18px;
+      }
+    }
   </style>
 </head>
 <body>
-
-<nav class="navbar">
-  <div class="navbar-brand">
-    <span>⛑️</span>
-    <span>Prahlad Trading</span>
-  </div>
-  <ul class="navbar-nav">
-    <li><a href="#products">Products</a></li>
-    <li><a href="#brands">Brands</a></li>
-    <li><a href="#about">About</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</nav>
-
-<section class="hero-banner">
-  <div class="hero-content">
-    <h1>Protecting India's Workforce</h1>
-    <p>Premium protective equipment and safety products from India's leading brands. Authorized dealer serving Raipur industries for 20+ years.</p>
-    <div class="cta-group">
-      <button class="btn-solid" onclick="scrollTo('products')">Explore Products</button>
-      <button class="btn-outline" onclick="scrollTo('contact')">Get in Touch</button>
+  <!-- Navigation Bar -->
+  <nav>
+    <div class="nav-logo">Prahlad Trading</div>
+    <div class="nav-menu">
+      <a href="#products">Products</a>
+      <a href="#brands">Brands</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
     </div>
-  </div>
-</section>
+    <button class="btn btn-primary">Get Started</button>
+  </nav>
 
-<section class="stats-section">
-  <div class="stats-container">
-    <div class="stat-item">
-      <h3>20+</h3>
-      <p>Years of Experience</p>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Industrial Safety Solutions for Raipur Industries</h1>
+      <p>Authorized dealer of India's leading safety brands. 20+ years of trusted service. Expert guidance for all industries.</p>
+      <div class="hero-buttons">
+        <button class="btn btn-primary" onclick="scrollToSection('products')">Browse Products</button>
+        <button class="btn btn-secondary" onclick="openModal('contactModal')">Contact Us</button>
+      </div>
     </div>
+  </section>
+
+  <!-- Stats Section -->
+  <section class="stats">
     <div class="stat-item">
-      <h3>50+</h3>
-      <p>Trusted Brands</p>
+      <div class="stat-number">20+</div>
+      <div class="stat-label">Years</div>
     </div>
     <div class="stat-item">
-      <h3>10k+</h3>
-      <p>Happy Customers</p>
+      <div class="stat-number">10k+</div>
+      <div class="stat-label">Clients</div>
     </div>
     <div class="stat-item">
-      <h3>100%</h3>
-      <p>Authentic Products</p>
+      <div class="stat-number">5</div>
+      <div class="stat-label">Brands</div>
     </div>
-  </div>
-</section>
+    <div class="stat-item">
+      <div class="stat-number">100%</div>
+      <div class="stat-label">Authentic</div>
+    </div>
+  </section>
 
-<section class="products-section" id="products">
-  <div class="section-header">
-    <h2>Our Product Categories</h2>
-    <p>Click to explore our comprehensive range of safety solutions with leading brands</p>
-  </div>
-  <div class="products-grid">
-    <div class="product-card" onclick="openModal('headSafety')">
-      <div class="product-icon">⛑️</div>
-      <h3>Head Protection</h3>
-      <p>Safety helmets and hard hats - Karam, Udyogi, Tiger</p>
+  <!-- Product Categories Section -->
+  <section class="section" id="products">
+    <div class="section-header">
+      <h2>Our Product Categories</h2>
+      <p>Click to explore our comprehensive range of safety solutions</p>
     </div>
-    <div class="product-card" onclick="openModal('footSafety')">
-      <div class="product-icon">👢</div>
-      <h3>Foot Protection</h3>
-      <p>Safety shoes & boots - Acme Universal, Karam, Mallcom Tiger & Leopard</p>
-    </div>
-    <div class="product-card" onclick="openModal('bodyProtection')">
-      <div class="product-icon">🦺</div>
-      <h3>Body Protection</h3>
-      <p>Jackets, vests, aprons - Udyogi, Karam</p>
-    </div>
-    <div class="product-card" onclick="openModal('handProtection')">
-      <div class="product-icon">🧤</div>
-      <h3>Hand Protection</h3>
-      <p>Work gloves for all applications</p>
-    </div>
-    <div class="product-card" onclick="openModal('eyeProtection')">
-      <div class="product-icon">👓</div>
-      <h3>Eye Protection</h3>
-      <p>Safety glasses and protective eyewear</p>
-    </div>
-    <div class="product-card" onclick="openModal('respiratory')">
-      <div class="product-icon">🫁</div>
-      <h3>Respiratory Protection</h3>
-      <p>Masks, respirators and certified filters</p>
-    </div>
-    <div class="product-card" onclick="openModal('welding')">
-      <div class="product-icon">🔥</div>
-      <h3>Welding Products</h3>
-      <p>Complete welding safety equipment</p>
-    </div>
-    <div class="product-card" onclick="openModal('fireSafety')">
-      <div class="product-icon">🧯</div>
-      <h3>Fire Safety</h3>
-      <p>Extinguishers & equipment - Omex</p>
-    </div>
-    <div class="product-card" onclick="openModal('fallProtection')">
-      <div class="product-icon">⛓️</div>
-      <h3>Fall Protection</h3>
-      <p>Harnesses, ropes and safety systems</p>
-    </div>
-  </div>
-</section>
+    <div class="product-grid">
+      <div class="product-card" onclick="openModal('productModal', 'Head Protection', 'Safety helmets and hard hats for all industrial environments')">
+        <img src="assets/images/head-protection.jpg" alt="Safety Helmet" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Head Protection</h3>
+          <p>Safety helmets and hard hats</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
 
-<section class="brands-section" id="brands">
-  <div class="section-header">
-    <h2>Our Authorized Brands</h2>
-    <p>We are proud authorized dealers of India's leading safety equipment manufacturers</p>
-  </div>
-  <div class="brands-grid">
-    <div class="brand-item">
-      <div class="brand-logo">
-        <img src="https://global.acmeuniversal9.com/Vhost/global.acmeuniversal9.com/images/LogoImage_133945369448716725.png" alt="Acme Universal Logo" title="Acme Universal - India's Largest Safety Shoe Manufacturer" onerror="this.parentElement.innerHTML='<div class=\'brand-text-logo\' style=\'display: flex; flex-direction: column; align-items: center; gap: 4px; width: 100%; height: 100%; justify-content: center; font-size: 28px; font-weight: 800; letter-spacing: 2px;\'>ACME UNIVERSAL</div>'">
+      <div class="product-card" onclick="openModal('productModal', 'Foot Protection', 'Safety shoes and boots with certified protection')">
+        <img src="assets/images/foot-protection.jpg" alt="Safety Shoes" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Foot Protection</h3>
+          <p>Safety shoes and boots</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
       </div>
-      <h4>Acme Universal</h4>
-      <p>India's Largest Safety Shoe Manufacturer</p>
-    </div>
-    <div class="brand-item">
-      <div class="brand-logo">
-        <img src="https://www.karam.in/sites/default/files/karam-logo-01.png" alt="Karam Industries Logo" onerror="this.style.display='none'">
-      </div>
-      <h4>Karam Industries</h4>
-      <p>Complete Industrial PPE Range (Noida)</p>
-    </div>
-    <div class="brand-item">
-      <div class="brand-logo">
-        <img src="https://udyogisafety.com/_next/static/media/logo.0c4wcxcno46nr.svg" alt="Udyogi Safety Logo" onerror="this.style.display='none'">
-      </div>
-      <h4>Udyogi Safety</h4>
-      <p>Premium PPE & Protective Gear (Kolkata)</p>
-    </div>
-    <div class="brand-item">
-      <div class="brand-logo">
-        <img src="https://cdn.shopify.com/s/files/1/0606/6821/5434/files/mallcom_2x_8e0b2580-52e4-41b4-9f7d-187b23099d91.png?v=1674822764&width=250" alt="Mallcom Logo" onerror="this.style.display='none'">
-      </div>
-      <h4>Mallcom</h4>
-      <p>Tiger & Leopard Safety Footwear Lines</p>
-    </div>
-    <div class="brand-item">
-      <div class="brand-logo">
-        <img src="https://www.omex.co.in/assets/public/default/images/logo.png" alt="Omex Logo" onerror="this.style.display='none'">
-      </div>
-      <h4>Omex</h4>
-      <p>Fire Fighting Equipment & Extinguishers</p>
-    </div>
-  </div>
-</section>
 
-<section class="about-section" id="about">
-  <div class="about-container">
-    <div class="about-content">
-      <h2>About Prahlad Trading Company</h2>
-      <p>Prahlad Trading Company is a leading distributor of industrial safety equipment and PPE in Raipur. With over 20 years of experience, we've built trust through quality, authenticity, and unwavering commitment to workplace safety.</p>
-      <p>Founded by Bipin Agrawal, we are proud authorized dealers for India's top safety brands including <strong>Acme Universal</strong> (India's largest safety shoe manufacturer), <strong>Karam Industries</strong> (Noida-based PPE manufacturer), <strong>Udyogi Safety</strong> (Kolkata-based protective gear), <strong>Mallcom</strong> (Tiger & Leopard safety footwear lines), and <strong>Omex</strong> (fire safety equipment). We specialize in comprehensive PPE solutions including safety helmets, shoes, harnesses, welding products, fire safety equipment, and complete protective gear for all industries.</p>
-      <ul class="about-list">
-        <li>Authorized dealer for Acme Universal, Karam, Udyogi, Mallcom & Omex</li>
-        <li>100% authentic certified products</li>
-        <li>Competitive wholesale & retail pricing</li>
-        <li>Expert technical guidance & recommendations</li>
-        <li>Fast delivery across Raipur & surrounding areas</li>
-        <li>Professional installation & maintenance services</li>
-      </ul>
-    </div>
-    <div class="about-image">
-      🏢
-    </div>
-  </div>
-</section>
+      <div class="product-card" onclick="openModal('productModal', 'Body Protection', 'Jackets, vests, and aprons for comprehensive coverage')">
+        <img src="assets/images/body-protection.jpg" alt="Safety Vest" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Body Protection</h3>
+          <p>Jackets, vests, and aprons</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
 
-<section class="process-section">
-  <div class="section-header">
-    <h2>How We Work</h2>
-    <p>Our commitment to your safety</p>
-  </div>
-  <div class="process-grid">
-    <div class="process-card">
-      <div class="process-number">01</div>
-      <h3>Safety First</h3>
-      <p>Quality and authenticity are our top priority. Every product meets international safety standards.</p>
-    </div>
-    <div class="process-card">
-      <div class="process-number">02</div>
-      <h3>Expert Guidance</h3>
-      <p>Our team provides professional advice to match your specific safety requirements.</p>
-    </div>
-    <div class="process-card">
-      <div class="process-number">03</div>
-      <h3>Reliable Service</h3>
-      <p>Fast delivery, competitive prices, and dedicated customer support.</p>
-    </div>
-  </div>
-</section>
+      <div class="product-card" onclick="openModal('productModal', 'Hand Protection', 'Work gloves for all applications and materials')">
+        <img src="assets/images/hand-protection.jpg" alt="Work Gloves" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Hand Protection</h3>
+          <p>Work gloves for all applications</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
 
-<section class="credentials-section" id="credentials">
-  <div class="credentials-container">
-    <div class="credentials-header">
-      <h2>Why Choose Us</h2>
-      <p>Trusted by industries across Raipur for authentic, certified safety solutions</p>
-    </div>
-    <div class="credentials-grid">
-      <div class="credential-item">
-        <div class="credential-stat">20+</div>
-        <h3>Years in Business</h3>
-        <p>Over two decades of dedicated service to industrial safety. Built on trust, quality, and deep industry expertise.</p>
+      <div class="product-card" onclick="openModal('productModal', 'Eye Protection', 'Safety glasses and eyewear for clear vision')">
+        <img src="assets/images/eye-protection.jpg" alt="Safety Glasses" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Eye Protection</h3>
+          <p>Safety glasses and eyewear</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
       </div>
-      <div class="credential-item">
-        <div class="credential-stat">100%</div>
-        <h3>Authentic Certified</h3>
-        <p>Every product is verified and certified by manufacturers. We guarantee authenticity backed by manufacturer warranties.</p>
-      </div>
-      <div class="credential-item">
-        <div class="credential-stat">5</div>
-        <h3>Premium Brands</h3>
-        <p>Authorized dealer partnerships with Acme Universal, Karam, Udyogi, Mallcom, and Omex—India's safety leaders.</p>
-      </div>
-      <div class="credential-item">
-        <div class="credential-stat">10k+</div>
-        <h3>Satisfied Clients</h3>
-        <p>Serving manufacturers, construction companies, and enterprises with customized safety solutions and expert guidance.</p>
-      </div>
-    </div>
-  </div>
-</section>
 
-<section class="contact-section" id="contact">
-  <div class="contact-container">
-    <div class="contact-header">
-      <h2>Get in Touch</h2>
-      <p>Contact us for product details and inquiries</p>
+      <div class="product-card" onclick="openModal('productModal', 'Welding Products', 'Complete welding safety equipment and protective gear')">
+        <img src="assets/images/welding-products.jpg" alt="Welding Equipment" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Welding Products</h3>
+          <p>Complete welding safety</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Fire Safety', 'Fire extinguishers and emergency equipment')">
+        <img src="assets/images/fire-safety.jpg" alt="Fire Extinguisher" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Fire Safety</h3>
+          <p>Extinguishers and equipment</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Respiratory Protection', 'Masks and respirators for hazardous environments')">
+        <img src="assets/images/respiratory-protection.jpg" alt="Face Mask" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Respiratory Protection</h3>
+          <p>Masks and respirators</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
+
+      <div class="product-card" onclick="openModal('productModal', 'Fall Protection', 'Harnesses and safety systems for heights')">
+        <img src="assets/images/fall-protection.jpg" alt="Safety Harness" class="product-card-image">
+        <div class="product-card-content">
+          <h3>Fall Protection</h3>
+          <p>Harnesses and safety systems</p>
+          <a class="product-card-link">View Details →</a>
+        </div>
+      </div>
     </div>
+  </section>
+
+  <!-- Brands Section -->
+  <section class="section" id="brands">
+    <div class="section-header">
+      <h2>Our Authorized Brands</h2>
+      <p>We partner with India's leading safety equipment manufacturers</p>
+    </div>
+    <div class="brands-grid">
+      <div class="brand-card">
+        <div class="brand-logo">ACME</div>
+        <h4>Acme Universal</h4>
+        <p class="brand-description">Safety Shoes</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">KARAM</div>
+        <h4>Karam Industries</h4>
+        <p class="brand-description">PPE Products</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">UDYOGI</div>
+        <h4>Udyogi Safety</h4>
+        <p class="brand-description">Protective Gear</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">MCL</div>
+        <h4>Mallcom</h4>
+        <p class="brand-description">Safety Footwear</p>
+      </div>
+      <div class="brand-card">
+        <div class="brand-logo">OMEX</div>
+        <h4>Omex Industries</h4>
+        <p class="brand-description">Fire Safety</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- How We Work Section -->
+  <section class="section how-we-work" id="about">
+    <div class="section-header">
+      <h2>How We Work</h2>
+      <p>Our three-step process ensures you get the right solutions</p>
+    </div>
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-number">1</div>
+        <h3>Safety First</h3>
+        <p>Every product meets international standards and certifications. We prioritize your safety above all else.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">2</div>
+        <h3>Expert Guidance</h3>
+        <p>Our team provides professional consultation to understand your specific safety needs and requirements.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">3</div>
+        <h3>Reliable Service</h3>
+        <p>Fast delivery, competitive pricing, and ongoing support—we're committed to your satisfaction.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Company Info Section -->
+  <section class="section">
+    <div class="company-info">
+      <div class="company-text">
+        <h3>Why Choose Prahlad Trading?</h3>
+        <p>With over 20 years of experience in the industrial safety sector, Prahlad Trading has established itself as a trusted partner for businesses across Raipur and beyond. We specialize in providing authentic, certified safety equipment from India's leading manufacturers.</p>
+        <p>Our commitment to quality, safety, and customer service sets us apart. Every product in our catalog is carefully selected and verified to meet international safety standards.</p>
+      </div>
+      <div>
+        <ul class="features-list">
+          <li>20+ years of industry experience</li>
+          <li>100% authentic products</li>
+          <li>5 authorized brand partnerships</li>
+          <li>International certifications</li>
+          <li>Expert technical support</li>
+          <li>Fast and reliable delivery</li>
+          <li>Competitive pricing</li>
+          <li>Dedicated account management</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="contact-section" id="contact">
     <div class="contact-grid">
       <div class="contact-item">
-        <h4>📞 Phone</h4>
-        <p><a href="tel:08109047714">08109047714</a></p>
+        <h4>Phone</h4>
+        <p>+91 (0) 731-2345678</p>
+        <p>Mon-Fri 9AM-6PM IST</p>
       </div>
       <div class="contact-item">
-        <h4>✉️ Email</h4>
-        <p><a href="mailto:prahladtrading@yahoo.co.in">prahladtrading@yahoo.co.in</a></p>
+        <h4>Email</h4>
+        <p>info@prahladtrading.com</p>
+        <p>support@prahladtrading.com</p>
       </div>
       <div class="contact-item">
-        <h4>🕐 Hours</h4>
-        <p>Mon-Sat<br>10:30 AM - 7:30 PM</p>
+        <h4>Office Hours</h4>
+        <p>Monday to Friday</p>
+        <p>9:00 AM - 6:00 PM</p>
       </div>
       <div class="contact-item">
-        <h4>📍 Location</h4>
-        <p>Raipur<br>Chhattisgarh, India</p>
+        <h4>Location</h4>
+        <p>Raipur, Chhattisgarh</p>
+        <p>India</p>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<footer class="footer">
-  <div class="footer-links">
-    <a href="#products">Products</a>
-    <a href="#brands">Brands</a>
-    <a href="#about">About</a>
-    <a href="#contact">Contact</a>
-  </div>
-  <p>© 2024 Prahlad Trading Company. Premium Industrial Safety Supplier in Raipur.</p>
-</footer>
-
-<div class="modal" id="modal">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h2 class="modal-title" id="modalTitle"></h2>
-      <button class="modal-close" onclick="closeModal()">✕</button>
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <div class="footer-links">
+        <a href="#products">Products</a>
+        <a href="#brands">Brands</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <p>&copy; 2026 Prahlad Trading Company. All rights reserved. | Industrial Safety Solutions for Raipur Industries</p>
     </div>
-    <div class="modal-items" id="modalItems"></div>
+  </footer>
+
+  <!-- Modals -->
+  <div id="productModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="modalTitle">Product Category</h2>
+        <button class="close-btn" onclick="closeModal('productModal')">&times;</button>
+      </div>
+      <p id="modalDescription"></p>
+      <p style="margin-top: 20px; color: #6b7280;">Our team specializes in this category and can provide expert guidance on product selection, specifications, and pricing. Contact us for a personalized consultation.</p>
+      <button class="btn btn-primary" style="margin-top: 20px; width: 100%;" onclick="openModal('contactModal')">Request More Information</button>
+    </div>
   </div>
-</div>
 
-<script>
-const productData = {
-  headSafety: {
-    title: 'Head Protection',
-    items: [
-      {
-        name: 'Karam Safety Helmets',
-        desc: 'Premium helmets from Noida-based manufacturer. Features shock absorption, multiple colors, chin straps, ANSI Z89.1 compliant'
-      },
-      {
-        name: 'Udyogi Safety Caps',
-        desc: 'Kolkata-manufactured bump caps for construction sites, lightweight design, flexible rim protection'
-      },
-      {
-        name: 'Karam Hard Hats (Advanced)',
-        desc: 'Heavy-duty protection with ventilation system, wide brim, 6-point suspension for comfort'
-      },
-      {
-        name: 'Industrial Grade Helmets',
-        desc: 'Various models, impact-resistant ABS shells, foam-lined inner padding, sweatband included'
-      }
-    ]
-  },
-  footSafety: {
-    title: 'Foot Protection',
-    items: [
-      {
-        name: 'Acme Universal Safety Shoes',
-        desc: "India's largest safety shoe manufacturer. Steel toe, oil-resistant PU midsole, anti-slip sole, comfort-foam insole"
-      },
-      {
-        name: 'Karam Safety Shoes (Noida)',
-        desc: 'Lightweight composite toe options, water-resistant material, electrical hazard (EH) rated protection'
-      },
-      {
-        name: 'Mallcom Tiger Safety Boots',
-        desc: 'High ankle design, steel sole with puncture resistance, heat-resistant for welding and hot work'
-      },
-      {
-        name: 'Mallcom Leopard Safety Boots',
-        desc: 'Premium Mallcom sub-brand, breathable upper construction, shock-absorbing heel, certified steel toe'
-      }
-    ]
-  },
-  bodyProtection: {
-    title: 'Body Protection',
-    items: [
-      {
-        name: 'Udyogi Safety Jackets',
-        desc: 'Kolkata-manufactured, high-visibility with reflective strips, multiple pockets, heavy-duty canvas'
-      },
-      {
-        name: 'Karam Protective Vests',
-        desc: 'From Noida, tool storage pockets, comfort fit design, various sizes and colors available'
-      },
-      {
-        name: 'Welding Aprons',
-        desc: 'Leather construction, heat-resistant, full front protection for hot work'
-      },
-      {
-        name: 'Industrial Dungarees',
-        desc: 'Heavy-duty fabric, multiple pockets, reinforced seams for durability'
-      }
-    ]
-  },
-  handProtection: {
-    title: 'Hand Protection',
-    items: [
-      {
-        name: 'Leather Work Gloves',
-        desc: 'Premium quality, flexible fit, suitable for general handling and construction'
-      },
-      {
-        name: 'Cotton Jersey Gloves',
-        desc: 'Lightweight, breathable, economical protection for light work'
-      },
-      {
-        name: 'Nitrile Coated Gloves',
-        desc: 'Chemical-resistant, oil-resistant, enhanced grip in wet conditions'
-      },
-      {
-        name: 'Welding Gloves',
-        desc: 'Heavy leather reinforced, heat-resistant up to 200°C, cuff protection'
-      }
-    ]
-  },
-  eyeProtection: {
-    title: 'Eye Protection',
-    items: [
-      {
-        name: 'Clear Safety Glasses',
-        desc: 'Polycarbonate lenses, 100% UV protection, scratch-resistant coating'
-      },
-      {
-        name: 'Tinted Welding Goggles',
-        desc: 'Dark shade #5-14, flexible headband, impact-resistant lens'
-      },
-      {
-        name: 'Safety Spectacles',
-        desc: 'Anti-fog coating, prescription-compatible frames, ANSI Z87.1 certified'
-      },
-      {
-        name: 'Chemical Splash Goggles',
-        desc: 'Indirect ventilation, sealed protection, elastic headband'
-      }
-    ]
-  },
-  respiratory: {
-    title: 'Respiratory Protection',
-    items: [
-      {
-        name: 'N95 Face Masks',
-        desc: 'Particle filtration, elastic ear loops, latex-free, box of 50/100'
-      },
-      {
-        name: 'Reusable Respirators',
-        desc: 'Multi-cartridge system, comfortable fit, washable silicone mask'
-      },
-      {
-        name: 'Cartridge Filters',
-        desc: 'Multiple hazard types - organic vapor, acid gas, particulate'
-      },
-      {
-        name: 'Full-Face Respirators',
-        desc: 'Wide-view lens, dual-cartridge system, suitable for heavy exposure'
-      }
-    ]
-  },
-  welding: {
-    title: 'Welding Products',
-    items: [
-      {
-        name: 'Auto-Darkening Masks',
-        desc: 'Sensor-based shade adjustment, 4-arc sensors, rapid response time'
-      },
-      {
-        name: 'Welding Gloves',
-        desc: 'Heavy leather, heat-resistant, elastic cuff, durable stitching'
-      },
-      {
-        name: 'Welding Aprons',
-        desc: 'Split leather, full coverage, reinforced with heat-resistant thread'
-      },
-      {
-        name: 'Welding Accessories',
-        desc: 'Torch tips, nozzles, consumables, cleaning wire brushes'
-      }
-    ]
-  },
-  fireSafety: {
-    title: 'Fire Safety',
-    items: [
-      {
-        name: 'Omex ABC Dry Powder Extinguishers',
-        desc: 'Multi-purpose, India-manufactured, 1kg-6kg variants, pressure gauge included, suitable for most fires'
-      },
-      {
-        name: 'Omex CO2 Extinguishers',
-        desc: 'For electrical fires & Class B fires, 2kg-5kg sizes, clean agent technology, non-residual'
-      },
-      {
-        name: 'Omex Water Spray Extinguishers',
-        desc: 'Pressurized water type, effective for Class A fires, 9L capacity, simple pull-pin operation'
-      },
-      {
-        name: 'Fire Safety Services & Maintenance',
-        desc: 'Annual servicing, hydrostatic testing, recertification, and compliance with ISI standards'
-      }
-    ]
-  },
-  fallProtection: {
-    title: 'Fall Protection',
-    items: [
-      {
-        name: 'Full-Body Safety Harnesses',
-        desc: 'D-ring attachment, adjustable straps, high-visibility webbing'
-      },
-      {
-        name: 'Shock-Absorbing Lanyards',
-        desc: 'Automatic extension, impact energy absorption, karabiner attachment'
-      },
-      {
-        name: 'Rope Access Systems',
-        desc: 'Static rope, carabiners, edge protection, certified equipment'
-      },
-      {
-        name: 'Anchor Point Installation',
-        desc: 'Professional consultation, site assessment, proper anchor placement'
-      }
-    ]
-  }
-};
+  <div id="contactModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Get in Touch</h2>
+        <button class="close-btn" onclick="closeModal('contactModal')">&times;</button>
+      </div>
+      <form onsubmit="handleFormSubmit(event)">
+        <div style="margin-bottom: 16px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Name</label>
+          <input type="text" required style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family);">
+        </div>
+        <div style="margin-bottom: 16px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Email</label>
+          <input type="email" required style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family);">
+        </div>
+        <div style="margin-bottom: 16px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Phone</label>
+          <input type="tel" required style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family);">
+        </div>
+        <div style="margin-bottom: 20px;">
+          <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #1f2937;">Message</label>
+          <textarea required rows="4" style="width: 100%; padding: 10px; border: 1px solid #e5e7eb; border-radius: 4px; font-family: var(--font-family); resize: vertical;"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width: 100%;">Send Message</button>
+      </form>
+    </div>
+  </div>
 
-function openModal(category) {
-  const data = productData[category];
-  document.getElementById('modalTitle').textContent = data.title;
+  <script>
+    function openModal(modalId, title, description) {
+      const modal = document.getElementById(modalId);
+      if (modal) {
+        modal.classList.add('active');
+        if (modalId === 'productModal') {
+          document.getElementById('modalTitle').textContent = title;
+          document.getElementById('modalDescription').textContent = description;
+        }
+      }
+    }
 
-  let html = '';
-  data.items.forEach(item => {
-    html += `<div class="modal-item"><h4>${item.name}</h4><p>${item.desc}</p></div>`;
-  });
+    function closeModal(modalId) {
+      const modal = document.getElementById(modalId);
+      if (modal) {
+        modal.classList.remove('active');
+      }
+    }
 
-  document.getElementById('modalItems').innerHTML = html;
-  document.getElementById('modal').classList.add('active');
-}
+    function scrollToSection(sectionId) {
+      const element = document.getElementById(sectionId);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
 
-function closeModal() {
-  document.getElementById('modal').classList.remove('active');
-}
+    function handleFormSubmit(event) {
+      event.preventDefault();
+      alert('Thank you for your message! We will get back to you shortly.');
+      event.target.reset();
+      closeModal('contactModal');
+    }
 
-function scrollTo(section) {
-  document.getElementById(section).scrollIntoView({ behavior: 'smooth' });
-}
+    // Close modal when clicking outside
+    window.addEventListener('click', (event) => {
+      const productModal = document.getElementById('productModal');
+      const contactModal = document.getElementById('contactModal');
 
-document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') closeModal();
-});
-</script>
+      if (event.target === productModal) {
+        closeModal('productModal');
+      }
+      if (event.target === contactModal) {
+        closeModal('contactModal');
+      }
+    });
 
+    // Add smooth scroll behavior for navigation links
+    document.querySelectorAll('.nav-menu a').forEach(link => {
+      link.addEventListener('click', (e) => {
+        const href = link.getAttribute('href');
+        if (href.startsWith('#')) {
+          e.preventDefault();
+          scrollToSection(href.substring(1));
+        }
+      });
+    });
+  </script>
 </body>
 </html>
