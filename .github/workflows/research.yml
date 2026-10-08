@@ -1,0 +1,20 @@
+name: research (temporary)
+on:
+  push:
+    branches: [research-tmp]
+    paths: [research/seeds.json]
+permissions:
+  contents: write
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: SEEDS="$(cat research/seeds.json)" node research/crawl.mjs
+      - run: |
+          git add research/out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git commit -m "research output" && git push
