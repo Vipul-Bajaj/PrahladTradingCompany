@@ -55,5 +55,16 @@
   "helmet-mallcom-opal-xi": "/media/helmet-mallcom-opal-xi.webp",
   "helmet-mallcom-opal-xiii": "/media/helmet-mallcom-opal-xiii.webp",
   "helmet-mallcom-prohat": "/media/helmet-mallcom-prohat.webp",
-  "helmet-ladies": "/media/helmet-ladies.webp"
+  "helmet-ladies": "/media/helmet-ladies.webp",
+  "glove-knitted": "/media/glove-knitted.webp",
+  "glove-dotted": "/media/glove-dotted.webp",
+  "glove-nitrile-palm": "/media/glove-nitrile-palm.webp",
+  "glove-nitrile-heavy": "/media/glove-nitrile-heavy.webp",
+  "glove-pu": "/media/glove-pu.webp",
+  "glove-cut": "/media/glove-cut.webp",
+  "glove-welding": "/media/glove-welding.webp",
+  "glove-leather": "/media/glove-leather.webp",
+  "glove-heat": "/media/glove-heat.webp",
+  "glove-chemical": "/media/glove-chemical.webp",
+  "glove-electrical": "/media/glove-electrical.webp"
 }
