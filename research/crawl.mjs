@@ -11,13 +11,15 @@ while (queue.length && n < 120) {
   try {
     const res = await fetch(url, { headers: { 'User-Agent': UA }, redirect: 'follow', signal: AbortSignal.timeout(20000) });
     const type = res.headers.get('content-type') || '';
-    const body = await res.text();
+    const buf = Buffer.from(await res.arrayBuffer());
+    const body = /text|html|xml|json/.test(type) ? buf.toString('utf8') : '';
     n++;
     const host = new URL(res.url).host;
     const name = (new URL(res.url).pathname + new URL(res.url).search).replace(/[^a-z0-9]+/gi, '_').slice(0, 120) || '_';
     await mkdir(`research/out/${host}`, { recursive: true });
-    await writeFile(`research/out/${host}/${name}.txt`, `URL: ${res.url}\nSTATUS: ${res.status}\nTYPE: ${type}\n\n${body}`);
-    index.push({ url, final: res.url, status: res.status, type, bytes: body.length });
+    if (body) await writeFile(`research/out/${host}/${name}.txt`, `URL: ${res.url}\nSTATUS: ${res.status}\nTYPE: ${type}\n\n${body}`);
+    else await writeFile(`research/out/${host}/${name}.bin`, buf);
+    index.push({ url, final: res.url, status: res.status, type, bytes: buf.length });
     if (depth < 2 && /html|xml/.test(type)) {
       const links = [...body.matchAll(/(?:href|src|loc>)=?["']?([^"'<>\s]+)/g)].map((m) => m[1]);
       for (const l of links) {
@@ -30,7 +32,7 @@ while (queue.length && n < 120) {
         } catch {}
       }
     }
-  } catch (e) { index.push({ url, error: String(e) }); }
+  } catch (e) { index.push({ url, error: String(e) + ' ' + String(e.cause || '') }); }
 }
 await writeFile('research/out/index.json', JSON.stringify(index, null, 2));
 console.log('fetched', n);

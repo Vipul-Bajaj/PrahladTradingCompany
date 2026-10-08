@@ -18,3 +18,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
           git commit -m "research output" && git push
+      - name: curl diagnostics for Acme
+        if: always()
+        run: |
+          for u in https://www.acmeuniversal9.com/home http://www.acmeuniversal9.com/home https://www.acmeuniversal.com/; do echo "== $u"; curl -sS -m 20 -A "Mozilla/5.0" -o /dev/null -w "%{http_code} %{redirect_url}\n" "$u" 2>&1 | tail -2; done | tee research/out/curl.txt
+          git add research/out/curl.txt && git commit -m "curl diag" && git push || true
