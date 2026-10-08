@@ -1,0 +1,296 @@
+URL: https://www.footlandsafetyshoes.com/contact.php
+STATUS: 200
+TYPE: text/html; charset=UTF-8
+
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Contact - Footland Safety Shoes</title>
+  <meta name="description" content="At Footland Safety Industries, quality is not a checkbox – it's a commitment. Our in-house production, skilled craftsmanship, and strict quality controls ensure that every pair leaving our facility meets the highest industry benchmarks.">
+  <meta name="keywords" content="Safety, Performance, Durability, Protection, Comfort">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link href="css/main.css" rel="stylesheet" type="text/css">
+  <link href="css/menu.css" rel="stylesheet" type="text/css">
+  <link href="css/form.css" rel="stylesheet" type="text/css">
+  <link href="fonts/fontawesome/css/all.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- bootstrap-select -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta3/dist/css/bootstrap-select.min.css">
+
+  <script type="text/javascript" src="js/jquery-latest.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta3/dist/js/bootstrap-select.min.js"></script>
+
+  <style>
+    .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+    width: 100%;
+    padding: 3px;
+    background: none;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 13px !important; 
+  }
+
+  .bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+    overflow: hidden;
+    font-size: 13px !important;
+   }
+
+   .btn-light {
+    color: #000;
+    background-color: none !important;
+    border-color: #f8f9fa;
+}
+
+  </style>
+
+  <!-- Fixed Header script start-->
+  <script>
+    $(window).on("scroll", function() {
+      if ($(window).scrollTop() > 50) {
+        $(".topband").addClass("active");
+      } else {
+        $(".topband").removeClass("active");
+      }
+    });
+  </script>
+  <!-- Fixed Header script end-->
+
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+
+  <main class="mainwrapper">
+    <!-- header start -->
+    <header class="topband">
+      <div class="container">
+        <div class="row padding5pxarea align-items-center">
+          <div class="col-md-5 col-7 padding5px">
+            <div class="logo"><a href="default.html"><img src="img/logo.jpg" alt="Footland Safety" /></a></div>
+          </div>
+          <div class="col-md-7 col-5 padding5px">
+            <div class="topphoneemailarea">
+              <ul>
+                <li><a href="tel:+919958158972"><i class="fa-solid fa-phone"></i></a></li>
+                <li><a href="mailto:info@footlandsafety.com"><i class="fa-solid fa-envelope"></i></a></li>
+              </ul>
+            </div>
+            <!-- menu start here -->
+            <div class="header">
+              <div class="menuarea">
+                <div class="menu-overlay"></div>
+                <nav class="menu">
+                  <div class="mobile-menu-head">
+                    <div class="go-back"><i class="fa fa-angle-left"></i></div>
+                    <div class="current-menu-title"></div>
+                    <div class="mobile-menu-close">&times;</div>
+                  </div>
+                  <ul class="menu-main">
+                    <li><a href="default.html">Home</a></li>
+                    <li><a href="aboutus.html">About us</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="pdf/catalogue.pdf" target="_blank">eCatalogue</a></li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="mobile-menu-trigger"><span></span></div>
+            </div>
+            <!-- menu end here -->
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- header end -->
+
+    <div class="maincontarea">
+
+      <!-- Collage section start -->
+      <div class="innercollage">
+        <div class="innercollageheading">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="default.html">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Contact</li>
+                  </ol>
+                </nav>
+              </div>
+              <div class="col-sm-6 right-mob-left rowmargin10">
+                <div class="text-wrapper">
+                  Footland Provides
+                  <span>
+                    <b>Safety</b>
+                    <b>Performance</b>
+                    <b>Durability</b>
+                    <b>Protection</b>
+                    <b>Comfort</b>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Collage section end -->
+
+      <!-- Inner content section start -->
+      <section class="contactarea">
+        <div class="container">
+          <div class="row nopaddingarea align-items-center">
+            <div class="col-lg-5 col-md-4 nopadding">
+              <div class="contactcontbox">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <div class="">
+                      <div class="mainheading">
+                        <h5>Footland Safety Industries</h5>
+                      </div>
+                      <div class="d-flex gap-2">
+                        <div class="textwhite14"><i class="fa-solid fa-location-dot"></i></div>
+                        <div class="textwhite14">A-7A Dsidc narela industrial area,<br> Delhi - 110040.</div>
+                      </div>
+                      <div class="d-flex gap-2 topmargin15">
+                        <div class="textwhite14"><i class="fa-solid fa-envelope"></i></div>
+                        <div class="textwhite14"><a href="mailto:sales@footlandsafety.com">sales@footlandsafety.com</a></div>
+                      </div>
+                      <div class="d-flex gap-2 topmargin15">
+                        <div class="textwhite14"><i class="fa-solid fa-phone"></i></div>
+                        <div class="textwhite14"><a href="tel:+919958158972">+91 99581 58972</a></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-12 topmargin20">
+                    <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.0827927668906!2d77.09829409999999!3d28.836395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390da91aa9f02b4f%3A0x74996b1e7a6079a7!2sFOOTLAND%20SAFETY%20INDUSTRIES!5e0!3m2!1sen!2sin!4v1755518936680!5m2!1sen!2sin" width="100%" height="170" style="border:0; margin-bottom: -5px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-7 col-md-8 nopadding">
+              <div class="enquiryformbox">
+                <div class="divider2">
+                  <div class="divider2-text">Enquire</div>
+                  <div class="divider2-line"></div>
+                </div>
+                <div class="infotxt">Our consultants are ready to assist you. To get started, please fill out the contact form, and we'll be in touch shortly.</div>
+                <form action="thankyou.php" method="Post">
+                  <div class="row topmargin20">
+                    <div class="col-md-6">
+                      <div class="mb-3"><input class="form-control" name="name" placeholder="Full Name" required></div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="mb-3"><input class="form-control" name="email" placeholder="Email" required></div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="mb-3"><input class="form-control" name="mobile" placeholder="Mobile No." required></div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="mb-3">
+                        <select class="form-select selectpicker" name="products[]" multiple data-live-search="true" title="Select Products" required>
+                          <option value="Z4">Z4</option>
+                          <option value="Victor">Victor</option>
+                          <option value="Collar Boot">Collar Boot</option>
+                          <option value="Signature">Signature</option>
+                          <option value="V8">V8</option>
+                          <option value="Pilot Grey">Pilot Grey</option>
+                          <option value="Pilot Brown">Pilot Brown</option>
+                          <option value="Pilot Orange">Pilot Orange</option>
+                          <option value="Rainwood">Rainwood</option>
+                          <option value="Sumo">Sumo</option>
+                          <option value="Yodha">Yodha</option>
+                        </select>
+
+                      </div>
+                    </div>
+                  </div>
+                  <div class="mb-3"><textarea class="form-control" name="note" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea></div>
+                  <div class="text-end"><button type="submit" name="submit" class="btn primarybtn btnmd">Send</button></div>
+                </form>
+              </div>
+            </div>
+          </div>
+          <p style="height: 40px">&nbsp;</p>
+        </div>
+      </section>
+      <!-- Inner content section end -->
+
+    </div>
+
+    <!-- Footer section start -->
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-md-6">
+            <div class="row">
+              <div class="col-3">
+                <div class="footerlogo"><img src="img/footerlogo.png" class="img-fluid"></div>
+              </div>
+              <div class="col-9">
+                <h6>Footland Safety Industries</h6>
+                <div class="d-flex gap-2">
+                  <div class="footertext"><i class="fa-solid fa-location-dot"></i></div>
+                  <div class="footertext">A-7A Dsidc narela industrial area, Delhi - 110040.</div>
+                </div>
+                <div class="d-flex gap-2 topmargin15">
+                  <div class="footertext"><i class="fa-solid fa-envelope"></i></div>
+                  <div class="footertext"><a href="mailto:sales@footlandsafety.com">sales@footlandsafety.com</a></div>
+                </div>
+                <div class="d-flex gap-2 topmargin15">
+                  <div class="footertext"><i class="fa-solid fa-phone"></i></div>
+                  <div class="footertext"><a href="tel:+919958158972">+91 99581 58972</a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 rowmargin20">
+            <div class="footermenuarea">
+              <h6>Quick Links</h6>
+              <div class="row">
+                <div class="col-6">
+                  <div class="footertext">
+                    <ul>
+                      <li><a href="default.html">Home</a></li>
+                      <li><a href="aboutus.html">About us</a></li>
+                      <li><a href="pdf/catalogue.pdf" target="_blank">eCatalogue</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="footertext">
+                    <ul>
+                      <li><a href="products.html">Products</a></li>
+                      <li><a href="contact.php">Contact</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-2 rowmargin20">
+            <h6>Our Accreditation</h6>
+            <div><img src="img/footer_logo.jpg" class="img-fluid" /></div>
+          </div>
+        </div>
+        <div class="copyrightarea">Ⓒ <script>
+            document.write(new Date().getFullYear())
+          </script>. Footland Safety Industries.</div>
+      </div>
+    </footer>
+    <!-- Footer section end -->
+
+  </main>
+
+  <script type="text/javascript" src="js/menu.js"></script>
+
+</body>
+
+</html>

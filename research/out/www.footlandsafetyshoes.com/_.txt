@@ -1,0 +1,534 @@
+URL: https://www.footlandsafetyshoes.com/
+STATUS: 200
+TYPE: text/html
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Footland Safety Shoes</title>
+    <meta name="description" content="Safety Reimagined by Footland Safety Industries, we are dedicated to building more than just safety shoes - We build confidence.">
+    <meta name="keywords" content="Safety, Performance, Durability, Protection, Comfort">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="canonical" href="https://www.footlandsafetyshoes.com/">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
+    <link href="css/form.css" rel="stylesheet" type="text/css">
+    <link href="swipperslider/swiper.min.css" rel="stylesheet" type="text/css">
+    <link href="fonts/fontawesome/css/all.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
+    <script type="text/javascript" src="js/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+
+    <!-- Fixed Header script start-->
+    <script>
+        $(window).on("scroll", function() {
+            if ($(window).scrollTop() > 50) {
+                $(".topband").addClass("active");
+            } else {
+                //remove the background property so it comes transparent again (defined in your css)
+                $(".topband").removeClass("active");
+            }
+        });
+    </script>
+    <!-- Fixed Header script end-->
+
+    <!-- Animated Css and script start-->
+    <link rel="stylesheet" href="animate/animate.css">
+    <script src="animate/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <!-- Animated Css and script end-->
+
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+
+    <main class="mainwrapper">
+        <!-- header start -->
+        <header class="topband">
+            <div class="container">
+                <div class="row padding5pxarea align-items-center">
+                    <div class="col-md-5 col-7 padding5px">
+                        <div class="logo">
+                            <a href="default.html"><img src="img/logo.jpg" alt="Footland Safety" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-7 col-5 padding5px">
+                        <div class="topphoneemailarea">
+                            <ul>
+                                <li><a href="tel:+919958158972"><i class="fa-solid fa-phone"></i></a></li>
+                                <li><a href="mailto:info@footlandsafety.com"><i class="fa-solid fa-envelope"></i></a></li>
+                            </ul>
+                        </div>
+                        <!-- menu start here -->
+                        <div class="header">
+                            <div class="menuarea">
+                                <div class="menu-overlay"></div>
+                                <nav class="menu">
+                                    <div class="mobile-menu-head">
+                                        <div class="go-back"><i class="fa fa-angle-left"></i></div>
+                                        <div class="current-menu-title"></div>
+                                        <div class="mobile-menu-close">&times;</div>
+                                    </div>
+                                    <ul class="menu-main">
+                                        <li><a href="default.html">Home</i></a></li>
+                                        <li><a href="aboutus.html">About us</i></a></li>
+                                        <li><a href="products.html">Products</i></a></li>
+                                        <li><a href="contact.php">Contact</i></a></li>
+                                        <li><a href="pdf/catalogue.pdf" target="_blank">eCatalogue</i></a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="mobile-menu-trigger"><span></span></div>
+                        </div>
+                        <!-- menu end here -->
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- header end -->
+
+        <div class="maincontarea">
+
+            <!-- Collage video section start -->
+            <div class="collage">
+  <video width="100%" loop autoplay muted playsinline>
+    <source src="footlandvdo.mp4" type="video/mp4" />
+    <source src="footlandvdo.ogv" type="video/ogv" />
+    <source src="footlandvdo.webm" type="video/webm" />
+  </video>
+</div>
+            <!-- Collage video section end -->
+
+            <!-- About us section start -->
+            <section class="aboutusarea">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-7 order-sm-last">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <div class="infotxt wow fadeIn" style="animation-delay: 0.3s;"><strong>“Safety Reimagined”</strong> by Footland Safety Industries, we are dedicated to building more than just safety shoes - <span class="infotxttag">"We build confidence."</span><br><br> Established in 2023, we set
+                                        out with a singular mission: to redefine premium safety footwear in India. Our commitment to innovation and quality has quickly positioned us as a trusted leader in the industry.<br><br>
+                                        <strong>Our vision is simple</strong> <span class="infotxttag">“To redefine safety shoes.”</span><br> We combine <strong>cutting-edge technology</strong> with <strong>BIS/ISI certification standards</strong> to
+                                        deliver products that offer rugged durability, certified protection, and unmatched comfort.
+
+                                    </div>
+                                    <div class="topmargin30 wow flipInX"><a href="aboutus.html"><button type="button" class="btn button-four btnmd">Learn More</button></a></div>
+                                </div>
+                                <div class="col-sm-3 rowmargin30">
+                                    <div class="aboutlinearea">
+                                        <div class="aboutlineline">
+                                            <div class="aboutlinecircle wow fadeInUp" style="animation-delay: 0.2s;">Safety </div>
+                                            <div class="aboutlinecircle wow fadeInUp" style="animation-delay: 0.3s;">Performance</div>
+                                            <div class="aboutlinecircle wow fadeInUp" style="animation-delay: 0.4s;">Durability</div>
+                                            <div class="aboutlinecircle wow fadeInUp" style="animation-delay: 0.5s;">Protection</div>
+                                            <div class="aboutlinecircle wow fadeInUp" style="animation-delay: 0.6s;">Comfort</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-5 order-sm-first rowmargin30">
+                            <div class="wow slideInUp">
+                                <img src="img/aboutimg.jpg" class="img-fluid" alt="About us">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- About us section end -->
+
+            <!-- Product section start -->
+            <section class="productsarea">
+                <div class="container">
+
+                    <div class="divider">
+                        <div class="divider-line"></div>
+                        <div class="divider-text"><h2>Products</h2></div>
+                        <div class="divider-line"></div>
+                    </div>
+                    <div class="infotxt text-center">Engineered for Safety. Designed for You.</div>
+
+                    <div class="swiper-container topmargin30">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="z4.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/z4.jpg" alt="Z4"></div>
+                                            <h5>Z4</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="victor.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/victor.jpg" alt="Victor"></div>
+                                            <h5>Victor</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="collar_boot.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/collar_boot.jpg" alt="Collar Boot"></div>
+                                            <h5>Collar Boot</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="signature.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/signature.jpg" alt="Signature"></div>
+                                            <h5>Signature</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="v8.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/v8.jpg" alt="V8"></div>
+                                            <h5>V8</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="pilot_grey.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/pilot_grey.jpg" alt="Pilot Grey"></div>
+                                            <h5>Pilot Grey</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="pilot_brown.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/pilot_brown.jpg" alt="Pilot Brown"></div>
+                                            <h5>Pilot Brown</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="pilot_orange.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/pilot_orange.jpg" alt="Pilot Orange"></div>
+                                            <h5>Pilot Orange</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="rainwood.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/rainwood.jpg" alt="Rainwood"></div>
+                                            <h5>Rainwood</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="sumo.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/sumo.jpg" alt="Sumo"></div>
+                                            <h5>Sumo</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="productboxarea">
+                                    <a href="yodha.html">
+                                        <div class="productbox">
+                                            <div class="productboximg"><img src="img/yodha.jpg" alt="Yodha"></div>
+                                            <h5>Yodha</h5>
+                                            <div class="topmargin15"><button type="button" class="productboxbtn"><i class="fa-solid fa-chevron-right"></i></button></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                        <!-- If we need navigation buttons 
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>-->
+                    </div>
+                </div>
+            </section>
+            <!-- Product section end -->
+
+            <!-- Bottom section start -->
+            <section class="bottomsecarea">
+                <div class="container">
+                    <div class="divider">
+                        <div class="divider-line"></div>
+                        <div class="divider-text"><h2>The Core of Footland</h2></div>
+                        <div class="divider-line"></div>
+                    </div>
+                    <div class="madeforworkarea">
+                        <ul class="nav nav-tabs1 navtabsarea" role="tablist">
+                            <li class="nav-item1" role="presentation"><a class="nav-link1 active" id="simple-tab-0" data-bs-toggle="tab" href="#simple-tabpanel-0" role="tab" aria-controls="simple-tabpanel-0" aria-selected="true">Vision</a></li>
+                            <li class="nav-item1" role="presentation"><a class="nav-link1" id="simple-tab-1" data-bs-toggle="tab" href="#simple-tabpanel-1" role="tab" aria-controls="simple-tabpanel-1" aria-selected="false">Mission</a></li>
+                            <li class="nav-item1" role="presentation"><a class="nav-link1" id="simple-tab-2" data-bs-toggle="tab" href="#simple-tabpanel-2" role="tab" aria-controls="simple-tabpanel-2" aria-selected="false">USP</a></li>
+                        </ul>
+                        <div class="tab-content1" id="tab-content">
+                            <div class="tab-pane active" id="simple-tabpanel-0" role="tabpanel" aria-labelledby="simple-tab-0">
+                                <div class="madeforworktabcontarea">
+                                    <div class="row">
+                                        <div class="col-md-8 wow fadeIn">
+                                            <h4>Complete Foot Safety Solutions Providers</h4>
+                                            <div class="madeforworktabtext">Trusted across all sectors and job roles to keep workers safe.
+                                                <br><br>
+                                                <div class="madeforworktabtext2">
+                                                    “The <span>leading safety partner</span> across every industry where protective footwear is essential.”
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 wow fadeIn text-center rowmargin30"><img src="img/vision.png" class="img-fluid" alt="Vision"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane" id="simple-tabpanel-1" role="tabpanel" aria-labelledby="simple-tab-1">
+                                <div class="madeforworktabcontarea">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <h4>Every Workers Choice! </h4>
+                                            <div class="madeforworktabtext"><span>life is always at a risk — the labourers, the factory workers and the builders.</span></div>
+                                            <br>
+                                            <div class="madeforworktabtext">
+                                                <div class="leftborder">
+                                                    Replace every casual Footwear with <span>Certified safety shoes</span> for every worker who risks their life just to earn a living.
+                                                    <br><br> We Promise to deliver every pair of shoes with <span>superior protection, unwavering comfort, and affordability!</span>
+                                                </div><br>
+                                                <span>Setting new benchmarks in safety, comfort, and trust for every workforce.</span>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 text-end rowmargin30"><img src="img/mission.png" class="img-fluid" alt="Mission"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane" id="simple-tabpanel-2" role="tabpanel" aria-labelledby="simple-tab-2">
+                                <div class="madeforworktabcontarea">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <h4>Built with Strobel & Toe Lasting for Extra Comfort & Strength</h4>
+                                            <div class="madeforworktabtext">In a market full of shortcuts, Footland Safety Industries stands out by using Strobel and Toe Lasting in every shoe — techniques rarely used in this unorganized industry.
+                                                <br><br>
+                                                <div class="leftborder">
+                                                    <span style="color: #ff646e;">Strobel Lasting</span> - A special stitching method that makes shoes flexible, lightweight, and shock-absorbent, perfect for long hours.<br><br>
+                                                    <span style="color: #ff646e;">Toe Lasting</span> - Gives the shoe a perfect front shape and fit, improving comfort, safety, and durability.
+                                                </div>
+                                                <br> While others focus only on selling shoes, we focus on real safety that feels good all day.
+                                                <br>
+                                                <span>That’s what makes Footland different.</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 text-end rowmargin30" style="animation-delay: 0.2s;"><img src="img/uspimg.png" class="img-fluid" alt="USP"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divider">
+                        <div class="divider-line"></div>
+                        <div class="divider-text"><h2>Industries We Serve</h2></div>
+                        <div class="divider-line"></div>
+                    </div>
+                    <div class="infotxt text-center wow fadeInUp">At <span class="infotxtbold">Footland Safety Industries,</span> our safety shoes are trusted by workers across multiple sectors. Wherever there’s risk, <span class="infotxtbold">we deliver protection.</span></div>
+                    <div class="row topmargin20">
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.1s;">
+                                <div class="industriesboximg"><img src="img/industries_img01.jpg" alt="Construction & Infrastructure"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Construction & Infrastructure</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.2s;">
+                                <div class="industriesboximg"><img src="img/industries_img02.jpg" alt="Manufacturing & Engineering"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Manufacturing & Engineering</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.3s;">
+                                <div class="industriesboximg"><img src="img/industries_img03.jpg" alt="Logistic & Warehousing"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Logistic & Warehousing</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.4s;">
+                                <div class="industriesboximg"><img src="img/industries_img04.jpg" alt="Road & Highway Projects"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Road & Highway Projects</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.5s;">
+                                <div class="industriesboximg"><img src="img/industries_img05.jpg" alt="Realestate & Civil Work"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Realestate & Civil Work</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.6s;">
+                                <div class="industriesboximg"><img src="img/industries_img06.jpg" alt="Automobile & Workshops"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Automobile & Workshops</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.7s;">
+                                <div class="industriesboximg"><img src="img/industries_img07.jpg" alt="Oil & Gas Industry"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Oil & Gas Industry</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4">
+                            <div class="industriesbox wow fadeInUp" style="animation-delay: 0.8s;">
+                                <div class="industriesboximg"><img src="img/industries_img08.jpg" alt="Mining & Heavy Machinary"></div>
+                                <div class="industriesboxcontarea">
+                                    <div class="industriesboxcont">
+                                        <h6>Mining & Heavy Machinary</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Bottom section end -->
+        </div>
+
+        <!-- Footer section start -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 col-md-6">
+                        <div class="row">
+                            <div class="col-3">
+                                <div class="footerlogo"><img src="img/footerlogo.png" class="img-fluid"></div>
+                            </div>
+                            <div class="col-9">
+                                <h6>Footland Safety Industries</h6>
+                                <div class="d-flex gap-2">
+                                    <div class="footertext"><i class="fa-solid fa-location-dot"></i></div>
+                                    <div class="footertext">A-7A Dsidc narela industrial area, Delhi - 110040.</div>
+                                </div>
+                                <div class="d-flex gap-2 topmargin15">
+                                    <div class="footertext"><i class="fa-solid fa-envelope"></i></div>
+                                    <div class="footertext"><a href="mailto:sales@footlandsafety.com">sales@footlandsafety.com</a></div>
+                                </div>
+                                <div class="d-flex gap-2 topmargin15">
+                                    <div class="footertext"><i class="fa-solid fa-phone"></i></div>
+                                    <div class="footertext"><a href="tel:+919958158972">+91 99581 58972</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 rowmargin20">
+                        <div class="footermenuarea">
+                            <h6>Quick Links</h6>
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="footertext">
+                                        <ul>
+                                            <li><a href="default.html">Home</a></li>
+                                            <li><a href="aboutus.html">About us</a></li>
+                                            <li><a href="pdf/catalogue.pdf" target="_blank">eCatalogue</i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="footertext">
+                                        <ul>
+                                            <li><a href="products.html">Products</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-2 rowmargin20">
+                        <h6>Our Accreditation</h6>
+                        <div><img src="img/footer_logo.jpg" class="img-fluid" /></div>
+                    </div>
+                </div>
+                <div class="copyrightarea">Ⓒ
+                    <script>
+                        document.write(new Date().getFullYear())
+                    </script>. Footland Safety Industries.</div>
+            </div>
+        </footer>
+        <!-- Footer section end -->
+
+    </main>
+
+    <script type="text/javascript" src="js/menu.js"></script>
+    <script type="text/javascript" src="swipperslider/swiper.min.js"></script>
+    <script type="text/javascript" src="swipperslider/swiper.js"></script>
+
+</body>
+
+</html>

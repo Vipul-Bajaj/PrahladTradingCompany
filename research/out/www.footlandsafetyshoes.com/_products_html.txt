@@ -1,0 +1,401 @@
+URL: https://www.footlandsafetyshoes.com/products.html
+STATUS: 200
+TYPE: text/html
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Products - Footland Safety Shoes</title>
+    <meta name="description" content="At Footland Safety Industries, quality is not a checkbox – it's a commitment. Our in-house production, skilled craftsmanship, and strict quality controls ensure that every pair leaving our facility meets the highest industry benchmarks.">
+    <meta name="keywords" content="Safety, Performance, Durability, Protection, Comfort">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
+    <link href="css/form.css" rel="stylesheet" type="text/css">
+    <link href="fonts/fontawesome/css/all.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <script type="text/javascript" src="js/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+
+    <!-- Fixed Header script start-->
+    <script>
+        $(window).on("scroll", function() {
+            if ($(window).scrollTop() > 50) {
+                $(".topband").addClass("active");
+            } else {
+                //remove the background property so it comes transparent again (defined in your css)
+                $(".topband").removeClass("active");
+            }
+        });
+    </script>
+    <!-- Fixed Header script end-->
+
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+
+    <main class="mainwrapper">
+        <!-- header start -->
+        <header class="topband">
+            <div class="container">
+                <div class="row padding5pxarea align-items-center">
+                    <div class="col-md-5 col-7 padding5px">
+                        <div class="logo">
+                            <a href="default.html"><img src="img/logo.jpg" alt="Footland Safety" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-7 col-5 padding5px">
+                        <div class="topphoneemailarea">
+                            <ul>
+                                <li><a href="tel:+919958158972"><i class="fa-solid fa-phone"></i></a></li>
+                                <li><a href="mailto:info@footlandsafety.com"><i class="fa-solid fa-envelope"></i></a></li>
+                            </ul>
+                        </div>
+                        <!-- menu start here -->
+                        <div class="header">
+                            <div class="menuarea">
+                                <div class="menu-overlay"></div>
+                                <nav class="menu">
+                                    <div class="mobile-menu-head">
+                                        <div class="go-back"><i class="fa fa-angle-left"></i></div>
+                                        <div class="current-menu-title"></div>
+                                        <div class="mobile-menu-close">&times;</div>
+                                    </div>
+                                    <ul class="menu-main">
+                                        <li><a href="default.html">Home</i></a></li>
+                                        <li><a href="aboutus.html">About us</i></a></li>
+                                        <li><a href="products.html">Products</i></a></li>
+                                        <li><a href="contact.php">Contact</i></a></li>
+                                        <li><a href="pdf/catalogue.pdf" target="_blank">eCatalogue</i></a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="mobile-menu-trigger"><span></span></div>
+                        </div>
+                        <!-- menu end here -->
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- header end -->
+
+        <div class="maincontarea">
+
+            <!-- Collage section start -->
+            <div class="innercollage">
+                <div class="innercollageheading">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <nav aria-label="breadcrumb">
+                                    <ol class="breadcrumb">
+                                        <li class="breadcrumb-item"><a href="default.html">Home</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">Products</li>
+                                    </ol>
+                                </nav>
+                            </div>
+                            <div class="col-sm-6 right-mob-left rowmargin10">
+
+                                <div class="text-wrapper">
+                                    Footland Provides
+                                    <span>
+      <b>Safety</b>
+      <b>Performance</b>
+      <b>Durability</b>
+      <b>Protection</b>
+      <b>Comfort</b>
+    </span>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Collage section end -->
+
+            <!-- Inner content section start -->
+            <section class="innercontarea">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="z4.html">
+                                    <div class="innerproductboximg"><img src="img/z4.jpg" alt="Z4"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Z4</h3>
+                                        <p class="text-p">
+                                            The Footland Z4 is a durable PVC-injected safety shoe designed for all-day protection and comfort.
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="victor.html">
+                                    <div class="innerproductboximg"><img src="img/victor.jpg" alt="Victor"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Victor</h3>
+                                        <p class="text-p">
+                                            When the job calls for serious protection, the Footland Victor delivers. A reinforced steel toe and high ankle support guard against hazards...
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="collar_boot.html">
+                                    <div class="innerproductboximg"><img src="img/collar_boot.jpg" alt="Collar Boot"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Collar Boot</h3>
+                                        <p class="text-p">
+                                            Rugged, dependable, and built for protection—the Footland Collar Boot features a steel toe and durable PVC sole that resists oil, acids...
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="signature.html">
+                                    <div class="innerproductboximg"><img src="img/signature.jpg" alt="Signature"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Signature</h3>
+                                        <p class="text-p">
+                                            The Footland Signature is built for industries where safety can’t be compromised.
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="v8.html">
+                                    <div class="innerproductboximg"><img src="img/v8.jpg" alt="V8"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">V8</h3>
+                                        <p class="text-p">
+                                            Built for long, tough shifts, the Footland V8 keeps your team protected and comfortable from start to finish.
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="pilot_grey.html">
+                                    <div class="innerproductboximg"><img src="img/pilot_grey.jpg" alt="Pilot Grey"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Pilot Grey</h3>
+                                        <p class="text-p">
+                                            The Footland Pilot is the dependable partner your crew needs. Strong steel toe protection meets a lightweight design for all-day wear.
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="pilot_brown.html">
+                                    <div class="innerproductboximg"><img src="img/pilot_brown.jpg" alt="Pilot Brown"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Pilot Brown</h3>
+                                        <p class="text-p">
+                                            The Footland Pilot is the dependable partner your crew needs. Strong steel toe protection meets a lightweight design for all-day wear.
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="pilot_orange.html">
+                                    <div class="innerproductboximg"><img src="img/pilot_orange.jpg" alt="Pilot Orange"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Pilot Orange</h3>
+                                        <p class="text-p">
+                                            The Footland Pilot is the dependable partner your crew needs. Strong steel toe protection meets a lightweight design for all-day wear.
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="rainwood.html">
+                                    <div class="innerproductboximg"><img src="img/rainwood.jpg" alt="Rainwood"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Rainwood</h3>
+                                        <p class="text-p">
+                                            The Footland Rainwood blends durability with comfort for everyday industrial wear. A protective steel toe and PVC sole keep hazards at bay...
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="sumo.html">
+                                    <div class="innerproductboximg"><img src="img/sumo.jpg" alt="Sumo"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Sumo</h3>
+                                        <p class="text-p">
+                                            For the toughest jobs, the Footland Sumo offers maximum protection. Its high-cut design supports the ankle, while a reinforced steel toe defends...
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="card">
+                                <a href="yodha.html">
+                                    <div class="innerproductboximg"><img src="img/yodha.jpg" alt="Yodha"></div>
+                                    <div class="intro">
+                                        <h3 class="text-h1">Yodha</h3>
+                                        <p class="text-p">
+                                            Ready for any challenge, the Footland Yodha combines steel toe safety with a rugged PVC sole that resists oil, acids, and chemicals.
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+
+
+                        <div class="col-md-4">
+
+                            <div class="card2 text-center">
+
+                                <div class="infotxttag">
+                                    Still unsure which product fits<br/> your requirement?
+                                    <br/><br/>
+                                    <span class="infotxt">Tell us your requirement,<br/> and we’ll provide the right safety solution.</span>
+                                    <br/>
+                                    <div class="topmargin30 text-center"><a href="contact.php"><button type="button" class="btn primarybtn btnmd">Enquire Now</button></a></div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </section>
+            <!-- Inner content section end -->
+
+        </div>
+
+        <!-- Footer section start -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 col-md-6">
+                        <div class="row">
+                            <div class="col-3">
+                                <div class="footerlogo"><img src="img/footerlogo.png" class="img-fluid"></div>
+                            </div>
+                            <div class="col-9">
+                                <h6>Footland Safety Industries</h6>
+                                <div class="d-flex gap-2">
+                                    <div class="footertext"><i class="fa-solid fa-location-dot"></i></div>
+                                    <div class="footertext">A-7A Dsidc narela industrial area, Delhi - 110040.</div>
+                                </div>
+                                <div class="d-flex gap-2 topmargin15">
+                                    <div class="footertext"><i class="fa-solid fa-envelope"></i></div>
+                                    <div class="footertext"><a href="mailto:sales@footlandsafety.com">sales@footlandsafety.com</a></div>
+                                </div>
+                                <div class="d-flex gap-2 topmargin15">
+                                    <div class="footertext"><i class="fa-solid fa-phone"></i></div>
+                                    <div class="footertext"><a href="tel:+919958158972">+91 99581 58972</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 rowmargin20">
+                        <div class="footermenuarea">
+                            <h6>Quick Links</h6>
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="footertext">
+                                        <ul>
+                                            <li><a href="default.html">Home</a></li>
+                                            <li><a href="aboutus.html">About us</a></li>
+                                            <li><a href="pdf/catalogue.pdf" target="_blank">eCatalogue</i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="footertext">
+                                        <ul>
+                                            <li><a href="products.html">Products</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-2 rowmargin20">
+                        <h6>Our Accreditation</h6>
+                        <div><img src="img/footer_logo.jpg" class="img-fluid" /></div>
+                    </div>
+                </div>
+                <div class="copyrightarea">Ⓒ
+                    <script>
+                        document.write(new Date().getFullYear())
+                    </script>. Footland Safety Industries.</div>
+            </div>
+        </footer>
+        <!-- Footer section end -->
+
+    </main>
+
+    <script type="text/javascript" src="js/menu.js"></script>
+
+</body>
+
+</html>
