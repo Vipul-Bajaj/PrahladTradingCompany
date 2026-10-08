@@ -1,0 +1,282 @@
+import Media from './Media';
+import { company, brands, categories, brandName, enquiryMailto } from '../data/site';
+
+function PhoneIcon() {
+  return (
+    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+      <path
+        fill="currentColor"
+        d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1L6.6 10.8Z"
+      />
+    </svg>
+  );
+}
+
+function Header() {
+  return (
+    <header className="site-header">
+      <div className="wrap site-header__inner">
+        <a className="wordmark" href="#top" aria-label={`${company.name}, back to top`}>
+          <span className="wordmark__mark" aria-hidden="true">P</span>
+          <span className="wordmark__text">
+            Prahlad Trading <span>Company</span>
+          </span>
+        </a>
+        <nav className="site-nav" aria-label="Main">
+          <a href="#products">Products</a>
+          <a href="#brands">Brands</a>
+          <a href="#order">How to order</a>
+          <a href="#contact">Contact</a>
+        </nav>
+        <a
+          className="btn btn--solid btn--small header-call"
+          href={company.phoneHref}
+          aria-label={`Call ${company.phoneDisplay}`}
+        >
+          <PhoneIcon />
+          <span className="header-call__label">{company.phoneDisplay}</span>
+        </a>
+      </div>
+    </header>
+  );
+}
+
+function Hero() {
+  return (
+    <section className="hero" id="top">
+      <div className="wrap hero__grid">
+        <div className="hero__copy">
+          <h1 className="hero__title">Safety equipment for Raipur’s plants and work sites.</h1>
+          <p className="hero__lede">
+            Helmets, safety shoes, gloves, harnesses and fire extinguishers from Acme, Karam, Udyogi, Mallcom and Omex.
+            Supplying Raipur’s industry for {company.years} years.
+          </p>
+          <div className="hero__actions">
+            <a className="btn btn--solid" href={company.phoneHref}>
+              <PhoneIcon /> Call {company.phoneDisplay}
+            </a>
+            <a className="btn btn--line" href={enquiryMailto('Requirement for safety equipment')}>
+              Email your requirement
+            </a>
+          </div>
+          <p className="hero__hours">Open {company.hoursShort}</p>
+        </div>
+        <figure className="hero__figure">
+          <Media
+            id="hero"
+            alt="Worker wearing a full body safety harness"
+            className="hero__img"
+            loading="eager"
+            fallback={<div className="hero__img hero__img--empty" aria-hidden="true" />}
+          />
+        </figure>
+      </div>
+    </section>
+  );
+}
+
+function LogoStrip() {
+  return (
+    <section className="logo-strip" aria-label="Brands we deal in">
+      <ul className="wrap logo-strip__list">
+        {brands.map((b) => (
+          <li key={b.id} className="logo-strip__item">
+            <Media
+              id={b.logo}
+              alt={`${b.name} logo`}
+              className="logo-strip__img"
+              fallback={<span className="logo-fallback">{b.name}</span>}
+            />
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+
+function Products() {
+  return (
+    <section className="section" id="products" aria-labelledby="products-title">
+      <div className="wrap">
+        <div className="section__head">
+          <h2 id="products-title">What we stock</h2>
+          <p>
+            Nine kinds of protective equipment, in the sizes and quantities a plant or site needs. Open any category to
+            see what’s in it.
+          </p>
+        </div>
+        <ul className="catalogue">
+          {categories.map((c) => (
+            <li key={c.id} className="cat">
+              <div className="cat__photo">
+                <Media
+                  id={c.media}
+                  alt={c.name}
+                  className="cat__img"
+                  fallback={<span className="cat__img cat__img--empty">{c.name}</span>}
+                />
+              </div>
+              <div className="cat__body">
+                <h3 className="cat__name">{c.name}</h3>
+                <p className="cat__summary">{c.summary}</p>
+                <p className="cat__brands">
+                  <span className="visually-hidden">Brands: </span>
+                  {c.brands.map((id) => (
+                    <span key={id} className="chip">
+                      {brandName(id)}
+                    </span>
+                  ))}
+                </p>
+                <details className="cat__more">
+                  <summary>What’s included</summary>
+                  <ul>
+                    {c.items.map((it) => (
+                      <li key={it}>{it}</li>
+                    ))}
+                  </ul>
+                  <a className="text-link" href={enquiryMailto(`Price enquiry: ${c.name}`)}>
+                    Ask for a price
+                  </a>
+                </details>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  );
+}
+
+function Brands() {
+  return (
+    <section className="section section--grey" id="brands" aria-labelledby="brands-title">
+      <div className="wrap">
+        <div className="section__head">
+          <h2 id="brands-title">Brands we deal in</h2>
+          <p>Genuine products, bought from the manufacturer or its distribution network.</p>
+        </div>
+        <ul className="brand-list">
+          {brands.map((b) => (
+            <li key={b.id} className="brand-row">
+              <div className="brand-row__logo">
+                <Media
+                  id={b.logo}
+                  alt={`${b.name} logo`}
+                  className="brand-row__img"
+                  fallback={<span className="logo-fallback">{b.name}</span>}
+                />
+              </div>
+              <div className="brand-row__text">
+                <h3>{b.name}</h3>
+                <p>{b.makes}</p>
+              </div>
+              <p className={`badge badge--${b.relationship}`}>
+                {b.relationship === 'authorized' ? 'Authorized dealer' : 'Products available'}
+              </p>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  );
+}
+
+function HowToOrder() {
+  const steps = [
+    ['Send your list', 'Call us, or email the items, sizes and quantities you need.'],
+    ['Get a quotation', 'We confirm what’s in stock and send you prices.'],
+    ['Confirm and collect', 'Confirm the order and we keep it ready for you.'],
+  ];
+  return (
+    <section className="section" id="order" aria-labelledby="order-title">
+      <div className="wrap order">
+        <div className="section__head">
+          <h2 id="order-title">Ordering for a plant or site</h2>
+          <p>Bulk and repeat orders are most of our work. Send one list for the whole crew.</p>
+        </div>
+        <ol className="steps">
+          {steps.map(([t, d]) => (
+            <li key={t} className="step">
+              <h3>{t}</h3>
+              <p>{d}</p>
+            </li>
+          ))}
+        </ol>
+      </div>
+    </section>
+  );
+}
+
+function Contact() {
+  return (
+    <section className="contact" id="contact" aria-labelledby="contact-title">
+      <div className="wrap contact__grid">
+        <div>
+          <h2 id="contact-title">Talk to us</h2>
+          <p className="contact__lede">Ask for {company.owner}.</p>
+          <div className="hero__actions">
+            <a className="btn btn--solid" href={company.phoneHref}>
+              <PhoneIcon /> Call {company.phoneDisplay}
+            </a>
+            <a className="btn btn--line btn--on-dark" href={enquiryMailto('Enquiry from website')}>
+              Email us
+            </a>
+          </div>
+        </div>
+        <dl className="contact__facts">
+          <div>
+            <dt>Phone</dt>
+            <dd>
+              <a href={company.phoneHref}>{company.phoneDisplay}</a>
+            </dd>
+          </div>
+          <div>
+            <dt>Email</dt>
+            <dd>
+              <a href={`mailto:${company.email}`}>{company.email}</a>
+            </dd>
+          </div>
+          <div>
+            <dt>Hours</dt>
+            <dd>{company.hours}</dd>
+          </div>
+          <div>
+            <dt>Location</dt>
+            <dd>{company.city}</dd>
+          </div>
+        </dl>
+      </div>
+    </section>
+  );
+}
+
+function Footer() {
+  return (
+    <footer className="site-footer">
+      <div className="wrap site-footer__inner">
+        <p>© {new Date().getFullYear()} {company.name}, {company.city}</p>
+        <p>Brand names and logos belong to their respective owners.</p>
+      </div>
+    </footer>
+  );
+}
+
+export default function HomePage() {
+  return (
+    <>
+      <a className="skip-link" href="#products">
+        Skip to products
+      </a>
+      <Header />
+      <main>
+        <Hero />
+        <LogoStrip />
+        <Products />
+        <Brands />
+        <HowToOrder />
+        <Contact />
+      </main>
+      <Footer />
+    </>
+  );
+}

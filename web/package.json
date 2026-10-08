@@ -1,0 +1,16 @@
+{
+  "name": "prahlad-trading-company-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "media": "node scripts/fetch-media.mjs",
+    "dev": "next dev",
+    "build": "node scripts/fetch-media.mjs && next build",
+    "start": "npx serve out"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
