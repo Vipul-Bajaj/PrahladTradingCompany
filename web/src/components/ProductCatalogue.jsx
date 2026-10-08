@@ -2,22 +2,19 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Media from './Media';
-import { shoes, shoeBrands } from '../data/shoes';
 import { company } from '../data/site';
-
-const brandOf = (id) => shoeBrands.find((b) => b.id === id);
 
 export function whatsappLink(text) {
   return `https://wa.me/${company.whatsapp}?text=${encodeURIComponent(text)}`;
 }
 
-export function buildEnquiry(shoe, f) {
+export function buildEnquiry(shoe, f, enquiry) {
   const lines = [
     'Enquiry from prahladtrading website',
     '',
-    `Product: ${shoe.name}${shoe.code ? ` (${shoe.code})` : ''}`,
-    `Sizes: ${f.sizes}`,
-    `Quantity: ${f.quantity} pairs`,
+    `Product: ${shoe.name}${shoe.code && !shoe.name.includes(shoe.code) ? ` (${shoe.code})` : ''}`,
+    `${enquiry.variantLabel}: ${f.variant}`,
+    `Quantity: ${f.quantity} ${enquiry.unit}`,
     '',
     `Name: ${f.name}`,
   ];
@@ -68,7 +65,7 @@ function Specs({ shoe, onEnquire }) {
         ))}
       </dl>
       <p className="dialog__note">
-        Specifications as published by the manufacturer. Confirm the current version with us before ordering.
+        {shoe.note || 'Specifications as published by the manufacturer. Confirm the current version with us before ordering.'}
       </p>
       <div className="dialog__actions">
         <button type="button" className="btn btn--solid" onClick={onEnquire}>
@@ -79,13 +76,13 @@ function Specs({ shoe, onEnquire }) {
   );
 }
 
-function EnquiryForm({ shoe, onBack }) {
+function EnquiryForm({ shoe, enquiry, onBack }) {
   const [sent, setSent] = useState(null);
 
   function submit(e) {
     e.preventDefault();
     const data = Object.fromEntries(new FormData(e.currentTarget).entries());
-    const url = whatsappLink(buildEnquiry(shoe, data));
+    const url = whatsappLink(buildEnquiry(shoe, data, enquiry));
     window.open(url, '_blank', 'noopener');
     setSent(url);
   }
@@ -116,11 +113,11 @@ function EnquiryForm({ shoe, onBack }) {
       </p>
       <div className="field-row">
         <label className="field">
-          <span>Sizes</span>
-          <input name="sizes" required placeholder="e.g. UK 7, 8, 9" autoComplete="off" />
+          <span>{enquiry.variantLabel}</span>
+          <input name="variant" required placeholder={enquiry.variantPlaceholder} autoComplete="off" />
         </label>
         <label className="field">
-          <span>Quantity (pairs)</span>
+          <span>Quantity ({enquiry.unit})</span>
           <input name="quantity" required type="number" min="1" inputMode="numeric" placeholder="e.g. 20" />
         </label>
       </div>
@@ -146,7 +143,7 @@ function EnquiryForm({ shoe, onBack }) {
         <span>
           Anything else <em>(optional)</em>
         </span>
-        <textarea name="note" rows="3" placeholder="Delivery date, size split, other items" />
+        <textarea name="note" rows="3" placeholder={enquiry.notePlaceholder} />
       </label>
       <div className="dialog__actions">
         <button type="submit" className="btn btn--whatsapp">
@@ -160,7 +157,8 @@ function EnquiryForm({ shoe, onBack }) {
   );
 }
 
-export default function ShoeCatalogue() {
+export default function ProductCatalogue({ items, brands, enquiry }) {
+  const brandOf = (id) => brands.find((b) => b.id === id);
   const dialogRef = useRef(null);
   const [shoe, setShoe] = useState(null);
   const [view, setView] = useState('specs');
@@ -183,7 +181,7 @@ export default function ShoeCatalogue() {
     <>
       <h2 className="visually-hidden">Models</h2>
       <ul className="shoe-grid">
-        {shoes.map((s) => (
+        {items.map((s) => (
           <ShoeCard key={s.id} shoe={s} onOpen={open} />
         ))}
       </ul>
@@ -214,7 +212,9 @@ export default function ShoeCatalogue() {
                   <h2 id="dialog-title">
                     {view === 'specs' ? shoe.name : `Enquire about ${shoe.name}`}
                   </h2>
-                  {shoe.code && view === 'specs' && <p className="dialog__code">Model {shoe.code}</p>}
+                  {shoe.code && !shoe.name.includes(shoe.code) && view === 'specs' && (
+                    <p className="dialog__code">Model {shoe.code}</p>
+                  )}
                 </div>
                 <button type="button" className="dialog__close" onClick={close} aria-label="Close">
                   <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
@@ -225,7 +225,7 @@ export default function ShoeCatalogue() {
               {view === 'specs' ? (
                 <Specs shoe={shoe} onEnquire={() => setView('enquiry')} />
               ) : (
-                <EnquiryForm key={shoe.id} shoe={shoe} onBack={() => setView('specs')} />
+                <EnquiryForm key={shoe.id} shoe={shoe} enquiry={enquiry} onBack={() => setView('specs')} />
               )}
             </div>
           </div>

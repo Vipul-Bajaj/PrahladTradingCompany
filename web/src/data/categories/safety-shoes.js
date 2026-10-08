@@ -5,7 +5,7 @@
 //   L&T SuFin), because Acme's Indian site couldn't be reached.
 // Rows a source doesn't publish are left out, not guessed.
 
-export const shoeBrands = [
+const brands = [
   {
     id: 'acme',
     name: 'Acme',
@@ -26,7 +26,7 @@ export const shoeBrands = [
   },
 ];
 
-export const shoes = [
+const items = [
   {
     id: 'acme-atom',
     brand: 'acme',
@@ -243,4 +243,136 @@ export const shoes = [
       ["Carton", "10 pairs"],
     ],
   },
+  {
+    id: 'footland-yodha',
+    brand: 'footland',
+    name: 'Footland Yodha',
+    media: 'shoe-footland-yodha',
+    tagline: "Rugged low-ankle shoe with grey PVC sole and contrast stitching.",
+    highlights: ["Steel toe", "PVC sole", "Low ankle"],
+    sizes: 'UK 6–12',
+    specs: [
+      ["Sole", "PVC, injected"],
+      ["Toe cap", "Steel"],
+      ["Ankle", "Low"],
+      ["Resistance", "Oil and acid; chemicals; anti-static"],
+      ["Insole", "Memory-comfort insock with ortho bounce cushioning"],
+      ["Weight", "About 1.1 kg per pair"],
+      ["Sizes", "UK 6–12"],
+      ["Carton", "20 pairs"],
+    ],
+  },
+  {
+    id: 'footland-pilot-grey',
+    brand: 'footland',
+    name: 'Footland Pilot Grey',
+    media: 'shoe-footland-pilot-grey',
+    tagline: "Lightweight everyday shoe with a grey PVC sole.",
+    highlights: ["Steel toe", "PVC sole", "Grey sole"],
+    sizes: 'UK 6–12',
+    specs: [
+      ["Sole", "PVC, injected"],
+      ["Toe cap", "Steel"],
+      ["Ankle", "Low"],
+      ["Resistance", "Oil and acid; chemicals; anti-static"],
+      ["Insole", "Memory-comfort insock with ortho bounce cushioning"],
+      ["Colour", "Black upper, grey sole"],
+      ["Weight", "About 1 kg per pair"],
+      ["Sizes", "UK 6–12"],
+      ["Carton", "20 pairs"],
+    ],
+  },
+  {
+    id: 'footland-pilot-brown',
+    brand: 'footland',
+    name: 'Footland Pilot Brown',
+    media: 'shoe-footland-pilot-brown',
+    tagline: "The Pilot with a tan sole and lining.",
+    highlights: ["Steel toe", "PVC sole", "Tan sole"],
+    sizes: 'UK 6–12',
+    specs: [
+      ["Sole", "PVC, injected"],
+      ["Toe cap", "Steel"],
+      ["Ankle", "Low"],
+      ["Resistance", "Oil and acid; chemicals; anti-static"],
+      ["Insole", "Memory-comfort insock with ortho bounce cushioning"],
+      ["Colour", "Black upper, tan sole"],
+      ["Weight", "About 1 kg per pair"],
+      ["Sizes", "UK 6–12"],
+      ["Carton", "20 pairs"],
+    ],
+  },
+  {
+    id: 'footland-pilot-orange',
+    brand: 'footland',
+    name: 'Footland Pilot Orange',
+    media: 'shoe-footland-pilot-orange',
+    tagline: "The Pilot with a high-visibility orange sole and lining.",
+    highlights: ["Steel toe", "PVC sole", "Orange sole"],
+    sizes: 'UK 6–12',
+    specs: [
+      ["Sole", "PVC, injected"],
+      ["Toe cap", "Steel"],
+      ["Ankle", "Low"],
+      ["Resistance", "Oil and acid; chemicals; anti-static"],
+      ["Insole", "Memory-comfort insock with ortho bounce cushioning"],
+      ["Colour", "Black upper, orange sole"],
+      ["Weight", "About 1 kg per pair"],
+      ["Sizes", "UK 6–12"],
+      ["Carton", "20 pairs"],
+    ],
+  },
+  {
+    id: 'footland-rainwood',
+    brand: 'footland',
+    name: 'Footland Rainwood',
+    media: 'shoe-footland-rainwood',
+    tagline: "Moc-style laced front with a deep-cleat PVC sole.",
+    highlights: ["Steel toe", "PVC sole", "Low ankle"],
+    sizes: 'UK 6–10',
+    specs: [
+      ["Sole", "PVC, injected"],
+      ["Toe cap", "Steel"],
+      ["Ankle", "Low"],
+      ["Resistance", "Oil and acid; chemicals; anti-static"],
+      ["Insole", "Memory-comfort insock with ortho bounce cushioning"],
+      ["Weight", "About 1 kg per pair"],
+      ["Sizes", "UK 6–10"],
+      ["Carton", "20 pairs"],
+    ],
+  },
+  {
+    id: 'footland-collar-boot',
+    brand: 'footland',
+    name: 'Footland Collar Boot',
+    media: 'shoe-footland-collar-boot',
+    tagline: "PVC boot with drawstring collar for wet and muddy sites.",
+    highlights: ["Steel toe", "PVC boot", "Drawstring collar"],
+    sizes: 'UK 6–10',
+    specs: [
+      ["Sole", "PVC, injected"],
+      ["Toe cap", "Steel"],
+      ["Ankle", "High (boot)"],
+      ["Resistance", "Oil and acid; chemicals; anti-static"],
+      ["Insole", "Memory-comfort insock with ortho bounce cushioning"],
+      ["Weight", "About 1 kg per pair"],
+      ["Sizes", "UK 6–10"],
+      ["Carton", "18 pairs"],
+    ],
+  },
 ];
+
+export default {
+  slug: 'safety-shoes',
+  title: 'Safety shoes',
+  lede:
+    'Steel-toe shoes from Acme, Mallcom’s Tiger range and Footland. Open a model for its full specifications, then send us an enquiry on WhatsApp with the sizes and quantity you need.',
+  brands,
+  items,
+  enquiry: {
+    variantLabel: 'Sizes',
+    variantPlaceholder: 'e.g. UK 7, 8, 9',
+    unit: 'pairs',
+    notePlaceholder: 'Delivery date, size split, other items',
+  },
+};

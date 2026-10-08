@@ -5,6 +5,13 @@ Website for Prahlad Trading Company, an industrial safety equipment supplier in 
 The live site is a Next.js app in [`web/`](web/), exported as static files and deployed to GitHub Pages by
 [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) on every push to `main`.
 
+## Product category pages
+
+Each category page (for example `/products/safety-shoes/`, `/products/helmets/`) is driven by one data file in
+`web/src/data/categories/`: its models, specifications, and the fields the WhatsApp enquiry form asks for. To
+add a category, copy one of those files, add a route under `web/src/app/products/`, and set `page` on the
+category in `web/src/data/site.js` so the home page tile links to it.
+
 ## Brand logos and product photos
 
 All images are stored in the repo under `web/public/media/`, so the site and its build don't depend on any

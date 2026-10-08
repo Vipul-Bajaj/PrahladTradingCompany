@@ -1,5 +1,5 @@
 {
-  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos, which come from retailer listings because Acme's Indian site couldn't be reached.",
+  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos (retailer listings; Acme's Indian site couldn't be reached) and the generic ladies' helmet photo (supplier listing).",
   "items": [
     {
       "id": "logo-acme",
@@ -178,6 +178,210 @@
       "id": "logo-footland",
       "candidates": [
         "https://www.footlandsafetyshoes.com/img/logo.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-yodha",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/yodha.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-pilot-grey",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/pilot_grey.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-pilot-brown",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/pilot_brown.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-pilot-orange",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/pilot_orange.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-rainwood",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/rainwood.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-collar-boot",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/collar_boot.jpg"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn501",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/PN-501-Apex-Grey_0.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/PN-501-Apex-Grey_0.jpg?itok=u0F2-giB"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn521",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/PN-521-Chrome-Orange.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/PN-521-Chrome-Orange.jpg?itok=487I_RDs"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn541",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/PN-542---Fluorescent-Green.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/PN-542---Fluorescent-Green.jpg?itok=egBAkC3I"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn542",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/PN-542---Shelblast-Super-White.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/PN-542---Shelblast-Super-White.jpg?itok=ZojPnY46"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn546",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/PN-546---Shelblast-Star-Blue-Ratchet%29.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/PN-546---Shelblast-Star-Blue-Ratchet%29.jpg?itok=e1oyHVM1"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn581t",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2025-01/UT%20Violet%20PN581%28T%29.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2025-01/UT%20Violet%20PN581%28T%29.jpg?itok=2hOyLq2j"
+      ]
+    },
+    {
+      "id": "helmet-karam-ft01",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/FT-01.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2024-11/FT-01.jpg?itok=fjXTeDuz"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn629ac",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/PN-629-YT.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2024-11/PN-629-YT.jpg?itok=RdC-aPpC"
+      ]
+    },
+    {
+      "id": "helmet-karam-pn595",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/PN-595_5-Black.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2024-11/PN-595_5-Black.jpg?itok=CWyYN-hT"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-3001",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/dPoLd63bd50af-dbdd-44f8-a984-fabe3b56c3b4.webp",
+        "https://assets.udyogisafety.com/uploads/products/1yV4B7f697224-cd78-449d-9e35-3a16cdaa4905.webp"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-4001",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/7zStYe10fd0ac-05d5-4f96-92f8-a1bc2cfe2184.webp",
+        "https://assets.udyogisafety.com/uploads/products/O1jjM239644c0-8b58-409e-ae32-2030ece78193.webp"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-5001",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/aJQX4bed4d21f-f29e-4d36-aca4-ee8cf82ae342.webp",
+        "https://assets.udyogisafety.com/uploads/products/cKzvg28b25b92-1bfd-4a09-89d8-c640633fb28b.webp"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-6001",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/eU9Rp62863a58-a1b3-439d-a0b0-867bc8489ab6.webp",
+        "https://assets.udyogisafety.com/uploads/products/JGKtPcc0ef6dd-1c06-4eeb-8bea-ba51caed0078.webp"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-7001",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/79KvJa7a65980-9ca9-4db2-95e6-5fd07b6a1805.webp",
+        "https://assets.udyogisafety.com/uploads/products/SLlfgbc815a21-2348-4b70-8539-b0f9c5653abc.webp"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-prithvi",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/vmTFV68bfd4dd-c201-41d2-8d07-5d11834c3132.webp",
+        "https://assets.udyogisafety.com/uploads/products/50jS9aabbc2ff-263c-4385-b1c6-185a8d1d7d95.webp"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-electra",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/veX9nb3c82b97-3be5-4220-a9b2-d6c7ebe6c590.webp",
+        "https://assets.udyogisafety.com/uploads/products/o899Y770960c5-f6df-48a3-8ec0-1b53367b2193.webp"
+      ]
+    },
+    {
+      "id": "helmet-udyogi-2001",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/Y1Qe5f4e9fa15-26e4-4470-8450-1080fb64cf56.webp",
+        "https://assets.udyogisafety.com/uploads/products/Iv4pw6b6facee-a121-43e0-be25-a168a2783f34.webp"
+      ]
+    },
+    {
+      "id": "helmet-mallcom-jasper-iii",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1_0004_2_0024_DSC01748_582e5edf-7772-4089-ac6a-2188d5586eb5.jpg?v=1746789204",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Jasper_ee5e5a2a-a702-4938-9985-0ecd1cc64444.jpg?v=1746789204"
+      ]
+    },
+    {
+      "id": "helmet-mallcom-jasper-xv",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1_22.png?v=1746789234",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_33.png?v=1746789235"
+      ]
+    },
+    {
+      "id": "helmet-mallcom-jasper-xvii",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_0009_logo.jpg?v=1746789202",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Jasper_c41db5e3-05cf-48e2-88ea-9b383e087ae0.jpg?v=1746789202"
+      ]
+    },
+    {
+      "id": "helmet-mallcom-opal-xi",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Artboard_5_51665f27-7e2f-442d-8bc4-77d2bd0692c8.jpg?v=1764834063",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Artboard6_a87b2c67-8a97-4be2-a6a3-a9b50dd462b7.jpg?v=1764833909"
+      ]
+    },
+    {
+      "id": "helmet-mallcom-opal-xiii",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Artboard_5_18d052c0-fb51-4f77-8c8c-675c8beae7ce.jpg?v=1764836890",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Artboard6_d91c213c-d9e7-4873-ab74-514c786197ec.jpg?v=1764836748"
+      ]
+    },
+    {
+      "id": "helmet-mallcom-prohat",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/ProHAT4.jpg?v=1761807354",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/ProHAT_3.jpg?v=1761807370"
+      ]
+    },
+    {
+      "id": "helmet-ladies",
+      "candidates": [
+        "https://5.imimg.com/data5/BO/OV/VZ/SELLER-288346/ladies-safety-helmet-500x500.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2022/11/YS/JG/QC/288346/ladies-safety-helmet-250x250.png"
       ]
     }
   ]

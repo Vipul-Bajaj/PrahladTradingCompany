@@ -76,8 +76,10 @@ export const categories = [
     name: 'Helmets',
     summary: 'Industrial safety helmets for plants, construction and electrical work.',
     items: ['Helmets with ratchet or pin-lock harness', 'Electrical-rated helmets', 'Chin straps and sweat bands', 'Helmet-mounted visors and ear muffs'],
-    brands: ['karam', 'udyogi'],
+    brands: ['karam', 'udyogi', 'mallcom'],
     media: 'cat-head',
+    page: '/products/helmets/',
+    pageLabel: 'See models and specs',
   },
   {
     id: 'foot',
