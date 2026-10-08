@@ -1,0 +1,886 @@
+URL: https://www.karam.in/product/webbing-work-positioning-lanyard-PN243
+STATUS: 200
+TYPE: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Key Features33 mm polyester webbing for enhanced durabilitySecure steel screw-lock karabiners on both endsAdjustable up to 2 metres with ring-type adjusterHigh breaking strength of 30 kNPrecision machine stitching for added strength" />
+<link rel="canonical" href="https://www.karam.in/product/webbing-work-positioning-lanyard-PN243" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/karam_india/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Webbing Work Positioning Lanyard | KARAM</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3DLBSQT5RS"></script>
+    <meta name="robots" content="max-snippet:155">
+    <meta name="google-site-verification" content="3Q23WbfTS-zEQH6GxU3DpV3HIHMEsiv3p4U40J8UjBU" />
+    <meta name="msvalidate.01" content="45E1A29741669F78A5EE727E7928EB84" />
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-3DLBSQT5RS');
+	</script>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_aaC8oTesBbyvLVtsgrYZEvWvTDdNl_OtZ3LpkP0WFt8.css?delta=0&amp;language=en&amp;theme=karam_india&amp;include=eJxtT9GSAiEM-yEOPokJbJflLNShRc-_v1XvdBx9SZu0Saf4xk9kwUIj4Nl724akRMMlMqMRVXIFR90wai8xTTPpGtQuvHOXcbS8ISQouQMGWqx9qQiFJYG_suqLfByyzGxOL2rU7rbJVhv1GTa0NEfZjz8kWdeMfoJ6zWCq3Z0qnTXc0Lc9jMmdKa0yWvir_vrPm0hMe6L5hQyV1ZuU8sH7v9ZIFeV9foVfmht7Sg" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.4/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css__AoJ3_oqpznq7yS6DBcyxFdLa3IN_e4o9CZkvBPHOfY.css?delta=3&amp;language=en&amp;theme=karam_india&amp;include=eJxtT9GSAiEM-yEOPokJbJflLNShRc-_v1XvdBx9SZu0Saf4xk9kwUIj4Nl724akRMMlMqMRVXIFR90wai8xTTPpGtQuvHOXcbS8ISQouQMGWqx9qQiFJYG_suqLfByyzGxOL2rU7rbJVhv1GTa0NEfZjz8kWdeMfoJ6zWCq3Z0qnTXc0Lc9jMmdKa0yWvir_vrPm0hMe6L5hQyV1ZuU8sH7v9ZIFeV9foVfmht7Sg" />
+
+    
+    <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '377993616193151');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=377993616193151&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover page-id-263 path-node page-node-type-product has-glyphicons">
+        
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="main-menu-part new-home-page-grid">
+          <header class="navbar navbar-default container" id="navbar" role="banner">
+    <div class="row">
+            <div class="navbar-header">
+        <a class="logo navbar-btn pull-left desktop" href="https://www.karam.in" title="Home" rel="home" >
+      <img src="https://www.karam.in/sites/default/files/karam-logo-01.png" alt="Home" width="154" height="74">
+      </a>
+      <a class="logo navbar-btn pull-left mobile" href="https://www.karam.in" title="Home" rel="home" >
+      <img src="https://www.karam.in/themes/karam_india/images//logo-mobile.png" alt="Home" width="154" height="28">
+      </a>
+      
+                          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <ul class="mobile-search">
+          <li class="search-menu"><i class="fa fa-search"></i></li>
+          <li class="in-icons">IN</li>
+          </ul>
+              </div>
+
+                    <div id="navbar-collapses" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-ultimenumainnavigation" class="block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      <ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu--main ultimenu--htb ultimenu--horizontal"><li class="ultimenu__item uitem uitem--a25c27e5 uitem--1"><a href="/" data-drupal-link-system-path="&lt;front&gt;" class="ultimenu__link">Home</a></li><li class="ultimenu__item uitem uitem--afc54d71 uitem--2 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Company<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-company">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/about-ks-group" data-drupal-link-system-path="node/1126">About KS Group</a>
+              </li>
+                      <li>
+                                        <a href="/about-us" data-drupal-link-system-path="node/6">About KARAM</a>
+              </li>
+                      <li>
+                                        <a href="/our-team" data-drupal-link-system-path="node/27">Leadership Team</a>
+              </li>
+                      <li>
+                                        <a href="/leadership-talk" data-drupal-link-system-path="node/37">Leadership Talk</a>
+              </li>
+                      <li class="last">
+                                        <a href="/environmental-social-governance" data-drupal-link-system-path="node/28">ESG</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-companymenublock" class="block block-block-content block-block-content02bdb35d-a9e7-487f-80c5-28cb4f36acca clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/company-menu-banner.jpg" data-entity-uuid="9b9ccaf5-90b5-45e8-b1a0-ee7d78641435" data-entity-type="file" width="322" height="155" loading="lazy"><h3>Company</h3><p>KARAM is one of the leading PPE manufacturers in India and one of the top Fall Protection companies in the world.</p><div class="link-icon"><a href="about-us">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--21a14ae5 uitem--3 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Products<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-products">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-2-menu" id="block-mainnavigation-2">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-2-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/products" data-drupal-link-system-path="node/30">Personal Protective Equipment</a>
+              </li>
+                      <li>
+                                        <a href="/products#fall" data-drupal-link-system-path="node/30">Fall Protection Equipment</a>
+              </li>
+                      <li class="last">
+                                        <a href="/products#fixed" data-drupal-link-system-path="node/30">Fixed Line Systems</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-productsmenublock" class="block block-block-content block-block-content51a19d9a-09ef-4dcb-b522-418c5436367a clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/products-menu-banner_0.jpg" data-entity-uuid="5608d1e6-531f-48d7-88d6-d03ef93a4fff" data-entity-type="file" width="322" height="155" loading="lazy"><h3>Products</h3><p>Explore our top-quality products and find the perfect solution for your safety needs.</p><div class="link-icon"><a href="/products">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--0e251300 uitem--4 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Services<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-services">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-5-menu" id="block-mainnavigation-5">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-5-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/services/after-sales-services" data-drupal-link-system-path="node/186">Authorised Service Centres</a>
+              </li>
+                      <li>
+                                        <a href="/services/karam-training-consultancy" data-drupal-link-system-path="node/17">Training &amp; Consultancy</a>
+              </li>
+                      <li class="last">
+                                        <a href="/services/mobile-demo-van" data-drupal-link-system-path="node/435">Mobile Demo Vans</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-servicemenublock-2" class="block block-block-content block-block-content02e1fc9d-ff43-40c1-bf1e-ad6300544b12 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/service-menu-banner-01.jpg" data-entity-uuid="8f8a7c3b-5752-4d79-a361-12115a2f000e" data-entity-type="file" width="322" height="155" loading="lazy"><h3>Services</h3><p>Experience complete safety solutions with our after-sales service, KARAM mobile app and our training center for unparalleled support.</p><div class="link-icon"><a href="/our-services">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--50e07c48 uitem--5 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Catalogues<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-catalogues">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-4-menu" id="block-mainnavigation-4">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-4-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/catalogue" class="overview-link" data-drupal-link-system-path="node/13">Overview</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/karam-group-profile" target="_blank">Group Profile</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/karam-domestic-e-catalogue" target="_blank" data-drupal-link-system-path="node/14">Domestic Catalogue</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/oil-and-gas-industries" target="_blank" data-drupal-link-system-path="node/1151">Oil and Gas Industries</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/industrial-retail-catalogue" target="_blank" data-drupal-link-system-path="node/1121">Industrial Retail Catalogue</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/karam-training-consultancy-e-catalogue" target="_blank" data-drupal-link-system-path="node/16">KARAM Training &amp; Consultancy</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/fixed-line-system-e-catalogue" target="_blank" data-drupal-link-system-path="node/15">Fixed Line System</a>
+              </li>
+                      <li class="last">
+                                        <a href="/catalogue/black-decker-ppe" target="_blank" data-drupal-link-system-path="node/1079">Black &amp; Decker (PPE)</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-cataloguesmenublock" class="block block-block-content block-block-contentd9d37c07-7dec-492d-a156-a2b90e70aeea clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/catalouges-menu-banner.jpg" data-entity-uuid="dbb76756-d0ec-4e91-ae0a-d76269a8234d" data-entity-type="file" alt="Catalogue" width="322" height="155" loading="lazy"><h3>Catalogues</h3><p>Browse our extensive collection of products in the catalogues and find the perfect fit for your needs.</p><div class="link-icon"><a href="/catelogue">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--34f47def uitem--6"><a href="https://karamonline.com/" class="ultimenu__link is-external">KARAM Safety Online</a></li><li class="ultimenu__item uitem uitem--be3eebd4 uitem--7"><a href="/contact-us" data-drupal-link-system-path="node/29" class="ultimenu__link">Contact Us</a></li><li class="ultimenu__item uitem uitem--d27653cb uitem--8"><span class="search-menu ultimenu__link" data-drupal-link-system-path="">Search</span></li><li class="ultimenu__item uitem uitem--75259e1c uitem--9"><span class="india-menu ultimenu__link" data-drupal-link-system-path="">IN</span></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+        </div>
+                  </div>
+    </header>
+  </div>
+        <div class="region region-banner">
+    <section class="views-element-container block block-views block-views-blockinner-banner-block-1 clearfix" id="block-views-block-inner-banner-block-1">
+  
+    
+
+      <div class="form-group"><div class="view view-inner-banner view-id-inner_banner view-display-id-block_1 js-view-dom-id-3626a069cd2a535c3657482f1adae03c3b67a3937e7993928f23798c5601b51d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+
+
+<div class="inner-img"
+     role="img"
+     style="background-image:url('/sites/default/files/2023-05/Lanyard-banner_2.jpg');">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 banner-height">
+        <div class="inner-banner-content">
+
+          
+              <ol class="breadcrumb">
+          <li >
+                  <a href="/">Home</a>
+              </li>
+          <li  class="active">
+                  Webbing Work Positioning Lanyard
+              </li>
+      </ol>
+
+
+          
+                      <h1>Webbing Work Positioning Lanyard</h1>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+    <div role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12" role="heading">
+              <div class="region region-header">
+    <div data-drupal-messages-fallback class="hidden"></div>
+  
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                                      <div class="highlighted"></div>
+                  
+                                      
+                  
+                <div class="product-page-area">
+<div class="row">
+<div class="col-md-6 col-sm-6 posticky product-img-ares"> 
+<div class="views-element-container form-group"><div class="view view-product-image view-id-product_image view-display-id-block_1 js-view-dom-id-ae2b10a2fcf270383db5af24e0627fc14159c42986d7176010227873cce33aa2">
+  
+    
+      
+      <div class="view-content">
+      <div class="largeimage" id="data-">
+<div id="slider-1" class="flexslider mailsliders">
+  <ul class="slides">
+        <li>  
+     
+    <img id="zoom_1" src="https://www.karam.in/sites/default/files/2024-11/PN-243_0.jpg">
+        </li>
+       
+  </ul>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+ 
+<div class="views-element-container form-group"><div class="view view-product-vector-icons view-id-product_vector_icons view-display-id-block_1 js-view-dom-id-1943d9ec5a700194a574bb2fbeb29d27e940b54a015d970e68f7985a5be002cc">
+  
+    
+      
+      <div class="view-content">
+        <div class="product-icons related-carousel owl-theme">
+      <div class="product-img">
+   
+    </div>
+      
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+ 
+</div>
+<div class="col-md-6 col-sm-6">
+<div class="views-element-container form-group"><div class="view view-product-main-content view-id-product_main_content view-display-id-block_1 js-view-dom-id-52cfdea7ade44587e74cfcd0ffff5484b17fdbd637ac684b880b38722fa7821d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="product-body-area">
+<h4>Webbing Work Positioning Lanyard</h4>
+<p class="skuid">SKU: <span>PN243</span></p>
+<p><strong>Key Features</strong></p><ul><li>33 mm polyester webbing for enhanced durability</li><li>Secure steel screw-lock karabiners on both ends</li><li>Adjustable up to 2 metres with ring-type adjuster</li><li>High breaking strength of 30 kN</li><li>Precision machine stitching for added strength</li></ul>
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+<div class="views-element-container form-group"><div class="view view-product-color-variation view-id-product_color_variation view-display-id-block_1 js-view-dom-id-2b02d383516b2116fe2432d09edb11d427440485228d02f4eaca4c2a8067e481">
+  
+    
+      
+      <div class="view-content">
+                       
+             
+    
+    </div>
+  
+          </div>
+</div>
+ 
+<div class="certification-area">
+<p><strong>Certification: </strong></p>
+<p class="cer-txt">EN 358:2018</p>
+<div class="views-element-container form-group"><div class="view view-product-certification view-id-product_certification view-display-id-block_1 js-view-dom-id-d586b8539e94de6745cdd4d5510eea9c6fb7db7edcd0652e1f5369daec2497d6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-certification-icons"><div class="field-content"><ul><li>  <img loading="lazy" src="/sites/default/files/2023-05/ce_122.png" width="40" height="35" alt="CE" title="CE" class="img-responsive" />
+
+</li></ul></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+</div>
+<div class="product-share">
+<p>Share:</p>
+<section class="block block-better-social-sharing-buttons block-social-sharing-buttons-block clearfix">
+  
+    
+
+      
+
+<div style="display: none"><link rel="preload" href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg" as="image" type="image/svg+xml" crossorigin="anonymous" /></div>
+
+<div class="social-sharing-buttons">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.karam.in/product/webbing-work-positioning-lanyard-PN243&amp;title=Webbing%20Work%20Positioning%20Lanyard" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons-button share-facebook" rel="noopener">
+            <svg aria-hidden="true" width="20px" height="20px" style="border-radius:3px;">
+                <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg#facebook" />
+            </svg>
+        </a>
+    
+                <a href="https://twitter.com/intent/tweet?text=Webbing%20Work%20Positioning%20Lanyard+https://www.karam.in/product/webbing-work-positioning-lanyard-PN243" target="_blank" title="Share to X" aria-label="Share to X" class="social-sharing-buttons-button share-x" rel="noopener">
+            <svg aria-hidden="true" width="20px" height="20px" style="border-radius:3px;">
+                <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg#x" />
+            </svg>
+        </a>
+    
+        
+        
+        
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.karam.in/product/webbing-work-positioning-lanyard-PN243" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons-button share-linkedin" rel="noopener">
+            <svg aria-hidden="true" width="20px" height="20px" style="border-radius:3px;">
+                <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg#linkedin" />
+            </svg>
+        </a>
+    
+    
+    
+        
+        
+        
+        
+        
+        
+    </div>
+
+  </section>
+
+
+</div>
+<ul class="product-btn-area">
+<li class="pro-enqire-btn"><a data-toggle="modal" data-target="#enquire-now">Enquire Now</a></li>
+<li class="pro-shop-btn"><a href="https://karamonline.com/karam-webbing-work-positioning-lanyard-pn243" target="_blank">Buy Now</a></li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="product-des">
+<p><strong>Description</strong></p>
+<p>The PN243 Work Positioning Lanyard offers reliable support for tasks requiring stable positioning at height. Crafted from durable 33 mm wide polyester webbing, it features robust steel screw-lock karabiners on both ends and a ring-type adjuster for easy length adjustment up to 2 metres. The secure stitching and high breaking strength ensure dependable performance during prolonged use in industrial and maintenance environments. Whether navigating complex workspaces or securing oneself during inspection tasks, this lanyard is designed to keep you safe and steady. It’s a reliable companion for professionals seeking comfort, durability, and high-grade fall protection at all times.</p><p><strong>Warranty: </strong>1 year from the date of invoice against any manufacturing defects.</p>
+</div>
+<div class="views-element-container form-group"><div class="view view-ideal-for-use view-id-ideal_for_use view-display-id-block_1 js-view-dom-id-b420b695cf58d7184b674a7fc8be7731b30fe50297247c848b39b37d24e31431">
+  
+    
+      
+      <div class="view-content">
+              <div class="ideal-of-use-area">
+  <div class="container">
+  <p><strong>Ideal for use</strong></p>
+  <div class="pro-ideal-area">
+        
+       <div class="ideal-grid">
+  <div class="ideal-grid-img">
+    <img loading="lazy" src="/sites/default/files/2023-06/Work-at-height_19.png" width="68" height="68" alt="" class="img-responsive" />
+
+   
+  </div>
+  <p>Work at Height </p> 
+  </div>
+      
+        </div>
+  </div>
+  </div>
+       
+    </div>
+  
+      
+          </div>
+</div>
+
+<div class="views-element-container form-group"><div class="view view-product-components- view-id-product_components_ view-display-id-block_1 js-view-dom-id-283aec525fc739e707a8a94b1fa93503f47b70751bbdc34d4e1d1f2195ee8cc4">
+  
+    
+      
+      <div class="view-content">
+             
+       
+       
+    </div>
+  
+          </div>
+</div>
+
+<div class="download-speci"><i class="fa fa-download"></i>Download Specifications</div>
+<div class="views-element-container form-group"><div class="view view-product-specifications view-id-product_specifications view-display-id-block_1 js-view-dom-id-21f8ccb3e8c7e35527950c949a148dfaf369489ccad07c7fac4ba3139664c8a3">
+  
+    
+      
+      <div class="view-content">
+              <div class="product-spec-area">
+  <p><strong>Product Specifications</strong></p>
+  <div class="product-spec-area-grid">
+  <table>
+  <tbody>
+                                               
+      <tr>
+  <td>Rope/Webbing </td>
+  <td>Polyester webbing</td>
+  </tr>
+        <tr>
+  <td>Dia/Width </td>
+  <td>33mm</td>
+  </tr>
+        <tr>
+  <td>Rope Grab/Adjuster </td>
+  <td>Ring type adjuster</td>
+  </tr>
+        <tr>
+  <td>Attachment Type </td>
+  <td>Steel karabiner PN112 at both the ends for attachment</td>
+  </tr>
+        <tr>
+  <td>Max. Length </td>
+  <td>2.0m</td>
+  </tr>
+        <tr>
+  <td>Min. Breaking Strength </td>
+  <td>15kN</td>
+  </tr>
+      
+           </tbody>
+   </table> 
+  </div>
+  </div>  
+   
+   
+         
+   
+         
+   
+         
+   
+         
+   
+         
+   
+   
+    </div>
+  
+          </div>
+</div>
+
+</div>
+</div>
+</div>
+  <div id="enquire-now" class="modal fade contact-form-design" role="dialog">
+  <div class="modal-dialog modal-md">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">General Enquiry</h4>
+      </div>
+      <div class="modal-body">
+       <span id="webform-submission-product-enquire-now-node-263-form-ajax-content"></span><div id="webform-submission-product-enquire-now-node-263-form-ajax" class="webform-ajax-form-wrapper" data-effect="fade" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-product-enquire-now-form webform-submission-product-enquire-now-add-form webform-submission-product-enquire-now-node-263-form webform-submission-product-enquire-now-node-263-add-form js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-product-enquire-now-node-263-add-form" action="/product/webbing-work-positioning-lanyard-PN243" method="post" id="webform-submission-product-enquire-now-node-263-add-form" accept-charset="UTF-8">
+  
+  <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-name js-form-item-name form-group">
+      <label for="edit-name--3" class="control-label js-form-required form-required">Name</label>
+  
+  
+  <input data-drupal-selector="edit-name" class="form-text required form-control" type="text" id="edit-name--3" name="name" value="" size="60" maxlength="255" required="required" aria-required="true" />
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-email js-form-type-email form-item-email-id js-form-item-email-id form-group">
+      <label for="edit-email-id" class="control-label js-form-required form-required">Email ID</label>
+  
+  
+  <input data-drupal-selector="edit-email-id" class="form-email required form-control" type="email" id="edit-email-id" name="email_id" value="" size="60" maxlength="254" required="required" aria-required="true" />
+
+  
+  
+  </div>
+<div class="form-inline form-item js-form-item form-type-tel js-form-type-tel form-item-phone-number js-form-item-phone-number form-group">
+      <label for="edit-phone-number" class="control-label js-form-required form-required">Phone Number</label>
+  
+  
+  <input class="phone_validation form-tel required form-control" minlength="10" data-drupal-selector="edit-phone-number" type="tel" id="edit-phone-number" name="phone_number" value="" size="30" maxlength="13" required="required" aria-required="true" />
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-textarea js-form-type-textarea form-item-comment js-form-item-comment form-group">
+      <label for="edit-comment" class="control-label js-form-required form-required">Comment</label>
+  
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-comment" class="form-textarea required form-control resize-vertical" id="edit-comment" name="comment" rows="5" cols="60" required="required" aria-required="true"></textarea>
+</div>
+
+
+  
+  
+  </div>
+<input data-drupal-selector="edit-modal-no" type="hidden" name="modal_no" value="" />
+
+                    <fieldset  data-drupal-selector="edit-captcha" class="captcha captcha-type-challenge--math">
+          <legend class="captcha__title js-form-required form-required">
+            CAPTCHA
+          </legend>
+                  <div class="captcha__element">
+            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="3957964" /><input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="fwLmOtKRxWYIya2otkjICxjFkeNNOTakSJVjbp4VBaY" /><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-captcha-response js-form-item-captcha-response form-group">
+      <label for="edit-captcha-response" class="control-label js-form-required form-required">Solve to Verify</label>
+  
+  
+  7 + 12 =
+  
+  <input autocomplete="off" data-drupal-selector="edit-captcha-response" aria-describedby="edit-captcha-response--description" class="form-text required form-control" type="text" id="edit-captcha-response" name="captcha_response" value="" size="4" maxlength="2" required="required" aria-required="true" />
+
+  
+  
+      <div id="edit-captcha-response--description" class="description help-block">
+      Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
+    </div>
+  </div>
+
+          </div>
+                      <div class="captcha__description description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div>
+                          </fieldset>
+            <div data-drupal-selector="edit-actions" class="form-actions webform-actions form-group js-form-wrapper form-wrapper" id="edit-actions--3"><button class="webform-button--submit red-form-btn button button--primary js-form-submit form-submit btn-primary btn" data-drupal-selector="edit-actions-submit" data-disable-refocus="true" type="submit" id="edit-actions-submit" name="op" value="Submit">Submit</button>
+</div>
+<input data-drupal-selector="form-e6zu-6nqm30wclwnc5x0yt3hpddt8evwcgav77wvajg" type="hidden" name="form_build_id" value="form-E6ZU-6Nqm30WClwNC5x0yT3hPddt8evWcgAv77wVaJg" /><input data-drupal-selector="edit-webform-submission-product-enquire-now-node-263-add-form" type="hidden" name="form_id" value="webform_submission_product_enquire_now_node_263_add_form" />
+
+  
+</form>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+      </section>
+
+                </div>
+  </div>
+
+<div class="footer_area">
+  <div class="container">
+    <div class="row">
+                       <div class="col-md-3 col-sm-6 first">  <div class="region region-footer-first">
+    <section id="block-footerdetails-2" class="block block-block-content block-block-content58bacbb0-f59d-49f3-9bd9-dd3d2965eb70 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h4>Corporate Office</h4><ul class="footer-address"><li class="address-icon">D-95, Sector 2, Noida, Uttar Pradesh - 201301</li><li class="mail-icon"><a href="mailto:karam@karam.in">karam@karam.in</a></li><li class="phone-icon"><a href="tel:18001037085">1800-103-7085</a></li><li class="phone-office"><a href="tel:+911204734400">+91 120 4734400</a></li></ul></div>
+      
+  </section>
+
+
+  </div>
+</div>
+                                      <div class="col-md-3 col-sm-6 col-xs-5">  <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-footerwhowearemenu-menu" id="block-footerwhowearemenu">
+            
+  <h2 class="visually-hidden" id="block-footerwhowearemenu-menu">Who We Are</h2>
+  
+
+        
+      <ul class="menu menu--footer-who-we-are-menu nav">
+                      <li class="first">
+                                        <a href="https://karamonline.com/" target="_blank">KARAM Safety Online</a>
+              </li>
+                      <li>
+                                        <a href="/press-coverage" data-drupal-link-system-path="node/869">Press Coverage</a>
+              </li>
+                      <li>
+                                        <a href="/faqs" data-drupal-link-system-path="node/24">FAQs</a>
+              </li>
+                      <li>
+                                        <a href="/blog" data-drupal-link-system-path="node/12">Blogs</a>
+              </li>
+                      <li>
+                                        <a href="/newsletter" data-drupal-link-system-path="node/21">Newsletter</a>
+              </li>
+                      <li>
+                                        <a href="/news-events" data-drupal-link-system-path="node/19">News &amp; Events</a>
+              </li>
+                      <li class="last">
+                                        <a href="/careers" data-drupal-link-system-path="node/39">Careers</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+</div>
+                                     <div class="col-md-3 col-sm-6 col-xs-7">  <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-whatwedo-menu" id="block-whatwedo">
+            
+  <h2 class="visually-hidden" id="block-whatwedo-menu">What We do</h2>
+  
+
+        
+      <ul class="menu menu--what-we-do nav">
+                      <li class="first">
+                                        <a href="/product-warranty-and-disclaimer" data-drupal-link-system-path="node/36">Product Warranty &amp; Disclaimer</a>
+              </li>
+                      <li>
+                                        <a href="/eu-declaration" data-drupal-link-system-path="node/40">EU Declaration Form</a>
+              </li>
+                      <li>
+                                        <a href="/karam-loyalty-reward-program" data-drupal-link-system-path="node/23">Loyalty Rewards Program</a>
+              </li>
+                      <li>
+                                        <a href="/sites/default/files/2023-08/IMS-policy.pdf" target="_blank">IMS Policy</a>
+              </li>
+                      <li class="last">
+                                        <a href="/system-of-disposal-of-personal-protective-equipment" data-drupal-link-system-path="node/1101">System of Disposal of PPE</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+</div>
+                                     <div class="col-md-3 col-sm-6 last">  <div class="region region-footer-fourth">
+    <section id="block-contactinfo" class="block block-block-content block-block-content1457a741-e0bc-4ba6-b5c0-2e2b5003cd54 clearfix">
+  
+      <h2 class="block-title">Contact info</h2>
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><img style="float:left;margin-bottom:20px;" src="/themes/karam_india/images/KS-logo-img.jpg" data-entity-type="file" alt="ks group logo" width="166" height="109" loading="lazy"><a href="https://www.karam.in/karam-app-launch/"><img style="float:left;" src="/themes/karam_india/images/KARAM-app-icon.jpg" data-entity-type="file" alt="karam app logo" width="220" height="55" loading="lazy"></a></div>
+      
+  </section>
+
+
+  </div>
+</div>
+                </div>
+</div>
+</div>
+<div class="footer-bottom">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-4"><p>&copy; 2026, All rights reserved by KARAM Safety Pvt. Ltd.</p></div>
+                        <div class="col-md-8 col-sm-8">  <div class="region region-footer-link">
+    <nav role="navigation" aria-labelledby="block-socialmediaicons-menu" id="block-socialmediaicons">
+            
+  <h2 class="visually-hidden" id="block-socialmediaicons-menu">Social Media Icons</h2>
+  
+
+        
+      <ul class="menu menu--social-media-icon nav">
+                      <li class="first">
+                                        <a href="https://www.facebook.com/KARAMsafetyproducts/" class="facebook-icon" target="_blank">Facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/company/karam" class="linkedin-icon" target="_blank">linkedin</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/channel/UCaqIglxwt9USY0j-7bZomjQ" class="youtube-icon" target="_blank">Youtube</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.instagram.com/karam_safety/" class="instagram-icon" target="_blank">Instagram</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-footerlink-menu" id="block-footerlink">
+            
+  <h2 class="visually-hidden" id="block-footerlink-menu">Footer Link</h2>
+  
+
+        
+      <ul class="menu menu--footer-link nav">
+                      <li class="first">
+                                        <a href="/privacy-policy" data-drupal-link-system-path="node/32">Privacy Policy </a>
+              </li>
+                      <li class="last">
+                                        <a href="/terms-of-sale" data-drupal-link-system-path="node/1152">Terms of Sale</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+</div>
+                  </div>
+  </div>
+</div>
+<div class="global-search animated">
+<div class="close-btn close-popup">x</div>
+<div class="global-search-content animated">
+<div class="arrow-up close-popup"><i class="far fa-arrow-up"></i></div>
+  <div class="region region-global-search">
+    <section class="views-exposed-form block block-views block-views-exposed-filter-blockglobal-search-data-page-1 clearfix" data-drupal-selector="views-exposed-form-global-search-data-page-1" id="block-exposedformglobal-search-datapage-1">
+  
+    
+
+      <form action="/search" method="get" id="views-exposed-form-global-search-data-page-1" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-group">
+      <label for="edit-keyword" class="control-label">Fulltext search</label>
+  
+  
+  <input placeholder="Search" data-drupal-selector="edit-keyword" class="form-text form-control" type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128" />
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions--5"><button data-drupal-selector="edit-submit-global-search-data" class="button js-form-submit form-submit btn-info btn" type="submit" id="edit-submit-global-search-data" value="Apply">Apply</button></div>
+
+</div>
+
+</form>
+
+  </section>
+
+
+  </div>
+
+</div>
+</div>
+    <div class="scroll-up">
+		<svg class="scroll-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102"><path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" /> </svg>
+	</div>
+
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/263","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxtUFl2wyAMvBCFI_EEljEpICoJp759cZf0tc6PlpFmtMAN3n0hWJAd_MZWN6YQkE1AVWQvFDMULxtwbsmHoUpNnOhRZm4CkYoydPeIfGf0uWU1EbrGDVwAQROJ0eU2NRsUe3sbyIddiat5BYY6GUsGlwoFKC9R5BkskXPXP5XOtIyoRg5RrF-jRtFcsQ23QQ2D07zmAdG6Rmg7iJUIBXMze8a7uE9r6xQraO4Yzs3ct7fngy4gFpyKahdUyGXqwX5l_m9SSunJgJ-2iiKQrvXTfACuIKlx","theme":"karam_india","theme_token":null},"ajaxTrustedUrl":{"\/search":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/product\/webbing-work-positioning-lanyard-PN243?ajax_form=1":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-circle\u0022\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":true,"throbberPosition":"body"},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":""},"ajax":{"edit-actions-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/product\/webbing-work-positioning-lanyard-PN243?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"b8df65aba8e5e9904f6067ceba6315e6d524f1477bb3e8b74b171868b622374e"}}</script>
+<script src="/sites/default/files/js/js_cUD6a6yy1aRr1-hUc1nx4yyUK2wZTe_i_3Y5LTfa82M.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=karam_india&amp;include=eJyFjlsOAjEIRTdU2yVN6BQrSkul1MfunUl8xEyMP3By7wkBjnCbWCChBviwt4NKjKguilg3hRbeNDXFiSqZm0UxUDXUCuyP54F693vR4k6gUBYpEYTMEoF3fVZq9tU0lTRmc4ONCtYRXuCuGNc74bn9-tsmRMZFNp_QgLj7Dhf8K5nkzL-1gr1D3vbreAClbnWV"></script>
+<script src="https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.4/dist/js/bootstrap.min.js"></script>
+<script src="/sites/default/files/js/js_BRWMX4s5R2oPwde0cLZsDOSRdd9k1MdYNqWqd94b-ns.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=karam_india&amp;include=eJyFjlsOAjEIRTdU2yVN6BQrSkul1MfunUl8xEyMP3By7wkBjnCbWCChBviwt4NKjKguilg3hRbeNDXFiSqZm0UxUDXUCuyP54F693vR4k6gUBYpEYTMEoF3fVZq9tU0lTRmc4ONCtYRXuCuGNc74bn9-tsmRMZFNp_QgLj7Dhf8K5nkzL-1gr1D3vbreAClbnWV"></script>
+
+ 
+     
+
+  </body>
+</html>
+

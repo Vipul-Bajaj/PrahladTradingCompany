@@ -1,0 +1,4240 @@
+URL: https://www.karam.in/products/hooks-karabiners
+STATUS: 200
+TYPE: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Find high quality hooks, connectors and karabiners for rope access and fall arrest. Ensure safety in rope activities and working at height with our reliable gear." />
+<meta name="keywords" content="Hooks and Connectors, Rope Access, Rope Activities, Working at height, Fall Arrest, Karabiner" />
+<link rel="canonical" href="https://www.karam.in/products/hooks-karabiners" />
+<meta property="og:site_name" content="KARAM Safety" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.karam.in/products/hooks-connectors" />
+<meta property="og:title" content="Hooks and Connectors - Karabiner for Fall Protection | KARAM" />
+<meta property="og:description" content="Find high quality hooks, connectors and karabiners for rope access and fall arrest. Ensure safety in rope activities and working at height with our reliable gear." />
+<meta property="og:image" content="https://www.karam.in/sites/default/files/2023-04/Hooks-and-Connectors.JPG" />
+<meta property="og:image:url" content="https://www.karam.in/sites/default/files/2023-04/Hooks-and-Connectors.JPG" />
+<meta property="og:image:secure_url" content="https://www.karam.in/sites/default/files/2023-04/Hooks-and-Connectors.JPG" />
+<meta property="og:image:type" content="&#039;image/jpg&#039;" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/karam_india/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Hooks and Connectors - Karabiner for Fall Protection | KARAM</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3DLBSQT5RS"></script>
+    <meta name="robots" content="max-snippet:155">
+    <meta name="google-site-verification" content="3Q23WbfTS-zEQH6GxU3DpV3HIHMEsiv3p4U40J8UjBU" />
+    <meta name="msvalidate.01" content="45E1A29741669F78A5EE727E7928EB84" />
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-3DLBSQT5RS');
+	</script>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_nS9OhWtreuEEjTLscvy_455dcPq3tsuemX3qUlyQ418.css?delta=0&amp;language=en&amp;theme=karam_india&amp;include=eJxFjlEOgzAMQy_U0SNVLgToSBuUpMBuPzRp24_1nv1jPHElFkykEX8efFXJmTRkcidNdO1iNKW58K0WF2qk4O9sMhZwshVa2pJyd5dm0fzFt4cs4uaKPc6KSqfoFjbcmEqbCuLCksGP0SzYy5xqzDAKnb1Uaj2uqLnrct_5VTLPI9oBG2wEU2nhKHRa_ORQZepMbxRxV3I" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.4/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_VPqpNu1O9zOGUOgygWMEGasd8TBw0c7NHp_9hQOE7ag.css?delta=3&amp;language=en&amp;theme=karam_india&amp;include=eJxFjlEOgzAMQy_U0SNVLgToSBuUpMBuPzRp24_1nv1jPHElFkykEX8efFXJmTRkcidNdO1iNKW58K0WF2qk4O9sMhZwshVa2pJyd5dm0fzFt4cs4uaKPc6KSqfoFjbcmEqbCuLCksGP0SzYy5xqzDAKnb1Uaj2uqLnrct_5VTLPI9oBG2wEU2nhKHRa_ORQZepMbxRxV3I" />
+
+    
+    <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '377993616193151');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=377993616193151&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover path-taxonomy has-glyphicons">
+        
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="main-menu-part new-home-page-grid">
+          <header class="navbar navbar-default container" id="navbar" role="banner">
+    <div class="row">
+            <div class="navbar-header">
+        <a class="logo navbar-btn pull-left desktop" href="https://www.karam.in" title="Home" rel="home" >
+      <img src="https://www.karam.in/sites/default/files/karam-logo-01.png" alt="Home" width="154" height="74">
+      </a>
+      <a class="logo navbar-btn pull-left mobile" href="https://www.karam.in" title="Home" rel="home" >
+      <img src="https://www.karam.in/themes/karam_india/images//logo-mobile.png" alt="Home" width="154" height="28">
+      </a>
+      
+                          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <ul class="mobile-search">
+          <li class="search-menu"><i class="fa fa-search"></i></li>
+          <li class="in-icons">IN</li>
+          </ul>
+              </div>
+
+                    <div id="navbar-collapses" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-ultimenumainnavigation" class="block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      <ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu--main ultimenu--htb ultimenu--horizontal"><li class="ultimenu__item uitem uitem--a25c27e5 uitem--1"><a href="/" data-drupal-link-system-path="&lt;front&gt;" class="ultimenu__link">Home</a></li><li class="ultimenu__item uitem uitem--afc54d71 uitem--2 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Company<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-company">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/about-ks-group" data-drupal-link-system-path="node/1126">About KS Group</a>
+              </li>
+                      <li>
+                                        <a href="/about-us" data-drupal-link-system-path="node/6">About KARAM</a>
+              </li>
+                      <li>
+                                        <a href="/our-team" data-drupal-link-system-path="node/27">Leadership Team</a>
+              </li>
+                      <li>
+                                        <a href="/leadership-talk" data-drupal-link-system-path="node/37">Leadership Talk</a>
+              </li>
+                      <li class="last">
+                                        <a href="/environmental-social-governance" data-drupal-link-system-path="node/28">ESG</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-companymenublock" class="block block-block-content block-block-content02bdb35d-a9e7-487f-80c5-28cb4f36acca clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/company-menu-banner.jpg" data-entity-uuid="9b9ccaf5-90b5-45e8-b1a0-ee7d78641435" data-entity-type="file" width="322" height="155" loading="lazy"><h3>Company</h3><p>KARAM is one of the leading PPE manufacturers in India and one of the top Fall Protection companies in the world.</p><div class="link-icon"><a href="about-us">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--21a14ae5 uitem--3 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Products<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-products">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-2-menu" id="block-mainnavigation-2">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-2-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/products" data-drupal-link-system-path="node/30">Personal Protective Equipment</a>
+              </li>
+                      <li>
+                                        <a href="/products#fall" data-drupal-link-system-path="node/30">Fall Protection Equipment</a>
+              </li>
+                      <li class="last">
+                                        <a href="/products#fixed" data-drupal-link-system-path="node/30">Fixed Line Systems</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-productsmenublock" class="block block-block-content block-block-content51a19d9a-09ef-4dcb-b522-418c5436367a clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/products-menu-banner_0.jpg" data-entity-uuid="5608d1e6-531f-48d7-88d6-d03ef93a4fff" data-entity-type="file" width="322" height="155" loading="lazy"><h3>Products</h3><p>Explore our top-quality products and find the perfect solution for your safety needs.</p><div class="link-icon"><a href="/products">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--0e251300 uitem--4 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Services<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-services">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-5-menu" id="block-mainnavigation-5">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-5-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/services/after-sales-services" data-drupal-link-system-path="node/186">Authorised Service Centres</a>
+              </li>
+                      <li>
+                                        <a href="/services/karam-training-consultancy" data-drupal-link-system-path="node/17">Training &amp; Consultancy</a>
+              </li>
+                      <li class="last">
+                                        <a href="/services/mobile-demo-van" data-drupal-link-system-path="node/435">Mobile Demo Vans</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-servicemenublock-2" class="block block-block-content block-block-content02e1fc9d-ff43-40c1-bf1e-ad6300544b12 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/service-menu-banner-01.jpg" data-entity-uuid="8f8a7c3b-5752-4d79-a361-12115a2f000e" data-entity-type="file" width="322" height="155" loading="lazy"><h3>Services</h3><p>Experience complete safety solutions with our after-sales service, KARAM mobile app and our training center for unparalleled support.</p><div class="link-icon"><a href="/our-services">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--50e07c48 uitem--5 has-ultimenu"><span data-drupal-link-system-path="" class="ultimenu__link">Catalogues<span class="caret" aria-hidden="true"></span></span><section class="ultimenu__flyout is-htb">
+              <div class="ultimenu__region region region--count-2 region-ultimenu-main-catalogues">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-4-menu" id="block-mainnavigation-4">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-4-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/catalogue" class="overview-link" data-drupal-link-system-path="node/13">Overview</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/karam-group-profile" target="_blank">Group Profile</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/karam-domestic-e-catalogue" target="_blank" data-drupal-link-system-path="node/14">Domestic Catalogue</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/oil-and-gas-industries" target="_blank" data-drupal-link-system-path="node/1151">Oil and Gas Industries</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/industrial-retail-catalogue" target="_blank" data-drupal-link-system-path="node/1121">Industrial Retail Catalogue</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/karam-training-consultancy-e-catalogue" target="_blank" data-drupal-link-system-path="node/16">KARAM Training &amp; Consultancy</a>
+              </li>
+                      <li>
+                                        <a href="/catalogue/fixed-line-system-e-catalogue" target="_blank" data-drupal-link-system-path="node/15">Fixed Line System</a>
+              </li>
+                      <li class="last">
+                                        <a href="/catalogue/black-decker-ppe" target="_blank" data-drupal-link-system-path="node/1079">Black &amp; Decker (PPE)</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-cataloguesmenublock" class="block block-block-content block-block-contentd9d37c07-7dec-492d-a156-a2b90e70aeea clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="menu-block"><div class="menu-bcontent"><img src="/sites/default/files/inline-images/catalouges-menu-banner.jpg" data-entity-uuid="dbb76756-d0ec-4e91-ae0a-d76269a8234d" data-entity-type="file" alt="Catalogue" width="322" height="155" loading="lazy"><h3>Catalogues</h3><p>Browse our extensive collection of products in the catalogues and find the perfect fit for your needs.</p><div class="link-icon"><a href="/catelogue">Read More</a></div></div></div></div>
+      
+  </section>
+
+
+  </div>
+
+          </section></li><li class="ultimenu__item uitem uitem--34f47def uitem--6"><a href="https://karamonline.com/" class="ultimenu__link is-external">KARAM Safety Online</a></li><li class="ultimenu__item uitem uitem--be3eebd4 uitem--7"><a href="/contact-us" data-drupal-link-system-path="node/29" class="ultimenu__link">Contact Us</a></li><li class="ultimenu__item uitem uitem--d27653cb uitem--8"><span class="search-menu ultimenu__link" data-drupal-link-system-path="">Search</span></li><li class="ultimenu__item uitem uitem--75259e1c uitem--9"><span class="india-menu ultimenu__link" data-drupal-link-system-path="">IN</span></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+        </div>
+                  </div>
+    </header>
+  </div>
+        <div class="region region-banner">
+    <section class="views-element-container block block-views block-views-blockinner-banner-taxonomy-block-1 clearfix" id="block-views-block-inner-banner-taxonomy-block-1">
+  
+    
+
+      <div class="form-group"><div class="view view-inner-banner-taxonomy view-id-inner_banner_taxonomy view-display-id-block_1 js-view-dom-id-ec61c0848e6e3589287dba5505ea7521a4cb21ce3807a34300bf412787bce0a7">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="inner-img" role="img" style="background-image:url('/sites/default/files/2023-05/hooks-banner.jpg');">
+
+<div class="container">
+<div class="row">
+<div class="col-lg-12 banner-height">
+<div class="inner-banner-content">
+
+
+<ol class="breadcrumb">
+    <li>
+        <a href="/">Home</a>
+    </li>
+    <li>
+        <a href="/products">Products</a>
+    </li>
+
+    
+    <li class="active">
+        Hooks &amp; Karabiners
+    </li>
+</ol>
+
+<h1>Hooks &amp; Karabiners</h1>
+
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+    <div role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12" role="heading">
+              <div class="region region-header">
+    <div data-drupal-messages-fallback class="hidden"></div>
+  
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                                      <div class="highlighted"></div>
+                  
+                                      
+                  
+                
+<div class="product-cat-page">
+
+    <div class="view-header">
+
+        
+        
+    </div>
+
+    
+
+
+        <div class="views-element-container form-group"><div class="view view-product-category-taxonomy view-id-product_category_taxonomy view-display-id-block_1 js-view-dom-id-1678d4ee76b8edbaee517b4565ae335c37709b57a151ba61ecc41517e5c8fbac">
+  
+    
+      <div class="view-header">
+      Total Products:<strong> 89</strong>
+    </div>
+        <div class="view-filters form-group">
+      <form class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-product-category-taxonomy-block-1" action="/products/hooks-karabiners" method="get" id="views-exposed-form-product-category-taxonomy-block-1" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-combine js-form-item-combine form-group">
+      
+  
+  
+  <input placeholder="Search product..." data-drupal-selector="edit-combine" class="form-text form-control" type="text" id="edit-combine" name="combine" value="" size="30" maxlength="128" />
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions--3"><button data-drupal-selector="edit-submit-product-category-taxonomy" class="button js-form-submit form-submit btn-primary btn icon-before" type="submit" id="edit-submit-product-category-taxonomy" value="Search"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+Search</button></div>
+
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-content">
+          <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-06/PN-105.jpg?itok=ap_n-ovX" width="400" height="400" alt="Aluminium Screw Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN105</p>
+<p>Aluminium Screw Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-bulb-type-karabiner-PN105">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-106.jpg?itok=SHKj2Xic" width="400" height="400" alt="Aluminium Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN106</p>
+<p>Aluminium Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-quarter-turn-locking-bulb-type-karabiner-PN106">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-107.jpg?itok=PmLKG5gF" width="400" height="400" alt="Aluminium Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN107</p>
+<p>Aluminium Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-triple-action-locking-bulb-type-karabiner-PN107">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-111BE.jpg?itok=AJAszN4L" width="400" height="400" alt="Steel Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN111BE</p>
+<p>Steel Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-bulb-type-karabiner-PN111BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-111BESS.jpg?itok=lMFAeVU0" width="400" height="400" alt="Stainless Steel Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN111BESS</p>
+<p>Stainless Steel Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-quarter-turn-locking-bulb-type-karabiner-PN111BESS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-112BE.jpg?itok=yq2s2cV3" width="400" height="400" alt="Steel Screw Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN112BE</p>
+<p>Steel Screw Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-screw-locking-bulb-type-karabiner-PN112BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-112BLI.jpg?itok=GfbpNse3" width="400" height="400" alt="Steel Screw Locking Bulb type Karabiner with Lock Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN112B(LI)</p>
+<p>Steel Screw Locking Bulb type Karabiner with Lock Indicator</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-screw-locking-bulb-type-karabiner-lock-indicator-PN112B-LI">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-113BE.jpg?itok=UWZvyYeF" width="400" height="400" alt="Steel Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN113BE</p>
+<p>Steel Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-bulb-type-karabiner-PN113BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-114BE.jpg?itok=Yqp8k7m2" width="400" height="400" alt="Steel Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN114BE</p>
+<p>Steel Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-bulb-type-karabiner-PN114BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-115BE.jpg?itok=g-_WvVU8" width="400" height="400" alt="Steel Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115BE</p>
+<p>Steel Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-bulb-type-karabiner-PN115BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-115TBE.jpg?itok=XfcO9OEa" width="400" height="400" alt="Steel Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115TBE</p>
+<p>Steel Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-bulb-type-karabiner-PN115TBE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-115BESS---Stainless-Steel-Quarter-Trun-Bulb-Type-Locking-Karabiner.jpg?itok=DFaLe7JY" width="400" height="400" alt="Stainless Steel Quarter Turn Bulb type Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115BESS</p>
+<p>Stainless Steel Quarter Turn Bulb type Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-quarter-turn-bulb-type-locking-karabiner-PN115BESS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-115TBESS---Stainless-Steel-Triple-Action-Locking-Bulb-Type-Karabiner.jpg?itok=tngD7kwo" width="400" height="400" alt="Stainless Steel Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115TBESS</p>
+<p>Stainless Steel Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-triple-action-locking-bulb-type-karabiner-PN115TBESS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-116BE.jpg?itok=XlwD0Yuf" width="400" height="400" alt="Aluminium Screw Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN116BE</p>
+<p>Aluminium Screw Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-bulb-type-karabiner-PN116BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-116FBE.jpg?itok=9cRjffe0" width="400" height="400" alt="Aluminium Screw Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN116FBE</p>
+<p>Aluminium Screw Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-bulb-type-karabiner-PN116FBE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-116B%28LI%29---Aluminium-Screw-Locking-Bulb-Type-Karabiner-with-Lock-Indicator.jpg?itok=F8gA2-td" width="400" height="400" alt="Aluminium Screw Locking Bulb type Karabiner with Lock Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN116B(LI)</p>
+<p>Aluminium Screw Locking Bulb type Karabiner with Lock…</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-bulb-type-karabiner-lock-indicator-PN116B-LI">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-117BE.jpg?itok=TkAgOj6e" width="400" height="400" alt="Aluminium Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN117BE</p>
+<p>Aluminium Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-quarter-turn-locking-bulb-type-karabiner-PN117BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-117FBE.jpg?itok=X4pU1UdH" width="400" height="400" alt="Aluminium Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN117FBE</p>
+<p>Aluminium Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-quarter-turn-locking-bulb-type-karabiner-PN117FBE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-118BE---Aluminium-Triple-Action-Locking-Bulb-Type-Karabiner.jpg?itok=h4pnrnGi" width="400" height="400" alt="Aluminium Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN118BE</p>
+<p>Aluminium Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-triple-action-locking-bulb-type-karabiner-PN118BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-118FBE.jpg?itok=PoOAC1JJ" width="400" height="400" alt="Aluminium Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN118FBE</p>
+<p>Aluminium Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-triple-action-locking-bulb-type-karabiner-PN118FBE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-119TBE.jpg?itok=LHtaO9PU" width="400" height="400" alt="Steel Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN119TBE</p>
+<p>Steel Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-bulb-type-karabiner-PN119TBE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-119TBESS---Stainless-Steel-Triple-Action-Locking-Bulb-Type-Karabiner_0.jpg?itok=nS4RXCK4" width="400" height="400" alt="Stainless Steel Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN119TBESS</p>
+<p>Stainless Steel Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-triple-action-locking-bulb-type-karabiner-PN119TBESS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-130.jpg?itok=AFNhJON1" width="400" height="400" alt="Aluminium Swivel Quarter Turn Locking Bulb type Hook with Fall Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN130</p>
+<p>Aluminium Swivel Quarter Turn Locking Bulb type Hook with…</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-swivel-quarter-turn-locking-bulb-type-hook-fall-indicator-PN130">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-swivel-quarter-turn-locking-bulb-type-hook-with-fall-indicator-pn130" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-130P.jpg?itok=h6MaZ0Yn" width="400" height="400" alt="Aluminium Swivel Quarter Turn Locking Bulb type Hook Without Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN130P</p>
+<p>Aluminium Swivel Quarter Turn Locking Bulb type Hook…</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-swivel-quarter-turn-locking-bulb-type-hook-without-indicator-PN130P">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-130T.jpg?itok=IPlWiMlB" width="400" height="400" alt="Aluminium Swivel Triple Action Locking Bulb type Hook with Fall Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN130T</p>
+<p>Aluminium Swivel Triple Action Locking Bulb type Hook with…</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-swivel-triple-action-locking-bulb-type-hook-fall-indicator-PN130T">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-swivel-quarter-turn-locking-bulb-type-hook-with-fall-indicator-pn130" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-06/PN-160.jpg?itok=sAsKpb7A" width="400" height="400" alt="Aluminium Quarter Turn Locking Bulb type Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN160</p>
+<p>Aluminium Quarter Turn Locking Bulb type Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-quarter-turn-locking-bulb-type-hook-PN160">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-quarter-turn-locking-bulb-type-hook-pn160" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-160T.jpg?itok=bgE0ajD6" width="400" height="400" alt="Aluminium Triple Action Locking Bulb type Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN160T</p>
+<p>Aluminium Triple Action Locking Bulb type Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-triple-action-locking-bulb-type-hook-PN160T">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-165.jpg?itok=GyoJpCK2" width="400" height="400" alt="Steel Swivel Quarter Turn Locking Bulb type Snap Hook with Load Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN165</p>
+<p>Steel Swivel Quarter Turn Locking Bulb type Snap Hook with…</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-swivel-quarter-turn-locking-bulb-type-snap-hook-load-indicator-PN165">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-165T.jpg?itok=hghvyqFr" width="400" height="400" alt="Steel Swivel Triple Action Locking Bulb type Snap Hook with Load Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN165T</p>
+<p>Steel Swivel Triple Action Locking Bulb type Snap Hook with…</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-swivel-triple-action-locking-bulb-type-snap-hook-load-indicator-PN165T">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-192BE.jpg?itok=5-h-KYIp" width="400" height="400" alt="Aluminium Screw Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN192BE</p>
+<p>Aluminium Screw Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-bulb-type-karabiner-PN192BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-193BE.jpg?itok=kLFmoP_t" width="400" height="400" alt="Aluminium Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN193BE</p>
+<p>Aluminium Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-quarter-turn-locking-bulb-type-karabiner-PN193BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-193TBE.jpg?itok=dU5Clsam" width="400" height="400" alt="Aluminium Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN193TBE</p>
+<p>Aluminium Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-triple-action-locking-bulb-type-karabiner-PN193TBE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-194-BE.jpg?itok=av3SL1X0" width="400" height="400" alt="Steel Screw Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN194BE</p>
+<p>Steel Screw Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-screw-locking-bulb-type-karabiner-PN194BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-195-BE.jpg?itok=FmBORRCW" width="400" height="400" alt="Steel Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195BE</p>
+<p>Steel Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-bulb-type-karabiner-PN195BE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-195BESS---Stainless-Steel-Quarter-Turn-Locking-Bulb-Type-Karabiner.jpg?itok=Sk6ikLTs" width="400" height="400" alt="Stainless Steel Quarter Turn Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195BESS</p>
+<p>Stainless Steel Quarter Turn Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-quarter-turn-locking-bulb-type-karabiner-PN195BESS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-195-TBE.jpg?itok=hSpaBv1n" width="400" height="400" alt="Steel Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195TBE</p>
+<p>Steel Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-bulb-type-karabiner-PN195TBE">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-195TBESS---Stainless-Steel-Triple-Action-Locking-Bulb-Type-Karabiner.jpg?itok=vhXO-r0-" width="400" height="400" alt="Stainless Steel Triple Action Locking Bulb type Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195TBESS</p>
+<p>Stainless Steel Triple Action Locking Bulb type Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-triple-action-locking-bulb-type-karabiner-PN195TBESS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-111_0.jpg?itok=Y08ZNnYp" width="400" height="400" alt="Steel Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN111</p>
+<p>Steel Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-karabiner-PN111">View More</a>
+            <a href="https://karamonline.com/catalogsearch/result/?q=PN111" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-111SS---Stainless-Steel-Quarter-Turn-Locking-Karabiner.jpg?itok=VEFhJBlt" width="400" height="400" alt="Stainless Steel Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN111SS</p>
+<p>Stainless Steel Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-quarter-turn-locking-karabiner-PN111SS">View More</a>
+            <a href="https://karamonline.com/karam-steel-quarter-turn-locking-karabiner-pn111https://karamonline.com/karam-steel-quarter-turn-locking-karabiner-pn111" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-112.jpg?itok=a7W6OHT5" width="400" height="400" alt="Steel Screw Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN112</p>
+<p>Steel Screw Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-screw-locking-karabiner-PN112">View More</a>
+            <a href="https://karamonline.com/catalogsearch/result/?q=PN112" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-112%28LI%29.jpg?itok=cjM005De" width="400" height="400" alt="Steel Screw Locking Karabiner with Lock Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN112(LI)</p>
+<p>Steel Screw Locking Karabiner with Lock Indicator</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-screw-locking-karabiner-lock-indicator-PN112-LI">View More</a>
+            <a href="https://karamonline.com/catalogsearch/result/?q=PN112%28LI%29" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-113.jpg?itok=BPAiNMHu" width="400" height="400" alt="Steel Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN113</p>
+<p>Steel Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-karabiner-PN113">View More</a>
+            <a href="https://karamonline.com/catalogsearch/result/?q=PN113" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-113SS--Stainless-Steel-Quarter-Turn-Locking-Karabiner.jpg?itok=PeuWUeTG" width="400" height="400" alt="Stainless Steel Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN113SS</p>
+<p>Stainless Steel Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-quarter-turn-locking-karabiner-PN113SS">View More</a>
+            <a href="https://karamonline.com/karam-steel-quarter-turn-locking-karabiner-pn113" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-114.jpg?itok=cm8LS76b" width="400" height="400" alt="Steel Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN114</p>
+<p>Steel Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-karabiner-PN114">View More</a>
+            <a href="https://karamonline.com/karam-steel-triple-action-locking-karabiner" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-115.jpg?itok=icN2D3gz" width="400" height="400" alt="Steel Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115</p>
+<p>Steel Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-karabiner-PN115">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-115T.jpg?itok=0T9eiM30" width="400" height="400" alt="Steel Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115T</p>
+<p>Steel Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-karabiner-PN115T">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-115SS--Stainless-Steel-Quarter-Turn-Locking-Karabiner.jpg?itok=N9PT9gNl" width="400" height="400" alt="Stainless Steel Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115SS</p>
+<p>Stainless Steel Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-quarter-turn-locking-karabiner-PN115SS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-115TSS---Stainless-Steel-Triple-Action-Locking-Karabiner.jpg?itok=pYvglp62" width="400" height="400" alt="Stainless Steel Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN115TSS</p>
+<p>Stainless Steel Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-triple-action-locking-karabiner-PN115TSS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-119T.jpg?itok=qV6vPM7x" width="400" height="400" alt="Steel Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN119T</p>
+<p>Steel Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-karabiner-PN119T">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-119TSS---Stainless-Steel-Triple-Action-Locking-Karabiner.jpg?itok=WNb_gyLA" width="400" height="400" alt="Stainless Steel Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN119TSS</p>
+<p>Stainless Steel Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-triple-action-locking-karabiner-PN119TSS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-195.jpg?itok=qsqgWK48" width="400" height="400" alt="Steel Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195</p>
+<p>Steel Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-karabiner-PN195">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-195-T.jpg?itok=2p6JImAg" width="400" height="400" alt="Steel Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195T</p>
+<p>Steel Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-karabiner-PN195T">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-195SS---Stainless-Steel-Quarter-Turn-Locking-Steel-Karabiner_0.jpg?itok=KHl_LmTE" width="400" height="400" alt="Stainless Steel Quarter Turn Locking Steel Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195SS</p>
+<p>Stainless Steel Quarter Turn Locking Steel Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-quarter-turn-locking-steel-karabiner-PN195SS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-195TSS---Stainless-Steel-Triple-Action-Locking-Karabiner.jpg?itok=P9Izb8Cd" width="400" height="400" alt="Stainless Steel Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN195TSS</p>
+<p>Stainless Steel Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-triple-action-locking-karabiner-PN195TSS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-121.jpg?itok=THORyPvD" width="400" height="400" alt="Steel Snap Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN121</p>
+<p>Steel Snap Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-snap-hook-PN121">View More</a>
+            <a href="https://karamonline.com/karam-steel-snap-hook-pn121" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-122.jpg?itok=OvV7WH_r" width="400" height="400" alt="Steel Swivel Snap Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN122</p>
+<p>Steel Swivel Snap Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-swivel-snap-hook-PN122">View More</a>
+            <a href="https://karamonline.com/karam-steel-swivel-snap-hook-pn122" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-123.jpg?itok=5KJIE5XD" width="400" height="400" alt="Steel Swivel Snap Hook with Load Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN123</p>
+<p>Steel Swivel Snap Hook with Load Indicator</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-swivel-snap-hook-load-indicator-PN123">View More</a>
+            <a href="https://karamonline.com/karam-steel-swivel-snap-hook-with-load-indicator-pn123" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-131N.jpg?itok=iCWNMfHN" width="400" height="400" alt="Steel Scaffold Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN131N</p>
+<p>Steel Scaffold Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-scaffold-hook-PN131N">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-132.jpg?itok=OpOLBwdQ" width="400" height="400" alt="Steel Tower Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN132</p>
+<p>Steel Tower Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-tower-hook-PN132">View More</a>
+            <a href="https://karamonline.com/karam-steel-tower-hook-pn132" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-134.jpg?itok=HWV92hmZ" width="400" height="400" alt="Steel Tower Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN134</p>
+<p>Steel Tower Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-tower-hook-PN134">View More</a>
+            <a href="https://karamonline.com/karam-steel-tower-hook-pn134" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-135_0.jpg?itok=FGDpMMvt" width="400" height="400" alt="Steel Tower Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN135</p>
+<p>Steel Tower Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-tower-hook-PN135">View More</a>
+            <a href="https://karamonline.com/karam-steel-tower-hook-pn135" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-150.jpg?itok=xhPJtpTP" width="400" height="400" alt="Steel Pole Strap Snap Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN150</p>
+<p>Steel Pole Strap Snap Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-pole-strap-snap-hook-PN150">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-152-2.jpg?itok=Vf2GP2aD" width="400" height="400" alt="Steel Quarter Turn Locking Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN152</p>
+<p>Steel Quarter Turn Locking Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-quarter-turn-locking-hook-PN152">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-152T.jpg?itok=Tl0UOPE5" width="400" height="400" alt="Steel Triple Action Locking Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN152T</p>
+<p>Steel Triple Action Locking Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-hook-PN152T">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-156_1.jpg?itok=tJnoBUiQ" width="400" height="400" alt="Steel Anchorage Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN156</p>
+<p>Steel Anchorage Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-anchorage-hook-PN156">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-158.jpg?itok=yTjApOov" width="400" height="400" alt="Steel Standard Snap Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN158</p>
+<p>Steel Standard Snap Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-standard-snap-hook-PN158">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-162--Steel-Swivel-Snap-Hook-with-Load-Indicator.jpg?itok=LOB7VL7M" width="400" height="400" alt="Steel Swivel Snap Hook with Load Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN162</p>
+<p>Steel Swivel Snap Hook with Load Indicator</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-swivel-snap-hook-load-indicator-PN162">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-162SS--Stainless-Steel-Swivel-Snap-Hook-with-Load-Indicator.jpg?itok=QuYYO8dh" width="400" height="400" alt="Stainless Steel Swivel Snap Hook with Load Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN162SS</p>
+<p>Stainless Steel Swivel Snap Hook with Load Indicator</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/stainless-steel-swivel-snap-hook-load-indicator-PN162SS">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-171.jpg?itok=XlNY0hQi" width="400" height="400" alt="Steel Snap Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN171</p>
+<p>Steel Snap Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-snap-hook-PN171">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2024-10/PN-177.jpg?itok=sxb8ovvD" width="400" height="400" alt="Steel Triple Action Locking Scaffold Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN177</p>
+<p>Steel Triple Action Locking Scaffold Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/steel-triple-action-locking-scaffold-hook-PN177">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-141---Anchorage-Hook.jpg?itok=OlXV1q1z" width="400" height="400" alt="Anchorage Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN141</p>
+<p>Anchorage Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/anchorage-hook-PN141">View More</a>
+            <a href="https://karamonline.com/karam-anchorage-hook-pn141" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-142---Anchorage-Hook.jpg?itok=PMKYoyB9" width="400" height="400" alt="Anchorage Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN142</p>
+<p>Anchorage Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/anchorage-hook-PN142">View More</a>
+            <a href="https://karamonline.com/karam-anchorage-hook-pn142" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-143---Anchorage-Hook.jpg?itok=VILBnWaA" width="400" height="400" alt="Anchorage Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN143</p>
+<p>Anchorage Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/anchorage-hook-PN143">View More</a>
+            <a href="https://karamonline.com/karam-anchorage-hook-pn143" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-116---Aluminum-Screw-Locking-Karabiner.jpg?itok=mhH0qtnn" width="400" height="400" alt="Aluminium Screw Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN116</p>
+<p>Aluminium Screw Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-karabiner-PN116">View More</a>
+            <a href="https://karamonline.com/karam-aluminum-screw-locking-karabiner-pn116" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-116LI---Aluminium-Screw-Locking-Karabiner-with-Lock-Indicator.jpg?itok=CI86LnI8" width="400" height="400" alt="Aluminium Screw Locking Karabiner with Lock Indicator" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN116(LI)</p>
+<p>Aluminium Screw Locking Karabiner with Lock Indicator</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-karabiner-lock-indicator-PN116-LI">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-116F.jpg?itok=F8OQvjem" width="400" height="400" alt="Aluminium Screw Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN116F</p>
+<p>Aluminium Screw Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-screw-locking-karabiner-PN116F">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-screw-locking-karabiner-pn116f" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-117---Aluminium-Quarter-Turn-Locking-Karabiner.jpg?itok=xwJF9_39" width="400" height="400" alt="Aluminium Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN117</p>
+<p>Aluminium Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-quarter-turn-locking-karabiner-PN117">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-quarter-turn-locking-karabiner-pn117" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-06/PN-117-F.jpg?itok=WNbqKW7C" width="400" height="400" alt="Aluminium Quarter Turn Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN117F</p>
+<p>Aluminium Quarter Turn Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-quarter-turn-locking-karabiner-PN117F">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-quarter-turn-locking-karabiner-pn117f" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-118.jpg?itok=RVNxx4cw" width="400" height="400" alt="Aluminium Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN118</p>
+<p>Aluminium Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-triple-action-locking-karabiner-PN118">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-triple-action-locking-karabiner-pn118" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-118F.jpg?itok=rMYq13du" width="400" height="400" alt="Aluminium Triple Action Locking Karabiner" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN118F</p>
+<p>Aluminium Triple Action Locking Karabiner</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-triple-action-locking-karabiner-PN118F">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-triple-action-locking-karabiner-pn118f" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-129.jpg?itok=LE1PwaXI" width="400" height="400" alt="Aluminium Snap Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN129</p>
+<p>Aluminium Snap Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-snap-hook-PN129">View More</a>
+            <a href="https://karamonline.com/aluminium-snap-hook-pn129" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-136---Aluminium-Scaffold-Hook.jpg?itok=gIAY7hyZ" width="400" height="400" alt="Aluminium Scaffold Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN136</p>
+<p>Aluminium Scaffold Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-scaffold-hook-PN136">View More</a>
+            <a href="https://karamonline.com/aluminium-scaffold-hook-pn136" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-138.jpg?itok=Vg0bpmtX" width="400" height="400" alt="Aluminium Scaffold Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN138</p>
+<p>Aluminium Scaffold Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-scaffold-hook-PN138">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-scaffold-hook-pn138" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-139--Aluminium-Tower-Hook.jpg?itok=KGtt-weA" width="400" height="400" alt="Aluminium Tower Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN139</p>
+<p>Aluminium Tower Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-tower-hook-PN139">View More</a>
+            <a href="https://karamonline.com/karam-aluminium-tower-hook-pn139" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-154--Aluminium-Anchorage-Hook.jpg?itok=Nko86cNT" width="400" height="400" alt="Aluminium Anchorage Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN154</p>
+<p>Aluminium Anchorage Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-anchorage-hook-PN154">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2026-04/PN-180.jpg?itok=GAJSCZn9" width="400" height="400" alt="Aluminium Scaffold Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN180</p>
+<p>Aluminium Scaffold Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-scaffold-hook-PN180">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-181--Aluminium-Scaffold-Swivel-Hook.jpg?itok=_h_QGb3B" width="400" height="400" alt="Aluminium Scaffold Swivel Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN181</p>
+<p>Aluminium Scaffold Swivel Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/aluminium-scaffold-swivel-hook-PN181">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-166---Dielectric-Scaffold-Hook.jpg?itok=rXdp0_WV" width="400" height="400" alt="Dielectric Scaffold Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN166</p>
+<p>Dielectric Scaffold Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/dielectric-scaffold-hook-PN166">View More</a>
+</div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+    <div class="views-row"><div class="product-cat-tax">
+  <img loading="lazy" src="/sites/default/files/styles/400_4/public/2023-06/PN-172---Dielectric-Snap-Hook.jpg?itok=0yiP_ZAI" width="400" height="400" alt="Dielectric Snap Hook" class="img-responsive" />
+
+
+
+<div class="product-cat-content-tax">
+<p class="sku-t">PN172</p>
+<p>Dielectric Snap Hook</p>
+</div>
+<div class="product-cat-des-tax">
+<a href="https://www.karam.in/product/dielectric-snap-hook-PN172">View More</a>
+            <a href="https://karamonline.com/karam-dielectric-snap-hook-pn172" class="buy-now-btn">Buy Now</a>
+        </div>
+</div>
+
+<style>
+	.product-cat-des-tax .buy-now-btn {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    display: inline-block;
+    color: #fff;
+    background-color: #e31e25;
+    text-decoration: none;
+    padding: 11px 17px;
+    text-align: center;
+    width: 140px;
+    border: 0px;
+    font-size: 18px;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0,-50%);
+}
+</style>
+
+
+
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+
+    <div class="views-element-container form-group"><div class="view view-product-category-large-content view-id-product_category_large_content view-display-id-block_1 js-view-dom-id-986ab666f11a410752e0a5b68d99cc344fa844e9af96b6944664c113341cf4d9">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-product-large-content"><div class="field-content"><p><strong>Introduction to Hook &amp; Karabiners:</strong></p><p>To meet the different hazard situations encountered in the field, KARAM offers a wide range of Hooks and Karabiners having distinguished features. The range is designed for a specific use based on its material, shape, size, gate-opening capacity and locking system.</p></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+
+    <div class="product-share">
+        <p>Share:</p>
+        <section class="block block-better-social-sharing-buttons block-social-sharing-buttons-block clearfix">
+  
+    
+
+      
+
+<div style="display: none"><link rel="preload" href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg" as="image" type="image/svg+xml" crossorigin="anonymous" /></div>
+
+<div class="social-sharing-buttons">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.karam.in/products/hooks-karabiners&amp;title=Hooks%20%26%20Karabiners" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons-button share-facebook" rel="noopener">
+            <svg aria-hidden="true" width="20px" height="20px" style="border-radius:3px;">
+                <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg#facebook" />
+            </svg>
+        </a>
+    
+                <a href="https://twitter.com/intent/tweet?text=Hooks%20%26%20Karabiners+https://www.karam.in/products/hooks-karabiners" target="_blank" title="Share to X" aria-label="Share to X" class="social-sharing-buttons-button share-x" rel="noopener">
+            <svg aria-hidden="true" width="20px" height="20px" style="border-radius:3px;">
+                <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg#x" />
+            </svg>
+        </a>
+    
+        
+        
+        
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.karam.in/products/hooks-karabiners" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons-button share-linkedin" rel="noopener">
+            <svg aria-hidden="true" width="20px" height="20px" style="border-radius:3px;">
+                <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--no-color.svg#linkedin" />
+            </svg>
+        </a>
+    
+    
+    
+        
+        
+        
+        
+        
+        
+    </div>
+
+  </section>
+
+
+    </div>
+
+
+</div>
+
+      </section>
+
+                </div>
+  </div>
+
+<div class="footer_area">
+  <div class="container">
+    <div class="row">
+                       <div class="col-md-3 col-sm-6 first">  <div class="region region-footer-first">
+    <section id="block-footerdetails-2" class="block block-block-content block-block-content58bacbb0-f59d-49f3-9bd9-dd3d2965eb70 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h4>Corporate Office</h4><ul class="footer-address"><li class="address-icon">D-95, Sector 2, Noida, Uttar Pradesh - 201301</li><li class="mail-icon"><a href="mailto:karam@karam.in">karam@karam.in</a></li><li class="phone-icon"><a href="tel:18001037085">1800-103-7085</a></li><li class="phone-office"><a href="tel:+911204734400">+91 120 4734400</a></li></ul></div>
+      
+  </section>
+
+
+  </div>
+</div>
+                                      <div class="col-md-3 col-sm-6 col-xs-5">  <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-footerwhowearemenu-menu" id="block-footerwhowearemenu">
+            
+  <h2 class="visually-hidden" id="block-footerwhowearemenu-menu">Who We Are</h2>
+  
+
+        
+      <ul class="menu menu--footer-who-we-are-menu nav">
+                      <li class="first">
+                                        <a href="https://karamonline.com/" target="_blank">KARAM Safety Online</a>
+              </li>
+                      <li>
+                                        <a href="/press-coverage" data-drupal-link-system-path="node/869">Press Coverage</a>
+              </li>
+                      <li>
+                                        <a href="/faqs" data-drupal-link-system-path="node/24">FAQs</a>
+              </li>
+                      <li>
+                                        <a href="/blog" data-drupal-link-system-path="node/12">Blogs</a>
+              </li>
+                      <li>
+                                        <a href="/newsletter" data-drupal-link-system-path="node/21">Newsletter</a>
+              </li>
+                      <li>
+                                        <a href="/news-events" data-drupal-link-system-path="node/19">News &amp; Events</a>
+              </li>
+                      <li class="last">
+                                        <a href="/careers" data-drupal-link-system-path="node/39">Careers</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+</div>
+                                     <div class="col-md-3 col-sm-6 col-xs-7">  <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-whatwedo-menu" id="block-whatwedo">
+            
+  <h2 class="visually-hidden" id="block-whatwedo-menu">What We do</h2>
+  
+
+        
+      <ul class="menu menu--what-we-do nav">
+                      <li class="first">
+                                        <a href="/product-warranty-and-disclaimer" data-drupal-link-system-path="node/36">Product Warranty &amp; Disclaimer</a>
+              </li>
+                      <li>
+                                        <a href="/eu-declaration" data-drupal-link-system-path="node/40">EU Declaration Form</a>
+              </li>
+                      <li>
+                                        <a href="/karam-loyalty-reward-program" data-drupal-link-system-path="node/23">Loyalty Rewards Program</a>
+              </li>
+                      <li>
+                                        <a href="/sites/default/files/2023-08/IMS-policy.pdf" target="_blank">IMS Policy</a>
+              </li>
+                      <li class="last">
+                                        <a href="/system-of-disposal-of-personal-protective-equipment" data-drupal-link-system-path="node/1101">System of Disposal of PPE</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+</div>
+                                     <div class="col-md-3 col-sm-6 last">  <div class="region region-footer-fourth">
+    <section id="block-contactinfo" class="block block-block-content block-block-content1457a741-e0bc-4ba6-b5c0-2e2b5003cd54 clearfix">
+  
+      <h2 class="block-title">Contact info</h2>
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><img style="float:left;margin-bottom:20px;" src="/themes/karam_india/images/KS-logo-img.jpg" data-entity-type="file" alt="ks group logo" width="166" height="109" loading="lazy"><a href="https://www.karam.in/karam-app-launch/"><img style="float:left;" src="/themes/karam_india/images/KARAM-app-icon.jpg" data-entity-type="file" alt="karam app logo" width="220" height="55" loading="lazy"></a></div>
+      
+  </section>
+
+
+  </div>
+</div>
+                </div>
+</div>
+</div>
+<div class="footer-bottom">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-4"><p>&copy; 2026, All rights reserved by KARAM Safety Pvt. Ltd.</p></div>
+                        <div class="col-md-8 col-sm-8">  <div class="region region-footer-link">
+    <nav role="navigation" aria-labelledby="block-socialmediaicons-menu" id="block-socialmediaicons">
+            
+  <h2 class="visually-hidden" id="block-socialmediaicons-menu">Social Media Icons</h2>
+  
+
+        
+      <ul class="menu menu--social-media-icon nav">
+                      <li class="first">
+                                        <a href="https://www.facebook.com/KARAMsafetyproducts/" class="facebook-icon" target="_blank">Facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/company/karam" class="linkedin-icon" target="_blank">linkedin</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/channel/UCaqIglxwt9USY0j-7bZomjQ" class="youtube-icon" target="_blank">Youtube</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.instagram.com/karam_safety/" class="instagram-icon" target="_blank">Instagram</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-footerlink-menu" id="block-footerlink">
+            
+  <h2 class="visually-hidden" id="block-footerlink-menu">Footer Link</h2>
+  
+
+        
+      <ul class="menu menu--footer-link nav">
+                      <li class="first">
+                                        <a href="/privacy-policy" data-drupal-link-system-path="node/32">Privacy Policy </a>
+              </li>
+                      <li class="last">
+                                        <a href="/terms-of-sale" data-drupal-link-system-path="node/1152">Terms of Sale</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+</div>
+                  </div>
+  </div>
+</div>
+<div class="global-search animated">
+<div class="close-btn close-popup">x</div>
+<div class="global-search-content animated">
+<div class="arrow-up close-popup"><i class="far fa-arrow-up"></i></div>
+  <div class="region region-global-search">
+    <section class="views-exposed-form block block-views block-views-exposed-filter-blockglobal-search-data-page-1 clearfix" data-drupal-selector="views-exposed-form-global-search-data-page-1" id="block-exposedformglobal-search-datapage-1">
+  
+    
+
+      <form action="/search" method="get" id="views-exposed-form-global-search-data-page-1" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-group">
+      <label for="edit-keyword" class="control-label">Fulltext search</label>
+  
+  
+  <input placeholder="Search" data-drupal-selector="edit-keyword" class="form-text form-control" type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128" />
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions--4"><button data-drupal-selector="edit-submit-global-search-data" class="button js-form-submit form-submit btn-info btn" type="submit" id="edit-submit-global-search-data" value="Apply">Apply</button></div>
+
+</div>
+
+</form>
+
+  </section>
+
+
+  </div>
+
+</div>
+</div>
+    <div class="scroll-up">
+		<svg class="scroll-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102"><path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" /> </svg>
+	</div>
+
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"taxonomy\/term\/52","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxtj1FOxDAMRC8UmiNFk9RtDU5c2c6ye3sKEgtI_Ixm3vsavOJeRLGSZfz0JQ7TWslSpQiyQvdTndaysVzT806DDPKtXRtDih8wHnupM0KHZ4-HXDtV1fAwnPnZymlUeHD8knFQp_QGQ7_Uysi7aIW8NPf_sDfjM5I_PKjnCqc0JbjTmPlAr9P268ET6bY1jBt88QYhHunG9O75K5fP939A13UKfQADI3IO","theme":"karam_india","theme_token":null},"ajaxTrustedUrl":{"\/search":true,"\/products\/hooks-karabiners":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-circle\u0022\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":true,"throbberPosition":"body"},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":""},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:1678d4ee76b8edbaee517b4565ae335c37709b57a151ba61ecc41517e5c8fbac":{"view_name":"product_category_taxonomy","view_display_id":"block_1","view_args":"52","view_path":"\/taxonomy\/term\/52","view_base_path":null,"view_dom_id":"1678d4ee76b8edbaee517b4565ae335c37709b57a151ba61ecc41517e5c8fbac","pager_element":0}}},"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"b8df65aba8e5e9904f6067ceba6315e6d524f1477bb3e8b74b171868b622374e"}}</script>
+<script src="/sites/default/files/js/js_dM0r3kC-0b3bL9LNVq6C-cb0ZHXD_eWLl5M-6YsKUqg.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=karam_india&amp;include=eJxNjlsOwjAMBC8U6iNFDllagxtHjgs9PgWJx89qVvMzfOU9q3GFE_94isWtFHgqiIBn7N0Gar6IHnfQjAZnTcUsRjh3-lLujixN4k_GghXpxs7roaowzWqF9TTOLj3SpiEr2kYfSHfBY9B7p1fYE00XQvw"></script>
+<script src="https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.4/dist/js/bootstrap.min.js"></script>
+<script src="/sites/default/files/js/js_KiAJB4VEaHHnN8Ns-VkttklPKT-Y_vIXJCMuuRmDbjc.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=karam_india&amp;include=eJxNjlsOwjAMBC8U6iNFDllagxtHjgs9PgWJx89qVvMzfOU9q3GFE_94isWtFHgqiIBn7N0Gar6IHnfQjAZnTcUsRjh3-lLujixN4k_GghXpxs7roaowzWqF9TTOLj3SpiEr2kYfSHfBY9B7p1fYE00XQvw"></script>
+
+ 
+     
+
+  </body>
+</html>
+
