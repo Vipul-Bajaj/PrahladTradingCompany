@@ -1,5 +1,5 @@
 {
-  "_note": "Logos and product photos, downloaded at build time by fetch-media.mjs; the first candidate URL that returns an image wins. Brand logos and category photos come from the manufacturers' own sites; some shoe photos come from retailer listings (lntsufin.com, moglix.com, milansafety.com, dsssafety.in) where the maker doesn't publish one. Replace any of these with your own photos when available.",
+  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos, which come from retailer listings because Acme's Indian site couldn't be reached.",
   "items": [
     {
       "id": "logo-acme",
@@ -145,23 +145,39 @@
       ]
     },
     {
-      "id": "shoe-footland-ds",
+      "id": "shoe-footland-z4",
       "candidates": [
-        "https://lntsufin.com/storage/mediafiles/catalog/live/17509-5635/original/17509-5635_image_0.jpg",
-        "https://lntsufin.com/storage/mediafiles/catalog/live/17509-5635/thumbnail/17509-5635_image_0.jpg"
+        "https://www.footlandsafetyshoes.com/img/z4.jpg"
       ]
     },
     {
-      "id": "shoe-footland-pu",
+      "id": "shoe-footland-v8",
       "candidates": [
-        "https://milansafety.com/cdn/shop/files/2.png?v=1724339188"
+        "https://www.footlandsafetyshoes.com/img/v8.jpg"
       ]
     },
     {
-      "id": "shoe-footland-pvc",
+      "id": "shoe-footland-victor",
       "candidates": [
-        "https://www.dsssafety.in/wp-content/uploads/2024/05/Foot-Land-Shoes-2-810x908.jpg",
-        "https://cpimg.tistatic.com/05830878/b/4/Safety-shoes-Footland-PVC.jpg"
+        "https://www.footlandsafetyshoes.com/img/victor.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-sumo",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/sumo.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-signature",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/signature.jpg"
+      ]
+    },
+    {
+      "id": "logo-footland",
+      "candidates": [
+        "https://www.footlandsafetyshoes.com/img/logo.jpg"
       ]
     }
   ]

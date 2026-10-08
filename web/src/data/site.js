@@ -51,6 +51,14 @@ export const brands = [
     site: 'https://www.mallcom.in/',
   },
   {
+    id: 'footland',
+    name: 'Footland',
+    logo: 'logo-footland',
+    makes: 'Safety shoes',
+    relationship: 'stockist',
+    site: 'https://www.footlandsafetyshoes.com/',
+  },
+  {
     id: 'omex',
     name: 'Omex',
     logo: 'logo-omex',
@@ -60,8 +68,7 @@ export const brands = [
   },
 ];
 
-const extraBrandNames = { footland: 'Footland' };
-export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? extraBrandNames[id] ?? id;
+export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? id;
 
 export const categories = [
   {
@@ -80,7 +87,7 @@ export const categories = [
     brands: ['acme', 'mallcom', 'footland'],
     media: 'cat-foot',
     page: '/products/safety-shoes/',
-    pageLabel: 'See 9 models and specs',
+    pageLabel: 'See models and specs',
   },
   {
     id: 'hand',

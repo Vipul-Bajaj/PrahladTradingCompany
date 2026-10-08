@@ -11,7 +11,7 @@ const archivo = Archivo({
 export const metadata = {
   title: 'Prahlad Trading Company | Safety equipment in Raipur',
   description:
-    'Industrial safety equipment in Raipur, Chhattisgarh: helmets, safety shoes, gloves, harnesses, respirators and fire extinguishers from Acme, Karam, Udyogi, Mallcom and Omex.',
+    'Industrial safety equipment in Raipur, Chhattisgarh: helmets, safety shoes, gloves, harnesses, respirators and fire extinguishers from Acme, Karam, Udyogi, Mallcom, Footland and Omex.',
 };
 
 export const viewport = {

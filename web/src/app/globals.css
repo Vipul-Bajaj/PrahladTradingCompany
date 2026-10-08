@@ -147,7 +147,7 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
 .logo-strip__img { max-height: 40px; max-width: 120px; width: auto; height: auto; object-fit: contain; }
 
 @media (min-width: 640px) {
-  .logo-strip__list { grid-template-columns: repeat(5, 1fr); padding-block: 28px; }
+  .logo-strip__list { grid-template-columns: repeat(6, 1fr); padding-block: 28px; }
   .logo-strip__img { max-height: 46px; max-width: 150px; }
 }
 
