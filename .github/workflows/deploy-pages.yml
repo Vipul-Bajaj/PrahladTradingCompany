@@ -75,10 +75,25 @@ jobs:
     permissions:
       pages: write
       id-token: write
+      actions: read
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # While Pages is set to "Deploy from a branch", GitHub also publishes the raw
+      # repo on every push. Wait for that build to finish so this deployment lands
+      # last and the Next.js site is what stays live. (Setting Pages > Source to
+      # "GitHub Actions" removes the need for this.)
+      - name: Wait for GitHub's own Pages build to finish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for i in $(seq 1 40); do
+            busy=$(gh api "repos/${{ github.repository }}/actions/runs?per_page=20" \
+              --jq '[.workflow_runs[] | select(.name == "pages build and deployment" and (.status == "queued" or .status == "in_progress" or .status == "waiting"))] | length')
+            if [ "$busy" = "0" ]; then echo "No other Pages build running."; break; fi
+            echo "Waiting for $busy GitHub Pages build(s) to finish..."; sleep 15
+          done
       # GitHub allows one Pages deployment at a time. When the media job commits
       # images, GitHub's own Pages build starts too; if it's still running, wait
       # and try again instead of failing.
