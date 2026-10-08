@@ -1,1 +1,26 @@
-{}
+{
+  "logo-acme": "/media/logo-acme.png",
+  "logo-karam": "/media/logo-karam.png",
+  "logo-udyogi": "/media/logo-udyogi.svg",
+  "logo-mallcom": "/media/logo-mallcom.webp",
+  "logo-omex": "/media/logo-omex.png",
+  "hero": "/media/hero.jpg",
+  "cat-head": "/media/cat-head.jpg",
+  "cat-foot": "/media/cat-foot.png",
+  "cat-hand": "/media/cat-hand.jpg",
+  "cat-eye": "/media/cat-eye.jpg",
+  "cat-welding": "/media/cat-welding.jpg",
+  "cat-respiratory": "/media/cat-respiratory.jpg",
+  "cat-body": "/media/cat-body.jpg",
+  "cat-fall": "/media/cat-fall.jpg",
+  "cat-fire": "/media/cat-fire.jpg",
+  "shoe-acme-atom": "/media/shoe-acme-atom.jpg",
+  "shoe-acme-storm": "/media/shoe-acme-storm.webp",
+  "shoe-acme-tusker": "/media/shoe-acme-tusker.webp",
+  "shoe-tiger-lorex": "/media/shoe-tiger-lorex.webp",
+  "shoe-tiger-leopard": "/media/shoe-tiger-leopard.webp",
+  "shoe-mallcom-civet": "/media/shoe-mallcom-civet.webp",
+  "shoe-footland-ds": "/media/shoe-footland-ds.jpg",
+  "shoe-footland-pu": "/media/shoe-footland-pu.webp",
+  "shoe-footland-pvc": "/media/shoe-footland-pvc.jpg"
+}
