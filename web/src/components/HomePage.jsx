@@ -1,45 +1,6 @@
 import Media from './Media';
+import { Header, Footer, PhoneIcon, href } from './Chrome';
 import { company, brands, categories, brandName, enquiryMailto } from '../data/site';
-
-function PhoneIcon() {
-  return (
-    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
-      <path
-        fill="currentColor"
-        d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1L6.6 10.8Z"
-      />
-    </svg>
-  );
-}
-
-function Header() {
-  return (
-    <header className="site-header">
-      <div className="wrap site-header__inner">
-        <a className="wordmark" href="#top" aria-label={`${company.name}, back to top`}>
-          <span className="wordmark__mark" aria-hidden="true">P</span>
-          <span className="wordmark__text">
-            Prahlad Trading <span>Company</span>
-          </span>
-        </a>
-        <nav className="site-nav" aria-label="Main">
-          <a href="#products">Products</a>
-          <a href="#brands">Brands</a>
-          <a href="#order">How to order</a>
-          <a href="#contact">Contact</a>
-        </nav>
-        <a
-          className="btn btn--solid btn--small header-call"
-          href={company.phoneHref}
-          aria-label={`Call ${company.phoneDisplay}`}
-        >
-          <PhoneIcon />
-          <span className="header-call__label">{company.phoneDisplay}</span>
-        </a>
-      </div>
-    </header>
-  );
-}
 
 function Hero() {
   return (
@@ -107,17 +68,25 @@ function Products() {
         </div>
         <ul className="catalogue">
           {categories.map((c) => (
-            <li key={c.id} className="cat">
+            <li key={c.id} className={c.page ? 'cat cat--linked' : 'cat'}>
               <div className="cat__photo">
                 <Media
                   id={c.media}
-                  alt={c.name}
+                  alt=""
                   className="cat__img"
                   fallback={<span className="cat__img cat__img--empty">{c.name}</span>}
                 />
               </div>
               <div className="cat__body">
-                <h3 className="cat__name">{c.name}</h3>
+                <h3 className="cat__name">
+                  {c.page ? (
+                    <a className="cat__link" href={href(c.page)}>
+                      {c.name}
+                    </a>
+                  ) : (
+                    c.name
+                  )}
+                </h3>
                 <p className="cat__summary">{c.summary}</p>
                 <p className="cat__brands">
                   <span className="visually-hidden">Brands: </span>
@@ -127,6 +96,11 @@ function Products() {
                     </span>
                   ))}
                 </p>
+                {c.page ? (
+                  <span className="cat__cta" aria-hidden="true">
+                    {c.pageLabel}
+                  </span>
+                ) : (
                 <details className="cat__more">
                   <summary>What’s included</summary>
                   <ul>
@@ -138,6 +112,7 @@ function Products() {
                     Ask for a price
                   </a>
                 </details>
+                )}
               </div>
             </li>
           ))}
@@ -247,17 +222,6 @@ function Contact() {
         </dl>
       </div>
     </section>
-  );
-}
-
-function Footer() {
-  return (
-    <footer className="site-footer">
-      <div className="wrap site-footer__inner">
-        <p>© {new Date().getFullYear()} {company.name}, {company.city}</p>
-        <p>Brand names and logos belong to their respective owners.</p>
-      </div>
-    </footer>
   );
 }
 

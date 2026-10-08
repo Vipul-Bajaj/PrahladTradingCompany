@@ -1,63 +1,168 @@
 {
-  "_note": "Official logos and product photos from each manufacturer's own website. Downloaded at build time by fetch-media.mjs; the first candidate URL that returns an image wins.",
+  "_note": "Logos and product photos, downloaded at build time by fetch-media.mjs; the first candidate URL that returns an image wins. Brand logos and category photos come from the manufacturers' own sites; some shoe photos come from retailer listings (lntsufin.com, moglix.com, milansafety.com, dsssafety.in) where the maker doesn't publish one. Replace any of these with your own photos when available.",
   "items": [
-    { "id": "logo-acme", "candidates": [
-      "https://global.acmeuniversal9.com/Vhost/global.acmeuniversal9.com/images/LogoImage_133945369448716725.png"
-    ]},
-    { "id": "logo-karam", "candidates": [
-      "https://www.karam.in/sites/default/files/karam-logo-01.png",
-      "https://www.karam.in/sites/default/files/2023-07/karam-logo_6.png",
-      "https://karam.in/themes/karam_india/images/karam-logo.jpg"
-    ]},
-    { "id": "logo-udyogi", "candidates": [
-      "https://udyogisafety.com/_next/static/media/logo.0c4wcxcno46nr.svg",
-      "https://udyogisafety.com/_next/static/media/main-logo.2lppo-6d-ia73.webp",
-      "https://udyogisafety.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-logo.2lppo-6d-ia73.webp&w=1080&q=75"
-    ]},
-    { "id": "logo-mallcom", "candidates": [
-      "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/mallcom_2x_8e0b2580-52e4-41b4-9f7d-187b23099d91.png?v=1674822764&width=600",
-      "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/mallcom_2x_8e0b2580-52e4-41b4-9f7d-187b23099d91.png?v=1674822764"
-    ]},
-    { "id": "logo-omex", "candidates": [
-      "https://www.omex.co.in/assets/public/default/images/logo.png"
-    ]},
-
-    { "id": "hero", "candidates": [
-      "https://www.karam.in/sites/default/files/2023-04/Full-Body-Harness.jpg",
-      "https://udyogisafety.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhome-about1.1vdr0ron1k137.webp&w=1080&q=75"
-    ]},
-
-    { "id": "cat-head", "candidates": [
-      "https://www.karam.in/sites/default/files/2023-04/Head-Protection.jpg"
-    ]},
-    { "id": "cat-foot", "candidates": [
-      "https://global.acmeuniversal9.com/vhost/global.acmeuniversal9.com/themes/images/acme-brand-shoe.png",
-      "https://www.karam.in/sites/default/files/2023-04/Foot-Protection.jpg"
-    ]},
-    { "id": "cat-hand", "candidates": [
-      "https://www.karam.in/sites/default/files/2023-04/Hand-Protection.jpg"
-    ]},
-    { "id": "cat-eye", "candidates": [
-      "https://www.karam.in/sites/default/files/styles/400_4/public/2023-06/ES-001%28Clear%29-CONSTRUCTION-WORKER%E2%80%99S-CHOICE-SPECTACLES_0.jpg?itok=LwT_iUzl",
-      "https://www.karam.in/sites/default/files/2023-03/products-cat.jpg"
-    ]},
-    { "id": "cat-welding", "candidates": [
-      "https://www.karam.in/sites/default/files/2023-04/Face-Protection.jpg",
-      "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/ES-004-ELECTRIC-ARC-WELDER%E2%80%99S-CHOICE-SPECTACLES.jpg?itok=sbqExaxA"
-    ]},
-    { "id": "cat-respiratory", "candidates": [
-      "https://www.karam.in/sites/default/files/2023-04/Respiratory-Protection.jpg"
-    ]},
-    { "id": "cat-body", "candidates": [
-      "https://www.karam.in/sites/default/files/2023-04/Protective-Workwear.jpg"
-    ]},
-    { "id": "cat-fall", "candidates": [
-      "https://www.karam.in/sites/default/files/2023-04/Lanyards.jpg",
-      "https://www.karam.in/sites/default/files/2023-04/Full-Body-Harness.jpg"
-    ]},
-    { "id": "cat-fire", "candidates": [
-      "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4592bOD5.jpg",
-      "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_45980N8j.jpg"
-    ]}
+    {
+      "id": "logo-acme",
+      "candidates": [
+        "https://global.acmeuniversal9.com/Vhost/global.acmeuniversal9.com/images/LogoImage_133945369448716725.png"
+      ]
+    },
+    {
+      "id": "logo-karam",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/karam-logo-01.png",
+        "https://www.karam.in/sites/default/files/2023-07/karam-logo_6.png",
+        "https://karam.in/themes/karam_india/images/karam-logo.jpg"
+      ]
+    },
+    {
+      "id": "logo-udyogi",
+      "candidates": [
+        "https://udyogisafety.com/_next/static/media/logo.0c4wcxcno46nr.svg",
+        "https://udyogisafety.com/_next/static/media/main-logo.2lppo-6d-ia73.webp",
+        "https://udyogisafety.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-logo.2lppo-6d-ia73.webp&w=1080&q=75"
+      ]
+    },
+    {
+      "id": "logo-mallcom",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/mallcom_2x_8e0b2580-52e4-41b4-9f7d-187b23099d91.png?v=1674822764&width=600",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/mallcom_2x_8e0b2580-52e4-41b4-9f7d-187b23099d91.png?v=1674822764"
+      ]
+    },
+    {
+      "id": "logo-omex",
+      "candidates": [
+        "https://www.omex.co.in/assets/public/default/images/logo.png"
+      ]
+    },
+    {
+      "id": "hero",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Full-Body-Harness.jpg",
+        "https://udyogisafety.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhome-about1.1vdr0ron1k137.webp&w=1080&q=75"
+      ]
+    },
+    {
+      "id": "cat-head",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Head-Protection.jpg"
+      ]
+    },
+    {
+      "id": "cat-foot",
+      "candidates": [
+        "https://global.acmeuniversal9.com/vhost/global.acmeuniversal9.com/themes/images/acme-brand-shoe.png",
+        "https://www.karam.in/sites/default/files/2023-04/Foot-Protection.jpg"
+      ]
+    },
+    {
+      "id": "cat-hand",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Hand-Protection.jpg"
+      ]
+    },
+    {
+      "id": "cat-eye",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-06/ES-001%28Clear%29-CONSTRUCTION-WORKER%E2%80%99S-CHOICE-SPECTACLES_0.jpg?itok=LwT_iUzl",
+        "https://www.karam.in/sites/default/files/2023-03/products-cat.jpg"
+      ]
+    },
+    {
+      "id": "cat-welding",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Face-Protection.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/ES-004-ELECTRIC-ARC-WELDER%E2%80%99S-CHOICE-SPECTACLES.jpg?itok=sbqExaxA"
+      ]
+    },
+    {
+      "id": "cat-respiratory",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Respiratory-Protection.jpg"
+      ]
+    },
+    {
+      "id": "cat-body",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Protective-Workwear.jpg"
+      ]
+    },
+    {
+      "id": "cat-fall",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Lanyards.jpg",
+        "https://www.karam.in/sites/default/files/2023-04/Full-Body-Harness.jpg"
+      ]
+    },
+    {
+      "id": "cat-fire",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4592bOD5.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_45980N8j.jpg"
+      ]
+    },
+    {
+      "id": "shoe-acme-atom",
+      "candidates": [
+        "https://lntsufin.com/storage/mediafiles/catalog/live/17559-1121/original/17559-1121_image_0.jpg",
+        "https://lntsufin.com/storage/mediafiles/catalog/live/17559-1121/original/17559-1121_image_1.jpg"
+      ]
+    },
+    {
+      "id": "shoe-acme-storm",
+      "candidates": [
+        "https://cdn.moglix.com/p/kXQ06oF4vtniC-xxlarge.jpg"
+      ]
+    },
+    {
+      "id": "shoe-acme-tusker",
+      "candidates": [
+        "https://cdn.moglix.com/p/tGNdF5D9DljU9-xxlarge.jpg",
+        "https://lntsufin.com/storage/mediafiles/catalog/live/15924-64/original/15924-64_image_0.jpg"
+      ]
+    },
+    {
+      "id": "shoe-tiger-lorex",
+      "candidates": [
+        "https://mallcom.in/cdn/shop/files/45degreeleft_79b6b589-3f57-477a-916d-4d6238be381f.png?v=1746789358",
+        "https://mallcom.in/cdn/shop/files/1_98e2aaed-10f5-4643-b42b-4d09b39fbca7.png?v=1746789358",
+        "https://lntsufin.com/storage/mediafiles/catalog/live/17461-744/original/17461-744_image_0.jpg"
+      ]
+    },
+    {
+      "id": "shoe-tiger-leopard",
+      "candidates": [
+        "https://mallcom.in/cdn/shop/files/1_00f9fbf3-5ddb-477d-9fcf-e658029a401d.png?v=1746789355",
+        "https://mallcom.in/cdn/shop/files/4_0c1eeb4a-df03-485a-bc9e-6612fc65abd6.png?v=1746789355"
+      ]
+    },
+    {
+      "id": "shoe-mallcom-civet",
+      "candidates": [
+        "https://mallcom.in/cdn/shop/files/Artboard2_32.jpg?v=1772448692",
+        "https://mallcom.in/cdn/shop/files/Artboard1_34.jpg?v=1772448692"
+      ]
+    },
+    {
+      "id": "shoe-footland-ds",
+      "candidates": [
+        "https://lntsufin.com/storage/mediafiles/catalog/live/17509-5635/original/17509-5635_image_0.jpg",
+        "https://lntsufin.com/storage/mediafiles/catalog/live/17509-5635/thumbnail/17509-5635_image_0.jpg"
+      ]
+    },
+    {
+      "id": "shoe-footland-pu",
+      "candidates": [
+        "https://milansafety.com/cdn/shop/files/2.png?v=1724339188"
+      ]
+    },
+    {
+      "id": "shoe-footland-pvc",
+      "candidates": [
+        "https://www.dsssafety.in/wp-content/uploads/2024/05/Foot-Land-Shoes-2-810x908.jpg",
+        "https://cpimg.tistatic.com/05830878/b/4/Safety-shoes-Footland-PVC.jpg"
+      ]
+    }
   ]
 }

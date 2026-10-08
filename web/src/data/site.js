@@ -4,6 +4,7 @@ export const company = {
   city: 'Raipur, Chhattisgarh',
   phoneDisplay: '081090 47714',
   phoneHref: 'tel:+918109047714',
+  whatsapp: '918109047714', // country code + number, no + or spaces
   email: 'prahladtrading@yahoo.co.in',
   hours: 'Monday to Saturday, 10:30 AM – 7:30 PM',
   hoursShort: 'Mon–Sat, 10:30 AM – 7:30 PM',
@@ -59,7 +60,8 @@ export const brands = [
   },
 ];
 
-export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? id;
+const extraBrandNames = { footland: 'Footland' };
+export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? extraBrandNames[id] ?? id;
 
 export const categories = [
   {
@@ -75,8 +77,10 @@ export const categories = [
     name: 'Safety shoes',
     summary: 'Steel-toe shoes and boots for factory floors, sites and wet areas.',
     items: ['Steel-toe safety shoes', 'High-ankle safety boots', 'Gumboots', 'Heat- and oil-resistant soles'],
-    brands: ['acme', 'mallcom', 'karam', 'udyogi'],
+    brands: ['acme', 'mallcom', 'footland'],
     media: 'cat-foot',
+    page: '/products/safety-shoes/',
+    pageLabel: 'See 9 models and specs',
   },
   {
     id: 'hand',
