@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
-      - run: KEY="/product/|/products/[a-z0-9-]+$|/p/d/" FOLLOW="none.invalid" SEEDS="$(cat research/seeds.json)" node research/crawl.mjs
+      - run: KEY="/product/|/products/[a-z0-9-]+$" FOLLOW="karam.in,udyogisafety.com" SEEDS="$(cat research/seeds.json)" node research/crawl.mjs
       - run: |
           git add research/out
           git config user.name "github-actions[bot]"

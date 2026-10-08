@@ -1,5 +1,0 @@
-URL: https://mallcom.in/products.json?limit=250&page=4
-STATUS: 200
-TYPE: application/json; charset=utf-8
-
-{"products":[]}
