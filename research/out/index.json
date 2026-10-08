@@ -1,0 +1,676 @@
+[
+  {
+    "url": "https://www.karam.in/products/eye-protection",
+    "final": "https://www.karam.in/products/eye-protection",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 58059
+  },
+  {
+    "url": "https://www.karam.in/products/ear-protection",
+    "final": "https://www.karam.in/products/ear-protection",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 47298
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/general-purpose",
+    "final": "https://udyogisafety.com/products-subcategories/general-purpose",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 206020
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/chemical",
+    "final": "https://udyogisafety.com/products-subcategories/chemical",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 108067
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/over-the-spectacle",
+    "final": "https://udyogisafety.com/products-subcategories/over-the-spectacle",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 108266
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/welding-safety-goggles",
+    "final": "https://udyogisafety.com/products-subcategories/welding-safety-goggles",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 86913
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/head-mounted",
+    "final": "https://udyogisafety.com/products-subcategories/head-mounted",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 108478
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/helmet-mounted",
+    "final": "https://udyogisafety.com/products-subcategories/helmet-mounted",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 86848
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/disposable",
+    "final": "https://udyogisafety.com/products-subcategories/disposable",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 80780
+  },
+  {
+    "url": "https://udyogisafety.com/products-subcategories/reusable",
+    "final": "https://udyogisafety.com/products-subcategories/reusable",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 80738
+  },
+  {
+    "url": "https://www.3mindia.in/3M/en_IN/p/c/ppe/eye-protection/glasses/",
+    "error": "TimeoutError: The operation was aborted due to timeout "
+  },
+  {
+    "url": "https://www.3mindia.in/3M/en_IN/p/c/ppe/eye-protection/goggles/",
+    "error": "TimeoutError: The operation was aborted due to timeout "
+  },
+  {
+    "url": "https://www.3mindia.in/3M/en_IN/p/c/ppe/hearing-protection/earplugs/",
+    "error": "TimeoutError: The operation was aborted due to timeout "
+  },
+  {
+    "url": "https://www.3mindia.in/3M/en_IN/p/c/ppe/hearing-protection/earmuffs/",
+    "error": "TimeoutError: The operation was aborted due to timeout "
+  },
+  {
+    "url": "https://www.karam.in/products/about-us",
+    "final": "https://www.karam.in/products/about-us",
+    "status": 404,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 74682
+  },
+  {
+    "url": "https://www.karam.in/product/construction-workers-choice-spectacle-ES001",
+    "final": "https://www.karam.in/product/construction-workers-choice-spectacle-ES001",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 49567
+  },
+  {
+    "url": "https://www.karam.in/product/gas-welders-choice-spectacles-ES003",
+    "final": "https://www.karam.in/product/gas-welders-choice-spectacles-ES003",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45845
+  },
+  {
+    "url": "https://www.karam.in/product/electric-arc-welders-choice-eyewear-ES004",
+    "final": "https://www.karam.in/product/electric-arc-welders-choice-eyewear-ES004",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45482
+  },
+  {
+    "url": "https://www.karam.in/product/executive-choice-spectacle-ES005",
+    "final": "https://www.karam.in/product/executive-choice-spectacle-ES005",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 48633
+  },
+  {
+    "url": "https://www.karam.in/product/executive-choice-spectacles-ES006",
+    "final": "https://www.karam.in/product/executive-choice-spectacles-ES006",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 46764
+  },
+  {
+    "url": "https://www.karam.in/product/prescription-glasses-wearers-choice-spectacles-ES007",
+    "final": "https://www.karam.in/product/prescription-glasses-wearers-choice-spectacles-ES007",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 48779
+  },
+  {
+    "url": "https://www.karam.in/product/chemical-environment-users-choice-goggles-ES008",
+    "final": "https://www.karam.in/product/chemical-environment-users-choice-goggles-ES008",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 46530
+  },
+  {
+    "url": "https://www.karam.in/product/chemical-environment-users-choice-goggles-ES009",
+    "final": "https://www.karam.in/product/chemical-environment-users-choice-goggles-ES009",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 47629
+  },
+  {
+    "url": "https://www.karam.in/product/executive-choice-spectacles-ES015",
+    "final": "https://www.karam.in/product/executive-choice-spectacles-ES015",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 49434
+  },
+  {
+    "url": "https://www.karam.in/product/spectacle-belt-carrying-case-ESA01",
+    "final": "https://www.karam.in/product/spectacle-belt-carrying-case-ESA01",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 42189
+  },
+  {
+    "url": "https://www.karam.in/product/black-spectacle-neck-string-ESA02",
+    "final": "https://www.karam.in/product/black-spectacle-neck-string-ESA02",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 42175
+  },
+  {
+    "url": "https://www.karam.in/product/premium-safety-spectacles",
+    "final": "https://www.karam.in/product/premium-safety-spectacles",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 46916
+  },
+  {
+    "url": "https://www.karam.in/product/premium-safety-spectacles-0",
+    "final": "https://www.karam.in/product/premium-safety-spectacles-0",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 46902
+  },
+  {
+    "url": "https://www.karam.in/product/premium-safety-spectacles-1",
+    "final": "https://www.karam.in/product/premium-safety-spectacles-1",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 46801
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-safety-eyewear-ft101",
+    "final": "https://www.karam.in/product/frontier-safety-eyewear-ft101",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45682
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-safety-eyewear-ft111",
+    "final": "https://www.karam.in/product/frontier-safety-eyewear-ft111",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45174
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-safety-eyewear-ft121",
+    "final": "https://www.karam.in/product/frontier-safety-eyewear-ft121",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45754
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-safety-eyewear-ft131",
+    "final": "https://www.karam.in/product/frontier-safety-eyewear-ft131",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45930
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-safety-eyewear-ft141",
+    "final": "https://www.karam.in/product/frontier-safety-eyewear-ft141",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 46064
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-safety-eyewear-ft151",
+    "final": "https://www.karam.in/product/frontier-safety-eyewear-ft151",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45588
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-safety-eyewear-ft161",
+    "final": "https://www.karam.in/product/frontier-safety-eyewear-ft161",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45841
+  },
+  {
+    "url": "https://www.karam.in/product/ear-plugs-EP01-Uncorded",
+    "final": "https://www.karam.in/product/ear-plugs-EP01-Uncorded",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 46272
+  },
+  {
+    "url": "https://www.karam.in/product/ear-muffs-classic-EP21",
+    "final": "https://www.karam.in/product/ear-muffs-classic-EP21",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45789
+  },
+  {
+    "url": "https://www.karam.in/product/ear-muffs-foldable-deluxe-EP22",
+    "final": "https://www.karam.in/product/ear-muffs-foldable-deluxe-EP22",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45289
+  },
+  {
+    "url": "https://www.karam.in/product/helmet-attachable-ear-muffs-EP23",
+    "final": "https://www.karam.in/product/helmet-attachable-ear-muffs-EP23",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45821
+  },
+  {
+    "url": "https://www.karam.in/product/ear-muffs-high-db-foldable-EP24",
+    "final": "https://www.karam.in/product/ear-muffs-high-db-foldable-EP24",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 44481
+  },
+  {
+    "url": "https://www.karam.in/product/ear-plugs-nylon-thread",
+    "final": "https://www.karam.in/product/ear-plugs-nylon-thread",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45121
+  },
+  {
+    "url": "https://www.karam.in/product/ear-plugs-cotton-thread",
+    "final": "https://www.karam.in/product/ear-plugs-cotton-thread",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45149
+  },
+  {
+    "url": "https://www.karam.in/product/frontier-ear-muff",
+    "final": "https://www.karam.in/product/frontier-ear-muff",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 44828
+  },
+  {
+    "url": "https://www.karam.in/product/reusable-earplugs",
+    "final": "https://www.karam.in/product/reusable-earplugs",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 44882
+  },
+  {
+    "url": "https://www.karam.in/product/reusable-earplugs-cord",
+    "final": "https://www.karam.in/product/reusable-earplugs-cord",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 45224
+  },
+  {
+    "url": "https://www.karam.in/product/reusable-ear-plugs-carry-case-1",
+    "final": "https://www.karam.in/product/reusable-ear-plugs-carry-case-1",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 41632
+  },
+  {
+    "url": "https://www.karam.in/product/reusable-ear-plugs-carry-case-2",
+    "final": "https://www.karam.in/product/reusable-ear-plugs-carry-case-2",
+    "status": 200,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 41305
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-flex-hc",
+    "final": "https://udyogisafety.com/products/ultra-flex-hc",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 170639
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-flex-af",
+    "final": "https://udyogisafety.com/products/ultra-flex-af",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 167266
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-sports",
+    "final": "https://udyogisafety.com/products/ultra-sports",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 182472
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-ergo",
+    "final": "https://udyogisafety.com/products/ultra-ergo",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 151929
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-edge",
+    "final": "https://udyogisafety.com/products/ultra-edge",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 210849
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-z",
+    "final": "https://udyogisafety.com/products/ultra-z",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 176371
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-46",
+    "final": "https://udyogisafety.com/products/ud-46",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 111256
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-71",
+    "final": "https://udyogisafety.com/products/ud-71",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 174716
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-77",
+    "final": "https://udyogisafety.com/products/ud-77",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 161400
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-81",
+    "final": "https://udyogisafety.com/products/ud-81",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 172981
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-90",
+    "final": "https://udyogisafety.com/products/ud-90",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 183641
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-91",
+    "final": "https://udyogisafety.com/products/ud-91",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 182551
+  },
+  {
+    "url": "https://udyogisafety.com/products/guardrite",
+    "final": "https://udyogisafety.com/products/guardrite",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 172270
+  },
+  {
+    "url": "https://udyogisafety.com/products/neolite",
+    "final": "https://udyogisafety.com/products/neolite",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 176656
+  },
+  {
+    "url": "https://udyogisafety.com/products/neolite-plus",
+    "final": "https://udyogisafety.com/products/neolite-plus",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 184546
+  },
+  {
+    "url": "https://udyogisafety.com/products/2381-pc",
+    "final": "https://udyogisafety.com/products/2381-pc",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 178094
+  },
+  {
+    "url": "https://udyogisafety.com/products/twister",
+    "final": "https://udyogisafety.com/products/twister",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 212817
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-sports-grey",
+    "final": "https://udyogisafety.com/products/ultra-sports-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 202869
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-edge-grey",
+    "final": "https://udyogisafety.com/products/ultra-edge-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 206948
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-z-grey",
+    "final": "https://udyogisafety.com/products/ultra-z-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 108134
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-46-grey",
+    "final": "https://udyogisafety.com/products/ud-46-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 107062
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-71-grey",
+    "final": "https://udyogisafety.com/products/ud-71-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 190359
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-81-grey",
+    "final": "https://udyogisafety.com/products/ud-81-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 108349
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-90-grey",
+    "final": "https://udyogisafety.com/products/ud-90-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 176108
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-91-grey",
+    "final": "https://udyogisafety.com/products/ud-91-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 186789
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultraview",
+    "final": "https://udyogisafety.com/products/ultraview",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 191580
+  },
+  {
+    "url": "https://udyogisafety.com/products/galaxy-duos-acetate",
+    "final": "https://udyogisafety.com/products/galaxy-duos-acetate",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 204707
+  },
+  {
+    "url": "https://udyogisafety.com/products/galaxy-duos-chemical",
+    "final": "https://udyogisafety.com/products/galaxy-duos-chemical",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 217435
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-49",
+    "final": "https://udyogisafety.com/products/ud-49",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 205172
+  },
+  {
+    "url": "https://udyogisafety.com/products/fogal",
+    "final": "https://udyogisafety.com/products/fogal",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 197640
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultraview-xt",
+    "final": "https://udyogisafety.com/products/ultraview-xt",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 183606
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-wide",
+    "final": "https://udyogisafety.com/products/ultra-wide",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 176609
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-over",
+    "final": "https://udyogisafety.com/products/ultra-over",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 185326
+  },
+  {
+    "url": "https://udyogisafety.com/products/edge-over",
+    "final": "https://udyogisafety.com/products/edge-over",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 186043
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-30",
+    "final": "https://udyogisafety.com/products/ud-30",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 181763
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultra-over-grey",
+    "final": "https://udyogisafety.com/products/ultra-over-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 202065
+  },
+  {
+    "url": "https://udyogisafety.com/products/ud-30-grey",
+    "final": "https://udyogisafety.com/products/ud-30-grey",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 167832
+  },
+  {
+    "url": "https://udyogisafety.com/products/ultraview-ir",
+    "final": "https://udyogisafety.com/products/ultraview-ir",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 226002
+  },
+  {
+    "url": "https://udyogisafety.com/products/gw-250",
+    "final": "https://udyogisafety.com/products/gw-250",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 222658
+  },
+  {
+    "url": "https://udyogisafety.com/products/et-flex",
+    "final": "https://udyogisafety.com/products/et-flex",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 102853
+  },
+  {
+    "url": "https://udyogisafety.com/products/ey33-1-e-neon",
+    "final": "https://udyogisafety.com/products/ey33-1-e-neon",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 102285
+  },
+  {
+    "url": "https://udyogisafety.com/products/ey22-1-e-neon",
+    "final": "https://udyogisafety.com/products/ey22-1-e-neon",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 94704
+  },
+  {
+    "url": "https://udyogisafety.com/products/et-61",
+    "final": "https://udyogisafety.com/products/et-61",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 101895
+  },
+  {
+    "url": "https://udyogisafety.com/products/et-60",
+    "final": "https://udyogisafety.com/products/et-60",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 97647
+  },
+  {
+    "url": "https://udyogisafety.com/products/et-40",
+    "final": "https://udyogisafety.com/products/et-40",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 97873
+  },
+  {
+    "url": "https://udyogisafety.com/products/et-20",
+    "final": "https://udyogisafety.com/products/et-20",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 90539
+  },
+  {
+    "url": "https://udyogisafety.com/products/ey66-6-e-neon",
+    "final": "https://udyogisafety.com/products/ey66-6-e-neon",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 102361
+  },
+  {
+    "url": "https://udyogisafety.com/products/et-50",
+    "final": "https://udyogisafety.com/products/et-50",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 98184
+  },
+  {
+    "url": "https://udyogisafety.com/products/fp-01",
+    "final": "https://udyogisafety.com/products/fp-01",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 89813
+  },
+  {
+    "url": "https://udyogisafety.com/products/ep-01",
+    "final": "https://udyogisafety.com/products/ep-01",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 89560
+  }
+]
