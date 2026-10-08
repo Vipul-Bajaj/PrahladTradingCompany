@@ -68,7 +68,8 @@ export const brands = [
   },
 ];
 
-export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? id;
+const otherBrandNames = { '3m': '3M' };
+export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? otherBrandNames[id] ?? id;
 
 export const categories = [
   {
@@ -104,10 +105,22 @@ export const categories = [
   {
     id: 'eye',
     name: 'Eye protection',
-    summary: 'Spectacles and goggles against dust, flying particles and splashes.',
-    items: ['Clear and tinted safety spectacles', 'Chemical splash goggles', 'Over-spectacle goggles'],
-    brands: ['karam', 'udyogi'],
+    summary: 'Safety spectacles, over-the-glasses eyewear, chemical goggles and welding eyewear.',
+    items: ['Clear and tinted safety spectacles', 'Over-the-glasses eyewear', 'Chemical splash goggles', 'Gas and arc welding eyewear'],
+    brands: ['karam', 'udyogi', '3m', 'mallcom'],
     media: 'cat-eye',
+    page: '/products/eye-protection/',
+    pageLabel: 'See models and specs',
+  },
+  {
+    id: 'ear',
+    name: 'Ear protection',
+    summary: 'Earplugs and earmuffs for noisy plants, with published noise ratings.',
+    items: ['Disposable foam earplugs', 'Reusable earplugs', 'Headband earmuffs', 'Helmet-mounted earmuffs'],
+    brands: ['karam', 'udyogi', '3m', 'mallcom'],
+    media: 'cat-ear',
+    page: '/products/ear-protection/',
+    pageLabel: 'See models and specs',
   },
   {
     id: 'welding',

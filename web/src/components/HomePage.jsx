@@ -62,7 +62,7 @@ function Products() {
         <div className="section__head">
           <h2 id="products-title">What we stock</h2>
           <p>
-            Nine kinds of protective equipment, in the sizes and quantities a plant or site needs. Open any category to
+            Ten kinds of protective equipment, in the sizes and quantities a plant or site needs. Open any category to
             see what’s in it.
           </p>
         </div>

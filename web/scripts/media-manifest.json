@@ -1,5 +1,5 @@
 {
-  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos (retailer listings; Acme's Indian site couldn't be reached) and the generic ladies' helmet photo (supplier listing).",
+  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos (retailer listings; Acme's Indian site couldn't be reached) and the generic ladies' helmet photo (supplier listing). 3M photos are from multimedia.3m.com.",
   "items": [
     {
       "id": "logo-acme",
@@ -457,6 +457,253 @@
       "candidates": [
         "https://assets.udyogisafety.com/uploads/products/E2qDac25d6454-adc3-4678-bfe8-6a0c18c9d23d.webp",
         "https://assets.udyogisafety.com/uploads/products/K6K5l8b106dc0-d707-47d1-856a-3587df1924b3.webp"
+      ]
+    },
+    {
+      "id": "eye-karam-es001",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-06/ES-001%28Clear%29-CONSTRUCTION-WORKER%E2%80%99S-CHOICE-SPECTACLES_0.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-06/ES-001%28Clear%29-CONSTRUCTION-WORKER%E2%80%99S-CHOICE-SPECTACLES_0.jpg?itok=LwT_iUzl"
+      ]
+    },
+    {
+      "id": "eye-karam-es005",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/ES-005-%28Clear%29-EXECUTIVE-CHOICE-SPECTACLES_0.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/ES-005-%28Clear%29-EXECUTIVE-CHOICE-SPECTACLES_0.jpg?itok=kTjZVC9j"
+      ]
+    },
+    {
+      "id": "eye-karam-es007",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/ES-007%28Clear%29%28NG%29-PRESCRIPTION--GLASSES-WEARER%E2%80%99S-CHOICE-SPECTACLES.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/ES-007%28Clear%29%28NG%29-PRESCRIPTION--GLASSES-WEARER%E2%80%99S-CHOICE-SPECTACLES.jpg?itok=7ATBL13X"
+      ]
+    },
+    {
+      "id": "eye-karam-es009",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/ES-009-%28Clear%29-CHEMICAL-ENVIRONMENT-USER%E2%80%99S-CHOICE-GOGGLES.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/ES-009-%28Clear%29-CHEMICAL-ENVIRONMENT-USER%E2%80%99S-CHOICE-GOGGLES.jpg?itok=L71af_EJ"
+      ]
+    },
+    {
+      "id": "eye-karam-es003",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/ES-003--GAS-WELDER%E2%80%99S-CHOICE-SPECTACLES.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/ES-003--GAS-WELDER%E2%80%99S-CHOICE-SPECTACLES.jpg?itok=f9ZobWRP"
+      ]
+    },
+    {
+      "id": "eye-karam-es004",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/ES-004-ELECTRIC-ARC-WELDER%E2%80%99S-CHOICE-SPECTACLES.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/ES-004-ELECTRIC-ARC-WELDER%E2%80%99S-CHOICE-SPECTACLES.jpg?itok=sbqExaxA"
+      ]
+    },
+    {
+      "id": "eye-karam-ft101",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/FT-101-%28Clear%29.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2024-11/FT-101-%28Clear%29.jpg?itok=FFAph460"
+      ]
+    },
+    {
+      "id": "eye-udyogi-ultra-z",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/rmN5Bf21f89e5-f7f5-4372-a2db-473aeb178b1f.webp",
+        "https://assets.udyogisafety.com/uploads/products/B3XpB787493af-a677-4691-b201-0e9836d62265.webp"
+      ]
+    },
+    {
+      "id": "eye-udyogi-ultra-ergo",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/GdW7lf5ca8a58-3182-4dd7-bfec-5a35ecc0003f.webp",
+        "https://assets.udyogisafety.com/uploads/products/ny9yx270dfc6a-84c4-4320-89fa-805153c9c682.webp"
+      ]
+    },
+    {
+      "id": "eye-udyogi-neolite",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/9NdI0c6867806-9c3f-4ed0-a5ff-60103b2beaae.webp",
+        "https://assets.udyogisafety.com/uploads/products/FEzSZc337bcc7-f90a-4633-90fd-eb1ef2feefe1.webp"
+      ]
+    },
+    {
+      "id": "eye-udyogi-ultra-over",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/gSO6Qba36bc03-9ecc-4a15-b061-cee75da5f184.webp",
+        "https://assets.udyogisafety.com/uploads/products/LXz7M584dad9a-50a3-4c7e-9c42-034b72e8591d.webp"
+      ]
+    },
+    {
+      "id": "eye-udyogi-ultraview",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/FnEl9d8ee26d1-2fa9-4e1f-bb43-418e8283737d.webp",
+        "https://assets.udyogisafety.com/uploads/products/gc52Md344e726-b11d-49c6-b534-7125b7b1266f.webp"
+      ]
+    },
+    {
+      "id": "eye-udyogi-ud49",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/FhVFk7b0a790f-e4f5-4349-b974-f2df8c89e172.webp",
+        "https://assets.udyogisafety.com/uploads/products/EJS6D989b1d80-4661-406c-a75e-d1f6491a8c81.webp"
+      ]
+    },
+    {
+      "id": "eye-3m-virtua",
+      "candidates": [
+        "https://multimedia.3m.com/mws/media/532807J/virtua-gray-temple-i-o-gray-hard-coat-lens-11517-00000-20.jpg"
+      ]
+    },
+    {
+      "id": "eye-3m-securefit-200",
+      "candidates": [
+        "https://multimedia.3m.com/mws/media/827764J/3m-tm-securefit-tm-protctv-eyewear-sf201as-clear-20ea-cs.jpg"
+      ]
+    },
+    {
+      "id": "eye-3m-solus-1000",
+      "candidates": [
+        "https://multimedia.3m.com/mws/media/1090134J/3m-solus-blk-grn-clear-lens-front.jpg"
+      ]
+    },
+    {
+      "id": "eye-mallcom-apollo",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/products/SDP_6908.jpg?v=1746789416",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/products/SDP_6909.jpg?v=1746789416"
+      ]
+    },
+    {
+      "id": "eye-mallcom-pluto",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/products/01_2917ab74-db04-46b7-82ee-201075501f33.jpg?v=1746789418"
+      ]
+    },
+    {
+      "id": "eye-mallcom-orbit",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_c071aac9-9298-46e5-be4a-cebb44ec4540.png?v=1746789419",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/4_1550247a-31c2-457c-bd99-c7ae33f12013.png?v=1746789419"
+      ]
+    },
+    {
+      "id": "eye-mallcom-cirrus",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/5_2239c464-af26-4695-8f98-d1dda074a7f0.png?v=1746789414",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1_535705f1-1f25-434c-9d81-20bd390bbccf.png?v=1746789414"
+      ]
+    },
+    {
+      "id": "eye-mallcom-vega",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_487db650-dd11-49ec-b113-b6f3650658af.png?v=1746789422",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/6_a9759cb4-c1cb-4fa0-ac55-7240abba5054.png?v=1746789422"
+      ]
+    },
+    {
+      "id": "ear-karam-ep01",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/EP-01%28Uncorded%29-DISPOSABLE-FOAM-EAR-PLUGS_0.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/EP-01%28Uncorded%29-DISPOSABLE-FOAM-EAR-PLUGS_0.jpg?itok=Mzs1fMob"
+      ]
+    },
+    {
+      "id": "ear-karam-ep02a",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/EP-02%28A%29-%28CORDED%29.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2024-11/EP-02%28A%29-%28CORDED%29.jpg?itok=hZb2FF_J"
+      ]
+    },
+    {
+      "id": "ear-karam-ep04m",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2025-08/EP-04-%28M%29.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2025-08/EP-04-%28M%29.jpg?itok=ZdJBGYLL"
+      ]
+    },
+    {
+      "id": "ear-karam-ep21",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/EP-21---EAR-MUFF-CLASSIC.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/EP-21---EAR-MUFF-CLASSIC.jpg?itok=ew3xjunc"
+      ]
+    },
+    {
+      "id": "ear-karam-ep24",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/EP-24--EAR-MUFF-HIGH-dB-FOLDABLE.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/EP-24--EAR-MUFF-HIGH-dB-FOLDABLE.jpg?itok=W8fwy5-2"
+      ]
+    },
+    {
+      "id": "ear-karam-ep23",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/EP-23--HELMET-ATTACHABLE-EAR-MUFF.jpg",
+        "https://www.karam.in/sites/default/files/styles/400_4/public/2023-05/EP-23--HELMET-ATTACHABLE-EAR-MUFF.jpg?itok=e5Mdwl5c"
+      ]
+    },
+    {
+      "id": "ear-udyogi-fp01",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/qUThWc02a1c7a-a06f-4946-afc3-23308027a515.webp"
+      ]
+    },
+    {
+      "id": "ear-udyogi-ep01",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/iK035937867f7-e054-4478-8261-3b689a4d68cf.webp"
+      ]
+    },
+    {
+      "id": "ear-udyogi-et20",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/cfD6p7ed9f0d2-870e-4ece-b1e7-cdc8ce99eebb.webp"
+      ]
+    },
+    {
+      "id": "ear-udyogi-et60",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/GXEMI770ca95c-5822-41f0-96c0-4264ac9bcf2a.webp"
+      ]
+    },
+    {
+      "id": "ear-udyogi-et-flex",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/WJC9Ecf42d67c-721c-4233-aad9-ce3ad7f14de9.webp"
+      ]
+    },
+    {
+      "id": "ear-udyogi-et50",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/0NB346791b901-8e21-40f8-8571-284829bfd3d7.webp",
+        "https://assets.udyogisafety.com/uploads/products/Qb7Wf7c68572f-da2c-4105-9622-a382ee4c7691.webp"
+      ]
+    },
+    {
+      "id": "ear-3m-1100",
+      "candidates": [
+        "https://multimedia.3m.com/mws/media/1616440J/3m-foam-earplugs-1100-backside.jpg"
+      ]
+    },
+    {
+      "id": "ear-mallcom-sn03pc",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1000x1000-SN03PC.jpg?v=1746789196",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/SN03PC_01.jpg?v=1746789196"
+      ]
+    },
+    {
+      "id": "ear-mallcom-sn03sp",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1000x1000-SN03SP.jpg?v=1746789194"
+      ]
+    },
+    {
+      "id": "cat-ear",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-04/Hearing-Protection.jpg"
       ]
     }
   ]
