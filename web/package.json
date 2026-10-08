@@ -5,7 +5,7 @@
   "scripts": {
     "media": "node scripts/fetch-media.mjs",
     "dev": "next dev",
-    "build": "node scripts/fetch-media.mjs && next build",
+    "build": "next build",
     "start": "npx serve out"
   },
   "dependencies": {

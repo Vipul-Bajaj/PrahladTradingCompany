@@ -181,22 +181,12 @@ export default function ShoeCatalogue() {
 
   return (
     <>
-      {shoeBrands.map((b) => {
-        const list = shoes.filter((s) => s.brand === b.id);
-        return (
-          <section key={b.id} className="shoe-group" aria-labelledby={`brand-${b.id}`}>
-            <div className="shoe-group__head">
-              <h2 id={`brand-${b.id}`}>{b.name}</h2>
-              <p className="shoe-group__note">{b.note}</p>
-            </div>
-            <ul className="shoe-grid">
-              {list.map((s) => (
-                <ShoeCard key={s.id} shoe={s} onOpen={open} />
-              ))}
-            </ul>
-          </section>
-        );
-      })}
+      <h2 className="visually-hidden">Models</h2>
+      <ul className="shoe-grid">
+        {shoes.map((s) => (
+          <ShoeCard key={s.id} shoe={s} onOpen={open} />
+        ))}
+      </ul>
 
       <dialog
         ref={dialogRef}

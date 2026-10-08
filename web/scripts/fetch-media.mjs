@@ -1,8 +1,10 @@
-// Downloads official brand logos and product photos listed in media-manifest.json
-// into public/media/, and records what was saved in src/data/media.json.
-// Runs before `next build`. It never fails the build: an asset that can't be
-// fetched is recorded as null and the page shows a text fallback for it.
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+// Downloads the logos and product photos listed in media-manifest.json into
+// public/media/ and records them in src/data/media.json. Both are committed to
+// the repo, so the site and its build never depend on outside websites.
+// Run by the deploy workflow before building; it only downloads images that
+// aren't in the repo yet. It never fails: an image that can't be fetched is
+// recorded as null and the page shows a text fallback for it.
+import { readFile, writeFile, mkdir, stat } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -54,9 +56,22 @@ const manifest = JSON.parse(await readFile(path.join(root, 'scripts', 'media-man
 await mkdir(outDir, { recursive: true });
 await mkdir(path.dirname(mapFile), { recursive: true });
 
+let existing = {};
+try {
+  existing = JSON.parse(await readFile(mapFile, 'utf8'));
+} catch {}
+
 const map = {};
 let ok = 0;
 for (const item of manifest.items) {
+  // Images already committed to the repo are kept; only missing ones are downloaded.
+  const have = existing[item.id];
+  if (have && (await stat(path.join(root, 'public', have)).catch(() => null))) {
+    map[item.id] = have;
+    ok++;
+    console.log(`media keep  ${item.id.padEnd(16)} ${have}`);
+    continue;
+  }
   map[item.id] = null;
   for (const url of item.candidates) {
     try {

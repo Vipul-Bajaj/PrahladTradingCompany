@@ -284,11 +284,7 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
 .crumbs a { color: var(--orange-deep); font-weight: 600; text-underline-offset: 3px; }
 @media (min-width: 960px) { .page-head { padding-block: 40px 56px; } }
 
-.shoe-page { padding-block: 16px 56px; }
-.shoe-group { padding-top: 36px; }
-.shoe-group + .shoe-group { margin-top: 20px; border-top: 1px solid var(--line); }
-.shoe-group__head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; margin-bottom: 20px; }
-.shoe-group__note { color: var(--steel); font-weight: 600; }
+.shoe-page { padding-block: 36px 56px; }
 
 .shoe-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px 14px; }
 @media (min-width: 720px) { .shoe-grid { grid-template-columns: repeat(3, 1fr); gap: 36px 24px; } }

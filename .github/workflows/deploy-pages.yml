@@ -5,29 +5,55 @@ on:
     branches: [main]
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  build:
+  # Downloads any logo or product photo listed in web/scripts/media-manifest.json
+  # that isn't in the repo yet, and commits it to web/public/media. Images already
+  # in the repo are never re-downloaded, so the build doesn't depend on other sites.
+  media:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: web
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Download missing images
+        run: node web/scripts/fetch-media.mjs
+      - name: Commit new images to the repo
+        run: |
+          git add web/public/media web/src/data/media.json
+          if git diff --cached --quiet; then
+            echo "No new images."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Add downloaded product images to the repo"
+            git push
+          fi
+
+  build:
+    needs: media
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
       - name: Install
         run: npm install --no-audit --no-fund
-      - name: Download brand logos and product photos, then build
+      - name: Build
         run: npm run build
         env:
           NEXT_PUBLIC_BASE_PATH: /PrahladTradingCompany
@@ -46,6 +72,9 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

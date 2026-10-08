@@ -1,5 +1,3 @@
 node_modules/
 .next/
 out/
-# Downloaded at build time by scripts/fetch-media.mjs
-public/media/

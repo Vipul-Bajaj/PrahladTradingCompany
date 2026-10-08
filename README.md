@@ -7,20 +7,21 @@ The live site is a Next.js app in [`web/`](web/), exported as static files and d
 
 ## Brand logos and product photos
 
-Official logos and product photos are downloaded from each manufacturer's website during the build
-(`web/scripts/fetch-media.mjs`, URLs in `web/scripts/media-manifest.json`). If a download fails, the build
-still succeeds and the page shows the brand or category name in its place; the build log lists each asset as
-`media ok` or `media FAIL`.
+All images are stored in the repo under `web/public/media/`, so the site and its build don't depend on any
+other website. They were downloaded once from the manufacturers' sites (and a few retailer listings for shoe
+photos); the source URLs are in `web/scripts/media-manifest.json`.
 
-To use your own photo for a category, add the image to `web/public/` and point that entry's first candidate
-URL at it, or replace the URL in the manifest.
+To add an image, add an entry to the manifest and push: the deploy workflow downloads anything missing and
+commits it. To use your own photo, put it in `web/public/media/` and point that entry in
+`web/src/data/media.json` at it.
 
 ## Run locally
 
 ```bash
 cd web
 npm install
-npm run build      # downloads media, then builds into web/out
+npm run media      # download any images missing from the repo
+npm run build      # build into web/out
 npm run dev        # development server at http://localhost:3000
 ```
 
