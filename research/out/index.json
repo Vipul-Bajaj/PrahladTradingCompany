@@ -1,172 +1,29 @@
 [
   {
-    "url": "https://www.acmeuniversal9.com/home",
-    "error": "TypeError: fetch failed"
-  },
-  {
-    "url": "https://www.acmeuniversal9.com/robots.txt",
-    "error": "TypeError: fetch failed"
-  },
-  {
-    "url": "https://www.acmeuniversal9.com/sitemap.xml",
-    "error": "TypeError: fetch failed"
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/",
-    "final": "https://www.footlandsafetyshoes.com/",
+    "url": "https://www.footlandsafetyshoes.com/pdf/catalogue.pdf",
+    "final": "https://www.footlandsafetyshoes.com/pdf/catalogue.pdf",
     "status": 200,
-    "type": "text/html",
-    "bytes": 33365
+    "type": "application/pdf",
+    "bytes": 6489068
   },
   {
-    "url": "https://www.footlandsafetyshoes.com/robots.txt",
-    "final": "https://www.footlandsafetyshoes.com/robots.txt",
-    "status": 200,
-    "type": "text/plain",
-    "bytes": 185
+    "url": "http://www.acmeuniversal9.com/home",
+    "error": "TypeError: fetch failed ConnectTimeoutError: Connect Timeout Error (attempted address: www.acmeuniversal9.com:80, timeout: 10000ms)"
   },
   {
-    "url": "https://www.footlandsafetyshoes.com/sitemap.xml",
-    "final": "https://www.footlandsafetyshoes.com/sitemap.xml",
-    "status": 200,
-    "type": "application/xml",
-    "bytes": 4303
+    "url": "http://acmeuniversal9.com/",
+    "error": "TypeError: fetch failed ConnectTimeoutError: Connect Timeout Error (attempted address: acmeuniversal9.com:80, timeout: 10000ms)"
   },
   {
-    "url": "https://footlandsafetyshoes.com/",
-    "final": "https://www.footlandsafetyshoes.com/",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 33365
+    "url": "https://acmeuniversal9.com/home",
+    "error": "TypeError: fetch failed ConnectTimeoutError: Connect Timeout Error (attempted address: acmeuniversal9.com:443, timeout: 10000ms)"
   },
   {
-    "url": "https://acmeuniversal9.com/",
-    "error": "TypeError: fetch failed"
+    "url": "https://www.acmeuniversal9.com/",
+    "error": "TypeError: fetch failed ConnectTimeoutError: Connect Timeout Error (attempted address: www.acmeuniversal9.com:443, timeout: 10000ms)"
   },
   {
-    "url": "https://www.footlandsafetyshoes.com/default.html",
-    "final": "https://www.footlandsafetyshoes.com/default.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 33365
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/aboutus.html",
-    "final": "https://www.footlandsafetyshoes.com/aboutus.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 16240
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/products.html",
-    "final": "https://www.footlandsafetyshoes.com/products.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 19311
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/contact.php",
-    "final": "https://www.footlandsafetyshoes.com/contact.php",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 12792
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/footlandvdo.mp4",
-    "final": "https://www.footlandsafetyshoes.com/footlandvdo.mp4",
-    "status": 200,
-    "type": "video/mp4",
-    "bytes": 6511066
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/footlandvdo.ogv",
-    "final": "https://www.footlandsafetyshoes.com/footlandvdo.ogv",
-    "status": 404,
-    "type": "text/html; charset=iso-8859-1",
-    "bytes": 315
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/footlandvdo.webm",
-    "final": "https://www.footlandsafetyshoes.com/footlandvdo.webm",
-    "status": 404,
-    "type": "text/html; charset=iso-8859-1",
-    "bytes": 315
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/z4.html",
-    "final": "https://www.footlandsafetyshoes.com/z4.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 24110
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/victor.html",
-    "final": "https://www.footlandsafetyshoes.com/victor.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23750
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/collar_boot.html",
-    "final": "https://www.footlandsafetyshoes.com/collar_boot.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23789
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/signature.html",
-    "final": "https://www.footlandsafetyshoes.com/signature.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23734
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/v8.html",
-    "final": "https://www.footlandsafetyshoes.com/v8.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23763
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/pilot_grey.html",
-    "final": "https://www.footlandsafetyshoes.com/pilot_grey.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23774
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/pilot_brown.html",
-    "final": "https://www.footlandsafetyshoes.com/pilot_brown.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23776
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/pilot_orange.html",
-    "final": "https://www.footlandsafetyshoes.com/pilot_orange.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23779
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/rainwood.html",
-    "final": "https://www.footlandsafetyshoes.com/rainwood.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23700
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/sumo.html",
-    "final": "https://www.footlandsafetyshoes.com/sumo.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23804
-  },
-  {
-    "url": "https://www.footlandsafetyshoes.com/yodha.html",
-    "final": "https://www.footlandsafetyshoes.com/yodha.html",
-    "status": 200,
-    "type": "text/html",
-    "bytes": 23738
+    "url": "https://www.acmeuniversal.com/",
+    "error": "TypeError: fetch failed Error: Client network socket disconnected before secure TLS connection was established"
   }
 ]
