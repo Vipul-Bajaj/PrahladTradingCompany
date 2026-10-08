@@ -208,7 +208,7 @@ export default function ProductCatalogue({ items, brands, enquiry }) {
             <div className="dialog__body">
               <div className="dialog__head">
                 <div>
-                  <p className="dialog__brand">{brandOf(shoe.brand)?.name}</p>
+                  {brandOf(shoe.brand) && <p className="dialog__brand">{brandOf(shoe.brand).name}</p>}
                   <h2 id="dialog-title">
                     {view === 'specs' ? shoe.name : `Enquire about ${shoe.name}`}
                   </h2>

@@ -383,6 +383,81 @@
         "https://5.imimg.com/data5/BO/OV/VZ/SELLER-288346/ladies-safety-helmet-500x500.jpg",
         "https://5.imimg.com/data5/SELLER/Default/2022/11/YS/JG/QC/288346/ladies-safety-helmet-250x250.png"
       ]
+    },
+    {
+      "id": "glove-knitted",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1_e476494c-65a7-46ac-84f2-af085bc6feb8.png?v=1746788754"
+      ]
+    },
+    {
+      "id": "glove-dotted",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_df4ca88f-b702-42e7-b1e1-4e4af6cfbde5.png?v=1746789037",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_299b39f8-3758-407d-841a-a2d4ad0d6989.png?v=1746789038"
+      ]
+    },
+    {
+      "id": "glove-nitrile-palm",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/8copy.jpg?v=1746789078",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2copy.jpg?v=1746789079"
+      ]
+    },
+    {
+      "id": "glove-nitrile-heavy",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1_7c6448b2-3113-4602-ab92-98148d198c46.png?v=1746789101",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/4_276c9648-8c6d-4b4f-b438-264ab1da7bd6.png?v=1746789101"
+      ]
+    },
+    {
+      "id": "glove-pu",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Artboard_4_66.jpg?v=1788847014",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/Artboard_1_68.jpg?v=1788847015"
+      ]
+    },
+    {
+      "id": "glove-cut",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/H33NBG_af54cc4c-ed17-475a-b1fc-bda421ed75a5.png?v=1770100283",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/3_4_74ab569a-695a-49db-b76c-6e180fa82e9a.png?v=1770100283"
+      ]
+    },
+    {
+      "id": "glove-welding",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_8e1ecfb8-3c2e-471e-88c7-cc71ae4031cd.png?v=1746788709",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/4_9f330da2-fccd-47d6-8245-86cc25bb4380.png?v=1746788709"
+      ]
+    },
+    {
+      "id": "glove-leather",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_c070eb38-9305-4014-aab9-179c3e3f70e6.png?v=1746788702",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/C8591.jpg?v=1761720450"
+      ]
+    },
+    {
+      "id": "glove-heat",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/3_12.png?v=1746789059",
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/2_13.png?v=1746789060"
+      ]
+    },
+    {
+      "id": "glove-chemical",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/PV27R35R_1.jpg?v=1746789014"
+      ]
+    },
+    {
+      "id": "glove-electrical",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/E2qDac25d6454-adc3-4678-bfe8-6a0c18c9d23d.webp",
+        "https://assets.udyogisafety.com/uploads/products/K6K5l8b106dc0-d707-47d1-856a-3587df1924b3.webp"
+      ]
     }
   ]
 }

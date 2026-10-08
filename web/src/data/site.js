@@ -96,8 +96,10 @@ export const categories = [
     name: 'Gloves',
     summary: 'Gloves matched to the job, from general handling to cut and chemical risk.',
     items: ['Cotton and knitted gloves', 'Leather and canvas gloves', 'Cut-resistant gloves', 'Rubber, nitrile and PVC gloves', 'Electrical insulating gloves'],
-    brands: ['udyogi', 'karam', 'mallcom'],
+    brands: ['mallcom'],
     media: 'cat-hand',
+    page: '/products/gloves/',
+    pageLabel: 'See glove types',
   },
   {
     id: 'eye',
