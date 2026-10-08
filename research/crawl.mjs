@@ -1,11 +1,12 @@
 // Temporary: fetch official manufacturer pages for offline reading.
 import { writeFile, mkdir } from 'node:fs/promises';
 const seeds = JSON.parse(process.env.SEEDS);
-const KEY = /atom|storm|tusker|product|shoe|catalog|categor|collection|range|safety|footwear|model|series|item|sitemap/i;
+const KEY = new RegExp(process.env.KEY || 'helmet|head', 'i');
+const FOLLOW = (process.env.FOLLOW || '').split(',').filter(Boolean);
 const seen = new Set(); const queue = seeds.map((u) => [u, 0]); const index = [];
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36';
 let n = 0;
-while (queue.length && n < 120) {
+while (queue.length && n < 160) {
   const [url, depth] = queue.shift();
   if (seen.has(url)) continue; seen.add(url);
   try {
@@ -20,7 +21,7 @@ while (queue.length && n < 120) {
     if (body) await writeFile(`research/out/${host}/${name}.txt`, `URL: ${res.url}\nSTATUS: ${res.status}\nTYPE: ${type}\n\n${body}`);
     else await writeFile(`research/out/${host}/${name}.bin`, buf);
     index.push({ url, final: res.url, status: res.status, type, bytes: buf.length });
-    if (depth < 2 && /html|xml/.test(type)) {
+    if (depth < 2 && /html|xml/.test(type) && FOLLOW.some((h) => host.endsWith(h))) {
       const links = [...body.matchAll(/(?:href|src|loc>)=?["']?([^"'<>\s]+)/g)].map((m) => m[1]);
       for (const l of links) {
         try {
