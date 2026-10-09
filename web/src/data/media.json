@@ -166,11 +166,11 @@
   "weld-ador-champmig300": "/media/weld-ador-champmig300.jpg",
   "weld-esab-arc400i": "/media/weld-esab-arc400i.jpg",
   "weld-esab-es400i": "/media/weld-esab-es400i.jpg",
-  "weld-gbkore-arc400mos": null,
-  "weld-gbkore-arc630ij": null,
-  "weld-gbkore-tig200": null,
-  "weld-gbkore-tig400ij": null,
-  "weld-gbkore-mig400ij": null,
-  "weld-gbkore-mz1000": null,
-  "weld-gbkore-cut120cp": null
+  "weld-gbkore-arc400mos": "/media/weld-gbkore-arc400mos.png",
+  "weld-gbkore-arc630ij": "/media/weld-gbkore-arc630ij.png",
+  "weld-gbkore-tig200": "/media/weld-gbkore-tig200.png",
+  "weld-gbkore-tig400ij": "/media/weld-gbkore-tig400ij.png",
+  "weld-gbkore-mig400ij": "/media/weld-gbkore-mig400ij.png",
+  "weld-gbkore-mz1000": "/media/weld-gbkore-mz1000.png",
+  "weld-gbkore-cut120cp": "/media/weld-gbkore-cut120cp.png"
 }
