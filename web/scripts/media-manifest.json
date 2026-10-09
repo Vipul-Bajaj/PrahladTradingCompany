@@ -1505,6 +1505,33 @@
         "https://www.omex.co.in/uploaded_files/product/IMG_1445swTV.jpg",
         "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_1445swTV.jpg"
       ]
+    },
+    {
+      "id": "logo-3m",
+      "candidates": [
+        "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
+        "https://www.3mindia.in/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/3M_wordmark.svg"
+      ]
+    },
+    {
+      "id": "logo-ador",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/09/logo.svg"
+      ]
+    },
+    {
+      "id": "logo-esab",
+      "candidates": [
+        "https://esabindia.com/themes/EsabDefault/images/logo-esab.png",
+        "https://esabindia.com/themes/EsabDefault/images/esab_logo.jpg"
+      ]
+    },
+    {
+      "id": "logo-gbkore",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/f4b74eeb-9c3f-46cd-ac31-362453e4c5df"
+      ]
     }
   ]
 }

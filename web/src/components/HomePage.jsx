@@ -40,7 +40,7 @@ function LogoStrip() {
   return (
     <section className="logo-strip" aria-label="Brands we deal in">
       <ul className="wrap logo-strip__list">
-        {brands.map((b) => (
+        {brands.filter((b) => b.featured).map((b) => (
           <li key={b.id} className="logo-strip__item">
             <Media
               id={b.logo}
@@ -122,35 +122,53 @@ function Products() {
   );
 }
 
+function BrandCard({ b }) {
+  const authorized = b.relationship === 'authorized';
+  return (
+    <div className={authorized ? 'brand-card brand-card--authorized' : 'brand-card'}>
+      <div className="brand-card__logo">
+        <Media
+          id={b.logo}
+          alt={`${b.name} logo`}
+          className="brand-card__img"
+          fallback={<span className="logo-fallback">{b.name}</span>}
+        />
+      </div>
+      <p className="brand-card__name">{b.name}</p>
+      <p className={`badge badge--${b.relationship}`}>{authorized ? 'Authorized dealer' : 'Products available'}</p>
+    </div>
+  );
+}
+
 function Brands() {
   return (
     <section className="section section--grey" id="brands" aria-labelledby="brands-title">
       <div className="wrap">
         <div className="section__head">
           <h2 id="brands-title">Brands we deal in</h2>
-          <p>Genuine products, bought from the manufacturer or its distribution network.</p>
+          <p>
+            Authorized dealer for {brands.filter((b) => b.relationship === 'authorized').map((b) => b.name).join(', ').replace(/, ([^,]*)$/, ' and $1')}.
+            Genuine products from the other brands, bought through their distribution network.
+          </p>
         </div>
-        <ul className="brand-list">
-          {brands.map((b) => (
-            <li key={b.id} className="brand-row">
-              <div className="brand-row__logo">
-                <Media
-                  id={b.logo}
-                  alt={`${b.name} logo`}
-                  className="brand-row__img"
-                  fallback={<span className="logo-fallback">{b.name}</span>}
-                />
-              </div>
-              <div className="brand-row__text">
-                <h3>{b.name}</h3>
-                <p>{b.makes}</p>
-              </div>
-              <p className={`badge badge--${b.relationship}`}>
-                {b.relationship === 'authorized' ? 'Authorized dealer' : 'Products available'}
-              </p>
-            </li>
-          ))}
-        </ul>
+      </div>
+      <div className="marquee" role="region" aria-label="Brands we deal in" tabIndex={0}>
+        <div className="marquee__track">
+          <ul className="marquee__group">
+            {brands.map((b) => (
+              <li key={b.id}>
+                <BrandCard b={b} />
+              </li>
+            ))}
+          </ul>
+          <ul className="marquee__group" aria-hidden="true">
+            {brands.map((b) => (
+              <li key={b.id}>
+                <BrandCard b={b} />
+              </li>
+            ))}
+          </ul>
+        </div>
       </div>
     </section>
   );

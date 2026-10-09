@@ -16,60 +16,22 @@ export const enquiryMailto = (subject) =>
     'Hello,\n\nPlease share availability and price for:\n\nItem / size / quantity:\n\n\nCompany name:\nPhone:\n'
   )}`;
 
-// relationship: 'authorized' = authorized dealer, 'stockist' = we sell their products
+// relationship: 'authorized' = authorized dealer, 'stockist' = we sell their products.
+// featured: shown in the logo strip under the hero.
 export const brands = [
-  {
-    id: 'acme',
-    name: 'Acme Universal',
-    logo: 'logo-acme',
-    makes: 'Safety shoes',
-    relationship: 'authorized',
-    site: 'https://global.acmeuniversal9.com/',
-  },
-  {
-    id: 'karam',
-    name: 'Karam',
-    logo: 'logo-karam',
-    makes: 'Helmets, harnesses, eyewear, respirators, workwear',
-    relationship: 'stockist',
-    site: 'https://www.karam.in/',
-  },
-  {
-    id: 'udyogi',
-    name: 'Udyogi',
-    logo: 'logo-udyogi',
-    makes: 'Gloves, welding protection, workwear',
-    relationship: 'authorized',
-    site: 'https://udyogisafety.com/',
-  },
-  {
-    id: 'mallcom',
-    name: 'Mallcom',
-    logo: 'logo-mallcom',
-    makes: 'Safety shoes, gloves, workwear',
-    relationship: 'authorized',
-    site: 'https://www.mallcom.in/',
-  },
-  {
-    id: 'footland',
-    name: 'Footland',
-    logo: 'logo-footland',
-    makes: 'Safety shoes',
-    relationship: 'stockist',
-    site: 'https://www.footlandsafetyshoes.com/',
-  },
-  {
-    id: 'omex',
-    name: 'Omex',
-    logo: 'logo-omex',
-    makes: 'Fire extinguishers and fire safety equipment',
-    relationship: 'authorized',
-    site: 'https://www.omex.co.in/',
-  },
+  { id: 'acme', name: 'Acme Universal', logo: 'logo-acme', makes: 'Safety shoes', relationship: 'authorized', featured: true, site: 'https://global.acmeuniversal9.com/' },
+  { id: 'mallcom', name: 'Mallcom', logo: 'logo-mallcom', makes: 'Safety shoes, gloves, respirators, workwear', relationship: 'authorized', featured: true, site: 'https://www.mallcom.in/' },
+  { id: 'footland', name: 'Footland', logo: 'logo-footland', makes: 'Safety shoes', relationship: 'authorized', featured: true, site: 'https://www.footlandsafetyshoes.com/' },
+  { id: 'karam', name: 'Karam', logo: 'logo-karam', makes: 'Helmets, harnesses, eyewear, respirators, workwear', relationship: 'stockist', featured: true, site: 'https://www.karam.in/' },
+  { id: 'udyogi', name: 'Udyogi', logo: 'logo-udyogi', makes: 'Helmets, respirators, fall protection, workwear', relationship: 'stockist', featured: true, site: 'https://udyogisafety.com/' },
+  { id: '3m', name: '3M', logo: 'logo-3m', makes: 'Eyewear, ear protection, respirators', relationship: 'stockist', site: 'https://www.3mindia.in/' },
+  { id: 'omex', name: 'Omex', logo: 'logo-omex', makes: 'Fire extinguishers and fire safety equipment', relationship: 'stockist', featured: true, site: 'https://www.omex.co.in/' },
+  { id: 'ador', name: 'Ador', logo: 'logo-ador', makes: 'Welding electrodes, machines and accessories', relationship: 'stockist', site: 'https://adorwelding.com/' },
+  { id: 'esab', name: 'ESAB', logo: 'logo-esab', makes: 'Welding electrodes, machines and helmets', relationship: 'stockist', site: 'https://esabindia.com/' },
+  { id: 'gbkore', name: 'GB-Kore', logo: 'logo-gbkore', makes: 'Welding and cutting machines', relationship: 'stockist', site: 'https://gbkore.com/' },
 ];
 
-const otherBrandNames = { '3m': '3M', ador: 'Ador', esab: 'ESAB', gbkore: 'GB-Kore' };
-export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? otherBrandNames[id] ?? id;
+export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? id;
 
 export const categories = [
   {
