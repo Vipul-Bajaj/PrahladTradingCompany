@@ -14,7 +14,11 @@ jobs:
         with: { node-version: 20 }
       - run: KEY="^$" FOLLOW="none.invalid" SEEDS="$(cat research/seeds.json)" node research/crawl.mjs
       - run: |
-          git add research/out
+          mkdir -p research/fonts
+          curl -sSL -o research/fonts/Archivo.ttf "https://github.com/google/fonts/raw/main/ofl/archivo/Archivo%5Bwdth,wght%5D.ttf"
+          ls -la research/fonts
+      - run: |
+          git add research/out research/fonts
           git config user.name "github-actions[bot]"
           git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
           git commit -m "research output" && git push
