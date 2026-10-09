@@ -1,0 +1,9 @@
+== https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/dad694c7-67be-4087-854e-a0f8eed62f78
+curl: (28) Operation timed out after 60002 milliseconds with 0 bytes received
+code=000 type= size=0 time=60.002753
+curl exit 28
+== https://www.gbkore.com/products/ARC-400-MOS
+curl: (28) Operation timed out after 60002 milliseconds with 0 bytes received
+code=000 type= size=0 time=60.002991
+curl exit 28
+research/out/sample.bin: cannot open `research/out/sample.bin' (No such file or directory)
