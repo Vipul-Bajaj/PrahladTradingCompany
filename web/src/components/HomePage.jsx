@@ -9,7 +9,7 @@ function Hero() {
         <div className="hero__copy">
           <h1 className="hero__title">Safety equipment for Raipur’s plants and work sites.</h1>
           <p className="hero__lede">
-            Helmets, safety shoes, gloves, harnesses and fire extinguishers from Acme, Karam, Udyogi, Mallcom, Footland and Omex.
+            Helmets, safety shoes, gloves, respirators, harnesses and fire extinguishers from Acme, Karam, Udyogi, Mallcom, Footland and Omex.
             Supplying Raipur’s industry for {company.years} years.
           </p>
           <div className="hero__actions">

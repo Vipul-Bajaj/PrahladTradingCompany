@@ -1,5 +1,5 @@
 {
-  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos (retailer listings; Acme's Indian site couldn't be reached) and the generic ladies' helmet photo (supplier listing). 3M photos are from multimedia.3m.com; ESAB photos from ESAB\u2019s product image CDN; GB-Kore photos from its CMS asset host.",
+  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos (retailer listings; Acme's Indian site couldn't be reached) and the generic ladies' helmet photo (supplier listing). 3M photos are from multimedia.3m.com; ESAB photos from ESAB’s product image CDN; GB-Kore photos from its CMS asset host. Mallcom photos are from mallcom.in’s Shopify image CDN; Omex photos from omex.co.in.",
   "items": [
     {
       "id": "logo-acme",
@@ -1176,6 +1176,334 @@
       "id": "weld-gbkore-cut120cp",
       "candidates": [
         "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/ff23fe21-f477-4012-a99e-322169fb3c78"
+      ]
+    },
+    {
+      "id": "resp-karam-rf01",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/RF01-%28DISPOSABLE-FACE-RESPIRATOR-WITH-EAR-LOOPS%29_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-karam-rfh02plus",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/RFH02%2B%28DISPOS-BLE-FACE-RESPIRATOR-WITH-HEADBAND-AND-EXHALATION-VALVE%29_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-karam-rfh12plus",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2023-05/RFH-12%2B-%28DISPOSABLE-FACE-RESPIRATOR-WITH-HEADBAND-AND-EXHALATION-VALVE%29_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-karam-rfh13plus",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2026-07/RFH-13%2B_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-karam-rfh32plusov",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/RHF-32%2B-OV_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-karam-rfh22plusov",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2026-07/RFH-22%2B-OV_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-karam-ft391p2plus",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/FT-391%28P2%29%28Grey%2B%29-%282%29_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-karam-ft361p3plus",
+      "candidates": [
+        "https://www.karam.in/sites/default/files/2024-11/FT-361-%28P3%29-with-valve_0.jpg"
+      ]
+    },
+    {
+      "id": "resp-3m-8210v",
+      "candidates": [
+        "https://multimedia.3m.com/mws/media/2601017J/3m-particulate-respirator-8210v-n95.jpg?boundedSize=1024",
+        "https://multimedia.3m.com/mws/media/2601017J/3m-particulate-respirator-8210v-n95.jpg"
+      ]
+    },
+    {
+      "id": "resp-mallcom-l1102pv",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1000x1000-L1102PV.jpg?v=1746789012"
+      ]
+    },
+    {
+      "id": "resp-mallcom-l1203pv",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1000x1000-L1203PV.jpg?v=1746789184"
+      ]
+    },
+    {
+      "id": "resp-mallcom-l1202pv",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1000x1000-L1202PV.jpg?v=1746789190"
+      ]
+    },
+    {
+      "id": "resp-mallcom-l2302pv",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/1000x1000-L2302PV.jpg?v=1746789013"
+      ]
+    },
+    {
+      "id": "resp-mallcom-m1202pv",
+      "candidates": [
+        "https://cdn.shopify.com/s/files/1/0606/6821/5434/products/02_dd6c624c-1f2c-49be-bb05-8c27ad2724cc.jpg?v=1746789435"
+      ]
+    },
+    {
+      "id": "resp-udyogi-4200",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/havCB116d0ec5-8c0c-4f5e-b4d4-e9219c1bc996.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-8200",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/yi4xS785e91e3-c519-402d-8657-ba9b5b4528fb.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-9000",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/gCFC70c67a970-e7a1-4d9c-ae98-3f749f37a3c1.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-8800",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/xlyc523efcfb4-8fdb-47dd-9195-d30889afee48.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-9900",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/ZYDDs85dd5ed8-afe7-4038-9bb7-7d4df9392ba8.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-3001",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/CA7WPf78ce510-83eb-45e6-af0f-fa900403146a.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-8101",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/eTJir55196cfa-d9ee-47db-8e70-bfbbf71b7e54.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-8104",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/N545w17d4e203-20a4-4207-ad0e-bd5c0dfaecb2.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-8103pr",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/VCMJPc486e433-1eae-418f-a291-ff305a4db19e.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-8106pr",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/Hu5SW3abffdc3-8eb5-44a5-8bd7-bcf59fb2d053.webp"
+      ]
+    },
+    {
+      "id": "resp-udyogi-811",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/fUTaUc18d882d-d02e-4f7a-a689-49575a7dd415.webp"
+      ]
+    },
+    {
+      "id": "fire-omex-abc",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_4575up8M.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4575up8M.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_4575PX1v.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4575PX1v.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-co2",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_4619u59Q.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4619u59Q.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-clean-agent",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_68431fay.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_68431fay.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_6843Hi9q.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6843Hi9q.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-water",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_4605Yni9.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4605Yni9.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_46056rj0.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_46056rj0.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-foam",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_4608OBJX.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4608OBJX.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_4649mpiR.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4649mpiR.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-dcp",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_4637sSIR.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4637sSIR.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_4634JepO.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4634JepO.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-kitchen",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_6850Vcj5.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6850Vcj5.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-modular",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_2005T47B.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_2005T47B.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_2005Rtfb.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_2005Rtfb.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-modular-clean",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_2005I9hh.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_2005I9hh.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-trolley-abc",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_6919dOjS.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6919dOjS.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_69142m23.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_69142m23.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-trolley-co2",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_4710inrD.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4710inrD.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_4710x5Jf.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4710x5Jf.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-trolley-foam",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_6884U76X.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6884U76X.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-trolley-water",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_6908Mt0R.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6908Mt0R.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-abc-powder",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/ABC_PowderCWXY.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_ABC_PowderCWXY.jpg",
+        "https://www.omex.co.in/uploaded_files/product/ABC_PowderSczl.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_ABC_PowderSczl.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-cartridge",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_1507Z8M9.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_1507Z8M9.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_1514ka0R.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_1514ka0R.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-hydrant-valve",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_13434AlR.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_13434AlR.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_1343BHKZ.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_1343BHKZ.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-hose",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/IMG_33596M3l.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_33596M3l.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-hose-reel",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/Hose_Reel_DrumOEqM.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_Hose_Reel_DrumOEqM.jpg",
+        "https://www.omex.co.in/uploaded_files/product/Hose_Reel_DrumKPhn.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_Hose_Reel_DrumKPhn.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-hose-box",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/Hose_Box_single_DoorvV10.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_Hose_Box_single_DoorvV10.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_6245Ghli.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6245Ghli.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-sprinkler",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/_MG_4231ZuSW.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261__MG_4231ZuSW.jpg",
+        "https://www.omex.co.in/uploaded_files/product/_MG_4233x4qZ.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261__MG_4233x4qZ.jpg"
+      ]
+    },
+    {
+      "id": "fire-omex-smoke-detector",
+      "candidates": [
+        "https://www.omex.co.in/uploaded_files/product/Smoke_DetectorGMtp.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_Smoke_DetectorGMtp.jpg",
+        "https://www.omex.co.in/uploaded_files/product/IMG_1445swTV.jpg",
+        "https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_1445swTV.jpg"
       ]
     }
   ]
