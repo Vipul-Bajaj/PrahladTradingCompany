@@ -1,11 +1,13 @@
 [
- "https://www.karam.in/products/respiratory-protection",
- "https://udyogisafety.com/products-subcategories/half-face-masks",
- "https://udyogisafety.com/products-subcategories/full-face-masks",
- "https://udyogisafety.com/products-subcategories/particulate-filters",
- "https://udyogisafety.com/products-subcategories/gas-vapour-filters",
- "https://udyogisafety.com/products-subcategories/dust-gas-vapour-filters",
- "https://www.omex.co.in/products",
- "https://www.omex.co.in/category",
- "https://www.omex.co.in/"
+ "https://www.mallcom.in/collections/respiratory-protection/products.json?limit=250",
+ "https://www.mallcom.in/products.json?limit=250",
+ "https://www.mallcom.in/products.json?limit=250&page=2",
+ "https://www.mallcom.in/products.json?limit=250&page=3",
+ "https://www.omex.co.in/products/209/water-type-fire-extinguisher-stored-pressure",
+ "https://www.omex.co.in/products/211/mfoam-afff-type-fire-extinguisher-stored-pressure",
+ "https://www.omex.co.in/category/133/dry-chemical-powder-type-fire-extinguisher",
+ "https://www.omex.co.in/products/137/modular-automatic-bcabc-dry-chemical-powder",
+ "https://www.omex.co.in/products/154/reinforced-rubber-lined-fire-hose-rrl-type-1",
+ "https://www.omex.co.in/products/152/first-aid-hose-reel-swinging-type",
+ "https://www.omex.co.in/products/188/smoke-detector"
 ]
