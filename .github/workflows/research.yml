@@ -18,3 +18,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
           git commit -m "research output" && git push
+      - name: curl squidex
+        if: always()
+        run: |
+          curl -sS -m 40 -A "Mozilla/5.0" -o /dev/null -D - "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/dad694c7-67be-4087-854e-a0f8eed62f78" > research/out/curl.txt 2>&1 || echo "curl exit $?" >> research/out/curl.txt
+          git add research/out/curl.txt && git commit -m "curl" && git push || true
