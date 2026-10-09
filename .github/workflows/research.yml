@@ -12,14 +12,15 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
-      - run: KEY="product|electrode|holder|machine|goggle|inverter|welding|mig|tig|arc|consumable|equipment|categor|collection|shop" FOLLOW="none.invalid" SEEDS="$(cat research/seeds.json)" node research/crawl.mjs
-      - run: |
+      - name: curl squidex
+        run: |
+          mkdir -p research/out
+          for u in "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/dad694c7-67be-4087-854e-a0f8eed62f78" "https://www.gbkore.com/products/ARC-400-MOS"; do
+            echo "== $u" >> research/out/curl.txt
+            curl -sS -m 60 -A "Mozilla/5.0" -o research/out/sample.bin -w "code=%{http_code} type=%{content_type} size=%{size_download} time=%{time_total}\n" "$u" >> research/out/curl.txt 2>&1 || echo "curl exit $?" >> research/out/curl.txt
+          done
+          file research/out/sample.bin >> research/out/curl.txt || true
           git add research/out
           git config user.name "github-actions[bot]"
           git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
-          git commit -m "research output" && git push
-      - name: curl squidex
-        if: always()
-        run: |
-          curl -sS -m 40 -A "Mozilla/5.0" -o /dev/null -D - "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/dad694c7-67be-4087-854e-a0f8eed62f78" > research/out/curl.txt 2>&1 || echo "curl exit $?" >> research/out/curl.txt
-          git add research/out/curl.txt && git commit -m "curl" && git push || true
+          git commit -m "curl" && git push
