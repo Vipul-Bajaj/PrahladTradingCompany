@@ -1,79 +1,45 @@
 [
   {
-    "url": "https://www.mallcom.in/collections/respiratory-protection/products.json?limit=250",
-    "final": "https://www.mallcom.in/collections/respiratory-protection/products.json?limit=250",
-    "status": 200,
-    "type": "application/json; charset=utf-8",
-    "bytes": 15
+    "url": "https://esab.com/in/",
+    "final": "https://esab.com/in/",
+    "status": 403,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4543
   },
   {
-    "url": "https://www.mallcom.in/products.json?limit=250",
-    "final": "https://www.mallcom.in/products.json?limit=250",
+    "url": "https://www.esabindia.com/",
+    "final": "https://esabindia.com/in/ind_en/",
     "status": 200,
-    "type": "application/json; charset=utf-8",
-    "bytes": 1487346
+    "type": "text/html;charset=UTF-8",
+    "bytes": 267759
   },
   {
-    "url": "https://www.mallcom.in/products.json?limit=250&page=2",
-    "final": "https://www.mallcom.in/products.json?limit=250&page=2",
+    "url": "https://gbkore.com/",
+    "final": "https://www.gbkore.com/",
     "status": 200,
-    "type": "application/json; charset=utf-8",
-    "bytes": 1744928
+    "type": "text/html; charset=utf-8",
+    "bytes": 124265
   },
   {
-    "url": "https://www.mallcom.in/products.json?limit=250&page=3",
-    "final": "https://www.mallcom.in/products.json?limit=250&page=3",
+    "url": "https://www.gbkore.com/",
+    "final": "https://www.gbkore.com/",
     "status": 200,
-    "type": "application/json; charset=utf-8",
-    "bytes": 840911
+    "type": "text/html; charset=utf-8",
+    "bytes": 125349
   },
   {
-    "url": "https://www.omex.co.in/products/209/water-type-fire-extinguisher-stored-pressure",
-    "final": "https://www.omex.co.in/products/209/water-type-fire-extinguisher-stored-pressure",
+    "url": "https://www.3mindia.in/3M/en_IN/company-in/",
+    "error": "TimeoutError: The operation was aborted due to timeout "
+  },
+  {
+    "url": "https://www.3m.com/",
+    "error": "TimeoutError: The operation was aborted due to timeout "
+  },
+  {
+    "url": "https://adorwelding.com/",
+    "final": "https://adorwelding.com/",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 18820
-  },
-  {
-    "url": "https://www.omex.co.in/products/211/mfoam-afff-type-fire-extinguisher-stored-pressure",
-    "final": "https://www.omex.co.in/products/211/mfoam-afff-type-fire-extinguisher-stored-pressure",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 18896
-  },
-  {
-    "url": "https://www.omex.co.in/category/133/dry-chemical-powder-type-fire-extinguisher",
-    "final": "https://www.omex.co.in/category/133/dry-chemical-powder-type-fire-extinguisher",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 19291
-  },
-  {
-    "url": "https://www.omex.co.in/products/137/modular-automatic-bcabc-dry-chemical-powder",
-    "final": "https://www.omex.co.in/products/137/modular-automatic-bcabc-dry-chemical-powder",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21511
-  },
-  {
-    "url": "https://www.omex.co.in/products/154/reinforced-rubber-lined-fire-hose-rrl-type-1",
-    "final": "https://www.omex.co.in/products/154/reinforced-rubber-lined-fire-hose-rrl-type-1",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 22072
-  },
-  {
-    "url": "https://www.omex.co.in/products/152/first-aid-hose-reel-swinging-type",
-    "final": "https://www.omex.co.in/products/152/first-aid-hose-reel-swinging-type",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 19718
-  },
-  {
-    "url": "https://www.omex.co.in/products/188/smoke-detector",
-    "final": "https://www.omex.co.in/products/188/smoke-detector",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 18282
+    "bytes": 151822
   }
 ]
