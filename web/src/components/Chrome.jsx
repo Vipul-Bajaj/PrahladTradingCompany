@@ -1,4 +1,5 @@
 import { company } from '../data/site';
+import Emblem from './Emblem';
 
 const base = process.env.NEXT_PUBLIC_BASE_PATH || '';
 export const href = (p) => base + p;
@@ -19,9 +20,9 @@ export function Header() {
     <header className="site-header">
       <div className="wrap site-header__inner">
         <a className="wordmark" href={href('/')} aria-label={`${company.name}, back to top`}>
-          <span className="wordmark__mark" aria-hidden="true">P</span>
+          <Emblem size={42} className="wordmark__mark" />
           <span className="wordmark__text">
-            Prahlad Trading <span>Company</span>
+            Prahlad <span>Trading Company</span>
           </span>
         </a>
         <nav className="site-nav" aria-label="Main">
