@@ -404,3 +404,27 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
 
 .sent h3 { font-size: 1.25rem; }
 .sent p { margin-top: 8px; color: var(--steel); }
+
+/* Floating WhatsApp button, on every page */
+.wa-float {
+  position: fixed; z-index: 30;
+  right: max(16px, env(safe-area-inset-right));
+  bottom: max(16px, env(safe-area-inset-bottom));
+  display: inline-flex; align-items: center; gap: 8px;
+  min-height: 52px; padding: 0 18px 0 14px;
+  background: #1e8e4f; color: #fff;
+  border-radius: 999px;
+  font-weight: 700; font-size: 1rem; text-decoration: none;
+  box-shadow: 0 6px 18px rgba(20, 24, 27, .28);
+  transition: background .15s, transform .15s;
+}
+.wa-float:hover { background: #17733f; transform: translateY(-2px); }
+.wa-float:focus-visible { outline: 3px solid var(--orange); outline-offset: 3px; }
+@media (max-width: 479px) {
+  .wa-float { width: 56px; height: 56px; padding: 0; justify-content: center; }
+  .wa-float__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .wa-float svg { width: 28px; height: 28px; }
+}
+@media (prefers-reduced-motion: reduce) { .wa-float { transition: none; } .wa-float:hover { transform: none; } }
+/* Keep the footer text clear of the button */
+.site-footer { padding-bottom: 88px; }

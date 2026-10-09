@@ -1,5 +1,6 @@
 import { Archivo } from 'next/font/google';
 import './globals.css';
+import WhatsAppFloat from '../components/WhatsAppFloat';
 
 const archivo = Archivo({
   subsets: ['latin'],
@@ -23,7 +24,10 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en-IN" className={archivo.variable}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <WhatsAppFloat />
+      </body>
     </html>
   );
 }
