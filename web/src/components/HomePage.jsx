@@ -7,7 +7,7 @@ function Hero() {
     <section className="hero" id="top">
       <div className="wrap hero__grid">
         <div className="hero__copy">
-          <h1 className="hero__title">Industrial safety equipment, supplied from Raipur.</h1>
+          <h1 className="hero__title">Industrial safety equipment supplier in Raipur</h1>
           <p className="hero__lede">
             Personal protective equipment, welding supplies and fire safety products from leading brands. Serving
             industry in Raipur for over {company.years.replace('+', '')} years.
@@ -170,6 +170,7 @@ function HowToOrder() {
         <div className="section__head">
           <h2 id="order-title">How to order</h2>
           <p>We handle bulk and repeat orders for plants, contractors and work sites.</p>
+          <p className="order__note">Need something that isn’t listed? We also source general industrial supplies on request.</p>
         </div>
         <ol className="steps">
           {steps.map(([t, d]) => (

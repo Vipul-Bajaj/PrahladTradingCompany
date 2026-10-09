@@ -10,9 +10,9 @@ const archivo = Archivo({
 });
 
 export const metadata = {
-  title: 'Prahlad Trading Company | Safety equipment in Raipur',
+  title: 'Prahlad Trading Company | Industrial Safety Equipment Supplier in Raipur',
   description:
-    'Industrial safety equipment in Raipur, Chhattisgarh: helmets, safety shoes, gloves, harnesses, respirators and fire extinguishers from Acme, Karam, Udyogi, Mallcom, Footland and Omex.',
+    'Industrial safety equipment supplier in Raipur, Chhattisgarh. Safety helmets, safety shoes, gloves, respirators, harnesses, welding supplies and fire extinguishers. Authorized dealer for Acme, Mallcom and Footland; safety products from Karam, Udyogi, 3M and Omex.',
 };
 
 export const viewport = {

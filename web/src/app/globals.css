@@ -410,3 +410,5 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
 @media (prefers-reduced-motion: reduce) { .wa-float { transition: none; } .wa-float:hover { transform: none; } }
 /* Keep the footer text clear of the button */
 .site-footer { padding-bottom: 88px; }
+
+.section__head .order__note { margin-top: 12px; font-size: .95rem; color: var(--steel); }
