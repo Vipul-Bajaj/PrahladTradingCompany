@@ -21,7 +21,7 @@ while (queue.length && n < 260) {
     if (body) await writeFile(`research/out/${host}/${name}.txt`, `URL: ${res.url}\nSTATUS: ${res.status}\nTYPE: ${type}\n\n${body}`);
     else await writeFile(`research/out/${host}/${name}.bin`, buf);
     index.push({ url, final: res.url, status: res.status, type, bytes: buf.length });
-    if (depth < 1 && /html|xml/.test(type) && FOLLOW.some((h) => host.endsWith(h))) {
+    if (depth < Number(process.env.DEPTH || 1) && /html|xml/.test(type) && FOLLOW.some((h) => host.endsWith(h))) {
       const links = [...body.matchAll(/(?:href|src|loc>)=?["']?([^"'<>\s]+)/g)].map((m) => m[1]);
       for (const l of links) {
         try {

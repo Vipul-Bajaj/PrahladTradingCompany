@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
-      - run: KEY="/product/|/products/[a-z0-9-]+$" FOLLOW="none.invalid" SEEDS="$(cat research/seeds.json)" node research/crawl.mjs
+      - run: DEPTH=2 KEY="product|electrode|holder|machine|goggle|inverter|welding|mig|tig|arc|consumable|equipment|categor|collection|shop" FOLLOW="gbkore.com,adorwelding.com,esab.com" SEEDS="$(cat research/seeds.json)" node research/crawl.mjs
       - run: |
           git add research/out
           git config user.name "github-actions[bot]"
