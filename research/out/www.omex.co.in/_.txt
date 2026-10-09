@@ -513,92 +513,6 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
             <div class="item">
             <div class="news_box">
               <div class="news_pic">
-                <figure><a href="https://www.omex.co.in/products/43/detail/abc-6-kg">
-                
-                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4592bOD5.jpg" alt="abc-6-kg" class="bdr" />
-                                      
-                </a></figure>
-              </div>
-              <div class="content-box">
-                <p class="date-cont"><a href="https://www.omex.co.in/products/43/detail/abc-6-kg" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">ABC 6 KG </a></p>
-                <p class="newspack_name"><a href="https://www.omex.co.in/products/43/detail/abc-6-kg"><br />
-</a></p>
-                <div class="rdr-btn"><a href="https://www.omex.co.in/products/43/detail/abc-6-kg" title="View Details">View Details</a></div>
-                <p class="clearfix"></p>
-              </div>
-            </div>
-            </div>
-            <div class="item">
-            <div class="news_box">
-              <div class="news_pic">
-                <figure><a href="https://www.omex.co.in/products/37/detail/four-way">
-                
-                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_4_WayoX36.jpg" alt="four-way" class="bdr" />
-                                      
-                </a></figure>
-              </div>
-              <div class="content-box">
-                <p class="date-cont"><a href="https://www.omex.co.in/products/37/detail/four-way" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Four Way </a></p>
-                <p class="newspack_name"><a href="https://www.omex.co.in/products/37/detail/four-way">Size : 63 mm dia &nbsp; &nbsp; &nbsp; Material : Gun Metal&#8230;</a></p>
-                <div class="rdr-btn"><a href="https://www.omex.co.in/products/37/detail/four-way" title="View Details">View Details</a></div>
-                <p class="clearfix"></p>
-              </div>
-            </div>
-            </div>
-            <div class="item">
-            <div class="news_box">
-              <div class="news_pic">
-                <figure><a href="https://www.omex.co.in/products/50/detail/water-monitor">
-                
-                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6931UUXM.jpg" alt="water-monitor" class="bdr" />
-                                      
-                </a></figure>
-              </div>
-              <div class="content-box">
-                <p class="date-cont"><a href="https://www.omex.co.in/products/50/detail/water-monitor" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Water Monitor </a></p>
-                <p class="newspack_name"><a href="https://www.omex.co.in/products/50/detail/water-monitor">Water / Foam Monitor &nbsp; &nbsp; &nbsp; Size : 63 mm dia&#8230;</a></p>
-                <div class="rdr-btn"><a href="https://www.omex.co.in/products/50/detail/water-monitor" title="View Details">View Details</a></div>
-                <p class="clearfix"></p>
-              </div>
-            </div>
-            </div>
-            <div class="item">
-            <div class="news_box">
-              <div class="news_pic">
-                <figure><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure">
-                
-                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_45980N8j.jpg" alt="multipurpose-dry-powder-stored-pressure" class="bdr" />
-                                      
-                </a></figure>
-              </div>
-              <div class="content-box">
-                <p class="date-cont"><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Multipurpose Dry Powder (Stored Pressure) </a></p>
-                <p class="newspack_name"><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure">Desciption &nbsp; BIS Spec. &nbsp; Discharge Time Sec &nbsp;&#8230;</a></p>
-                <div class="rdr-btn"><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure" title="View Details">View Details</a></div>
-                <p class="clearfix"></p>
-              </div>
-            </div>
-            </div>
-            <div class="item">
-            <div class="news_box">
-              <div class="news_pic">
-                <figure><a href="https://www.omex.co.in/products/38/detail/three-way">
-                
-                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_3_Way_with_CapXmXF.jpg" alt="three-way" class="bdr" />
-                                      
-                </a></figure>
-              </div>
-              <div class="content-box">
-                <p class="date-cont"><a href="https://www.omex.co.in/products/38/detail/three-way" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Three Way </a></p>
-                <p class="newspack_name"><a href="https://www.omex.co.in/products/38/detail/three-way">Size : 63 mm dia &nbsp; &nbsp; &nbsp; Material : Gun Metal&#8230;</a></p>
-                <div class="rdr-btn"><a href="https://www.omex.co.in/products/38/detail/three-way" title="View Details">View Details</a></div>
-                <p class="clearfix"></p>
-              </div>
-            </div>
-            </div>
-            <div class="item">
-            <div class="news_box">
-              <div class="news_pic">
                 <figure><a href="https://www.omex.co.in/products/100/detail/clean-agent-fk-5-1-12-type-fire-extinguisher">
                 
                                       <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_68431fay.jpg" alt="clean-agent-fk-5-1-12-type-fire-extinguisher" class="bdr" />
@@ -626,6 +540,92 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                 <p class="date-cont"><a href="https://www.omex.co.in/products/96/detail/modular-automatic-bc-abc-dry-chemical-powder-fire-extinguisher" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Modular Automatic BC / ABC Dry Chemical powder Fire Extinguisher </a></p>
                 <p class="newspack_name"><a href="https://www.omex.co.in/products/96/detail/modular-automatic-bc-abc-dry-chemical-powder-fire-extinguisher">Suitable for All classes fo Fire</a></p>
                 <div class="rdr-btn"><a href="https://www.omex.co.in/products/96/detail/modular-automatic-bc-abc-dry-chemical-powder-fire-extinguisher" title="View Details">View Details</a></div>
+                <p class="clearfix"></p>
+              </div>
+            </div>
+            </div>
+            <div class="item">
+            <div class="news_box">
+              <div class="news_pic">
+                <figure><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure">
+                
+                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_45980N8j.jpg" alt="multipurpose-dry-powder-stored-pressure" class="bdr" />
+                                      
+                </a></figure>
+              </div>
+              <div class="content-box">
+                <p class="date-cont"><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Multipurpose Dry Powder (Stored Pressure) </a></p>
+                <p class="newspack_name"><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure">Desciption &nbsp; BIS Spec. &nbsp; Discharge Time Sec &nbsp;&#8230;</a></p>
+                <div class="rdr-btn"><a href="https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure" title="View Details">View Details</a></div>
+                <p class="clearfix"></p>
+              </div>
+            </div>
+            </div>
+            <div class="item">
+            <div class="news_box">
+              <div class="news_pic">
+                <figure><a href="https://www.omex.co.in/products/50/detail/water-monitor">
+                
+                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_6931UUXM.jpg" alt="water-monitor" class="bdr" />
+                                      
+                </a></figure>
+              </div>
+              <div class="content-box">
+                <p class="date-cont"><a href="https://www.omex.co.in/products/50/detail/water-monitor" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Water Monitor </a></p>
+                <p class="newspack_name"><a href="https://www.omex.co.in/products/50/detail/water-monitor">Water / Foam Monitor &nbsp; &nbsp; &nbsp; Size : 63 mm dia&#8230;</a></p>
+                <div class="rdr-btn"><a href="https://www.omex.co.in/products/50/detail/water-monitor" title="View Details">View Details</a></div>
+                <p class="clearfix"></p>
+              </div>
+            </div>
+            </div>
+            <div class="item">
+            <div class="news_box">
+              <div class="news_pic">
+                <figure><a href="https://www.omex.co.in/products/37/detail/four-way">
+                
+                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_4_WayoX36.jpg" alt="four-way" class="bdr" />
+                                      
+                </a></figure>
+              </div>
+              <div class="content-box">
+                <p class="date-cont"><a href="https://www.omex.co.in/products/37/detail/four-way" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Four Way </a></p>
+                <p class="newspack_name"><a href="https://www.omex.co.in/products/37/detail/four-way">Size : 63 mm dia &nbsp; &nbsp; &nbsp; Material : Gun Metal&#8230;</a></p>
+                <div class="rdr-btn"><a href="https://www.omex.co.in/products/37/detail/four-way" title="View Details">View Details</a></div>
+                <p class="clearfix"></p>
+              </div>
+            </div>
+            </div>
+            <div class="item">
+            <div class="news_box">
+              <div class="news_pic">
+                <figure><a href="https://www.omex.co.in/products/38/detail/three-way">
+                
+                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_3_Way_with_CapXmXF.jpg" alt="three-way" class="bdr" />
+                                      
+                </a></figure>
+              </div>
+              <div class="content-box">
+                <p class="date-cont"><a href="https://www.omex.co.in/products/38/detail/three-way" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">Three Way </a></p>
+                <p class="newspack_name"><a href="https://www.omex.co.in/products/38/detail/three-way">Size : 63 mm dia &nbsp; &nbsp; &nbsp; Material : Gun Metal&#8230;</a></p>
+                <div class="rdr-btn"><a href="https://www.omex.co.in/products/38/detail/three-way" title="View Details">View Details</a></div>
+                <p class="clearfix"></p>
+              </div>
+            </div>
+            </div>
+            <div class="item">
+            <div class="news_box">
+              <div class="news_pic">
+                <figure><a href="https://www.omex.co.in/products/43/detail/abc-6-kg">
+                
+                                      <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_IMG_4592bOD5.jpg" alt="abc-6-kg" class="bdr" />
+                                      
+                </a></figure>
+              </div>
+              <div class="content-box">
+                <p class="date-cont"><a href="https://www.omex.co.in/products/43/detail/abc-6-kg" title="Portable Fire Extinguishers (IS:15683) Test &amp; Drain Valve">ABC 6 KG </a></p>
+                <p class="newspack_name"><a href="https://www.omex.co.in/products/43/detail/abc-6-kg"><br />
+</a></p>
+                <div class="rdr-btn"><a href="https://www.omex.co.in/products/43/detail/abc-6-kg" title="View Details">View Details</a></div>
                 <p class="clearfix"></p>
               </div>
             </div>

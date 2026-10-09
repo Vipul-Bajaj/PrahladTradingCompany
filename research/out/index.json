@@ -1,28 +1,9 @@
 [
   {
-    "url": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
-    "error": "TimeoutError: The operation was aborted due to timeout "
-  },
-  {
-    "url": "https://www.3mindia.in/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
-    "error": "TimeoutError: The operation was aborted due to timeout "
-  },
-  {
-    "url": "https://www.3mindia.in/3M/en_IN/p/d/v000057431/",
-    "error": "TimeoutError: The operation was aborted due to timeout "
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/3M_wordmark.svg/512px-3M_wordmark.svg.png",
-    "final": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/3M_wordmark.svg/512px-3M_wordmark.svg.png",
-    "status": 400,
-    "type": "text/html; charset=utf-8",
-    "bytes": 2008
-  },
-  {
-    "url": "https://commons.wikimedia.org/wiki/File:3M_wordmark.svg",
-    "final": "https://commons.wikimedia.org/wiki/File:3M_wordmark.svg",
+    "url": "https://www.omex.co.in/",
+    "final": "https://www.omex.co.in/",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 112257
+    "bytes": 56956
   }
 ]
