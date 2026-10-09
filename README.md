@@ -22,6 +22,11 @@ To add an image, add an entry to the manifest and push: the deploy workflow down
 commits it. To use your own photo, put it in `web/public/media/` and point that entry in
 `web/src/data/media.json` at it.
 
+Every image is then resized to the size the site shows it at (900 px for product photos, 1400 px for the
+hero, 400 px for logos) and converted to WebP by `web/scripts/optimize-media.py`, which also records each
+image's dimensions in `web/src/data/media-dims.json`. The deploy workflow runs it automatically; run
+`python3 web/scripts/optimize-media.py` yourself after adding a photo by hand.
+
 ## Run locally
 
 ```bash

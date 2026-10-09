@@ -27,7 +27,7 @@ function Hero() {
             id="hero"
             alt="Worker wearing a full body safety harness"
             className="hero__img"
-            loading="eager"
+            priority
             fallback={<div className="hero__img hero__img--empty" aria-hidden="true" />}
           />
         </figure>
@@ -131,6 +131,7 @@ function BrandCard({ b }) {
           id={b.logo}
           alt={`${b.name} logo`}
           className="brand-card__img"
+          loading="eager"
           fallback={<span className="logo-fallback">{b.name}</span>}
         />
       </div>

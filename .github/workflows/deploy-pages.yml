@@ -24,9 +24,18 @@ jobs:
           node-version: 20
       - name: Download missing images
         run: node web/scripts/fetch-media.mjs
+      # Resize new images to the size the site shows them at and convert them
+      # to WebP, so pages stay light. Already-optimized images are skipped.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Optimize images
+        run: |
+          python -m pip install --quiet pillow
+          python web/scripts/optimize-media.py
       - name: Commit new images to the repo
         run: |
-          git add web/public/media web/src/data/media.json
+          git add -A web/public/media web/src/data/media.json web/src/data/media-dims.json
           if git diff --cached --quiet; then
             echo "No new images."
           else

@@ -1,4 +1,5 @@
 import media from '../data/media.json';
+import dims from '../data/media-dims.json';
 
 const base = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
@@ -7,9 +8,22 @@ export function mediaSrc(id) {
   return p ? base + p : null;
 }
 
-// Renders a downloaded image, or the fallback when the asset couldn't be fetched.
-export default function Media({ id, alt, className, fallback = null, loading = 'lazy' }) {
+// Renders an image stored in the repo, or the fallback when there isn't one.
+// Width and height let the browser reserve the space before the image arrives.
+export default function Media({ id, alt, className, fallback = null, loading = 'lazy', priority = false }) {
   const src = mediaSrc(id);
   if (!src) return fallback;
-  return <img src={src} alt={alt} className={className} loading={loading} decoding="async" />;
+  const [width, height] = dims[id] || [];
+  return (
+    <img
+      src={src}
+      alt={alt}
+      className={className}
+      width={width}
+      height={height}
+      loading={priority ? 'eager' : loading}
+      fetchPriority={priority ? 'high' : undefined}
+      decoding="async"
+    />
+  );
 }

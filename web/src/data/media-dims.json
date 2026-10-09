@@ -1,0 +1,886 @@
+{
+  "cat-body": [
+    362,
+    512
+  ],
+  "cat-ear": [
+    362,
+    512
+  ],
+  "cat-eye": [
+    400,
+    400
+  ],
+  "cat-fall": [
+    362,
+    512
+  ],
+  "cat-fire": [
+    160,
+    261
+  ],
+  "cat-foot": [
+    350,
+    305
+  ],
+  "cat-hand": [
+    362,
+    512
+  ],
+  "cat-head": [
+    362,
+    512
+  ],
+  "cat-respiratory": [
+    362,
+    512
+  ],
+  "cat-welding": [
+    362,
+    512
+  ],
+  "ear-3m-1100": [
+    900,
+    900
+  ],
+  "ear-karam-ep01": [
+    900,
+    900
+  ],
+  "ear-karam-ep02a": [
+    900,
+    900
+  ],
+  "ear-karam-ep04m": [
+    900,
+    900
+  ],
+  "ear-karam-ep21": [
+    900,
+    900
+  ],
+  "ear-karam-ep23": [
+    900,
+    900
+  ],
+  "ear-karam-ep24": [
+    900,
+    900
+  ],
+  "ear-mallcom-sn03pc": [
+    900,
+    900
+  ],
+  "ear-mallcom-sn03sp": [
+    900,
+    900
+  ],
+  "ear-udyogi-ep01": [
+    900,
+    900
+  ],
+  "ear-udyogi-et-flex": [
+    900,
+    900
+  ],
+  "ear-udyogi-et20": [
+    900,
+    900
+  ],
+  "ear-udyogi-et50": [
+    900,
+    900
+  ],
+  "ear-udyogi-et60": [
+    900,
+    900
+  ],
+  "ear-udyogi-fp01": [
+    900,
+    900
+  ],
+  "eye-3m-securefit-200": [
+    900,
+    562
+  ],
+  "eye-3m-solus-1000": [
+    900,
+    600
+  ],
+  "eye-3m-virtua": [
+    900,
+    563
+  ],
+  "eye-karam-es001": [
+    900,
+    900
+  ],
+  "eye-karam-es003": [
+    900,
+    900
+  ],
+  "eye-karam-es004": [
+    900,
+    900
+  ],
+  "eye-karam-es005": [
+    900,
+    900
+  ],
+  "eye-karam-es007": [
+    900,
+    900
+  ],
+  "eye-karam-es009": [
+    900,
+    900
+  ],
+  "eye-karam-ft101": [
+    900,
+    900
+  ],
+  "eye-mallcom-apollo": [
+    900,
+    900
+  ],
+  "eye-mallcom-cirrus": [
+    900,
+    900
+  ],
+  "eye-mallcom-orbit": [
+    900,
+    900
+  ],
+  "eye-mallcom-pluto": [
+    900,
+    900
+  ],
+  "eye-mallcom-vega": [
+    900,
+    900
+  ],
+  "eye-udyogi-neolite": [
+    900,
+    900
+  ],
+  "eye-udyogi-ud49": [
+    900,
+    900
+  ],
+  "eye-udyogi-ultra-ergo": [
+    900,
+    900
+  ],
+  "eye-udyogi-ultra-over": [
+    900,
+    900
+  ],
+  "eye-udyogi-ultra-z": [
+    900,
+    900
+  ],
+  "eye-udyogi-ultraview": [
+    900,
+    900
+  ],
+  "fall-karam-pcwb02": [
+    900,
+    900
+  ],
+  "fall-karam-pn11": [
+    900,
+    900
+  ],
+  "fall-karam-pn112": [
+    900,
+    900
+  ],
+  "fall-karam-pn20": [
+    900,
+    900
+  ],
+  "fall-karam-pn205": [
+    900,
+    900
+  ],
+  "fall-karam-pn21": [
+    900,
+    900
+  ],
+  "fall-karam-pn22": [
+    900,
+    900
+  ],
+  "fall-karam-pn22fr": [
+    900,
+    900
+  ],
+  "fall-karam-pn241": [
+    900,
+    900
+  ],
+  "fall-karam-pn305": [
+    900,
+    900
+  ],
+  "fall-karam-pn325": [
+    900,
+    900
+  ],
+  "fall-karam-pn351n": [
+    900,
+    900
+  ],
+  "fall-karam-pn42": [
+    900,
+    900
+  ],
+  "fall-karam-pn803": [
+    900,
+    900
+  ],
+  "fall-karam-sa08": [
+    900,
+    900
+  ],
+  "fall-karam-slbl10": [
+    900,
+    900
+  ],
+  "fall-udyogi-eco1sha60": [
+    900,
+    900
+  ],
+  "fall-udyogi-edge-nano": [
+    900,
+    900
+  ],
+  "fall-udyogi-edge-nano-twin": [
+    900,
+    900
+  ],
+  "fall-udyogi-el22": [
+    900,
+    900
+  ],
+  "fall-udyogi-tango2shap60": [
+    900,
+    900
+  ],
+  "fall-udyogi-ub104": [
+    900,
+    900
+  ],
+  "fall-udyogi-ultra-05": [
+    900,
+    900
+  ],
+  "fire-omex-abc": [
+    475,
+    900
+  ],
+  "fire-omex-abc-powder": [
+    181,
+    241
+  ],
+  "fire-omex-cartridge": [
+    99,
+    261
+  ],
+  "fire-omex-clean-agent": [
+    523,
+    900
+  ],
+  "fire-omex-co2": [
+    170,
+    261
+  ],
+  "fire-omex-dcp": [
+    157,
+    261
+  ],
+  "fire-omex-foam": [
+    742,
+    900
+  ],
+  "fire-omex-hose": [
+    285,
+    212
+  ],
+  "fire-omex-hose-box": [
+    900,
+    857
+  ],
+  "fire-omex-hose-reel": [
+    447,
+    425
+  ],
+  "fire-omex-hydrant-valve": [
+    900,
+    750
+  ],
+  "fire-omex-kitchen": [
+    140,
+    261
+  ],
+  "fire-omex-modular": [
+    598,
+    900
+  ],
+  "fire-omex-modular-clean": [
+    174,
+    261
+  ],
+  "fire-omex-smoke-detector": [
+    576,
+    475
+  ],
+  "fire-omex-sprinkler": [
+    643,
+    900
+  ],
+  "fire-omex-trolley-abc": [
+    185,
+    261
+  ],
+  "fire-omex-trolley-co2": [
+    158,
+    261
+  ],
+  "fire-omex-trolley-foam": [
+    117,
+    261
+  ],
+  "fire-omex-trolley-water": [
+    123,
+    261
+  ],
+  "fire-omex-water": [
+    704,
+    900
+  ],
+  "glove-chemical": [
+    900,
+    900
+  ],
+  "glove-cut": [
+    900,
+    900
+  ],
+  "glove-dotted": [
+    900,
+    900
+  ],
+  "glove-electrical": [
+    900,
+    900
+  ],
+  "glove-heat": [
+    900,
+    900
+  ],
+  "glove-knitted": [
+    900,
+    900
+  ],
+  "glove-leather": [
+    900,
+    900
+  ],
+  "glove-nitrile-heavy": [
+    900,
+    900
+  ],
+  "glove-nitrile-palm": [
+    900,
+    900
+  ],
+  "glove-pu": [
+    900,
+    900
+  ],
+  "glove-welding": [
+    900,
+    900
+  ],
+  "helmet-karam-ft01": [
+    900,
+    900
+  ],
+  "helmet-karam-pn501": [
+    900,
+    900
+  ],
+  "helmet-karam-pn521": [
+    900,
+    900
+  ],
+  "helmet-karam-pn541": [
+    900,
+    900
+  ],
+  "helmet-karam-pn542": [
+    900,
+    900
+  ],
+  "helmet-karam-pn546": [
+    900,
+    900
+  ],
+  "helmet-karam-pn581t": [
+    900,
+    900
+  ],
+  "helmet-karam-pn595": [
+    900,
+    900
+  ],
+  "helmet-karam-pn629ac": [
+    900,
+    900
+  ],
+  "helmet-ladies": [
+    500,
+    500
+  ],
+  "helmet-mallcom-jasper-iii": [
+    900,
+    900
+  ],
+  "helmet-mallcom-jasper-xv": [
+    900,
+    900
+  ],
+  "helmet-mallcom-jasper-xvii": [
+    900,
+    900
+  ],
+  "helmet-mallcom-opal-xi": [
+    900,
+    900
+  ],
+  "helmet-mallcom-opal-xiii": [
+    900,
+    900
+  ],
+  "helmet-mallcom-prohat": [
+    900,
+    900
+  ],
+  "helmet-udyogi-2001": [
+    900,
+    900
+  ],
+  "helmet-udyogi-3001": [
+    900,
+    900
+  ],
+  "helmet-udyogi-4001": [
+    900,
+    900
+  ],
+  "helmet-udyogi-5001": [
+    900,
+    900
+  ],
+  "helmet-udyogi-6001": [
+    900,
+    900
+  ],
+  "helmet-udyogi-7001": [
+    900,
+    900
+  ],
+  "helmet-udyogi-electra": [
+    900,
+    900
+  ],
+  "helmet-udyogi-prithvi": [
+    900,
+    900
+  ],
+  "hero": [
+    362,
+    512
+  ],
+  "logo-acme": [
+    163,
+    70
+  ],
+  "logo-esab": [
+    72,
+    41
+  ],
+  "logo-footland": [
+    400,
+    106
+  ],
+  "logo-gbkore": [
+    360,
+    109
+  ],
+  "logo-karam": [
+    154,
+    74
+  ],
+  "logo-mallcom": [
+    300,
+    112
+  ],
+  "logo-omex": [
+    176,
+    124
+  ],
+  "resp-3m-8210v": [
+    900,
+    900
+  ],
+  "resp-karam-ft361p3plus": [
+    900,
+    900
+  ],
+  "resp-karam-ft391p2plus": [
+    900,
+    900
+  ],
+  "resp-karam-rf01": [
+    900,
+    900
+  ],
+  "resp-karam-rfh02plus": [
+    900,
+    900
+  ],
+  "resp-karam-rfh12plus": [
+    900,
+    900
+  ],
+  "resp-karam-rfh13plus": [
+    900,
+    900
+  ],
+  "resp-karam-rfh22plusov": [
+    900,
+    900
+  ],
+  "resp-karam-rfh32plusov": [
+    900,
+    900
+  ],
+  "resp-mallcom-l1102pv": [
+    900,
+    900
+  ],
+  "resp-mallcom-l1202pv": [
+    900,
+    900
+  ],
+  "resp-mallcom-l1203pv": [
+    900,
+    900
+  ],
+  "resp-mallcom-l2302pv": [
+    900,
+    900
+  ],
+  "resp-mallcom-m1202pv": [
+    900,
+    900
+  ],
+  "resp-udyogi-3001": [
+    900,
+    900
+  ],
+  "resp-udyogi-4200": [
+    900,
+    900
+  ],
+  "resp-udyogi-8101": [
+    900,
+    900
+  ],
+  "resp-udyogi-8103pr": [
+    900,
+    900
+  ],
+  "resp-udyogi-8104": [
+    900,
+    900
+  ],
+  "resp-udyogi-8106pr": [
+    900,
+    900
+  ],
+  "resp-udyogi-811": [
+    900,
+    900
+  ],
+  "resp-udyogi-8200": [
+    900,
+    900
+  ],
+  "resp-udyogi-8800": [
+    900,
+    900
+  ],
+  "resp-udyogi-9000": [
+    900,
+    900
+  ],
+  "resp-udyogi-9900": [
+    900,
+    900
+  ],
+  "shoe-acme-atom": [
+    900,
+    900
+  ],
+  "shoe-acme-storm": [
+    800,
+    800
+  ],
+  "shoe-acme-tusker": [
+    800,
+    800
+  ],
+  "shoe-footland-collar-boot": [
+    500,
+    500
+  ],
+  "shoe-footland-pilot-brown": [
+    500,
+    500
+  ],
+  "shoe-footland-pilot-grey": [
+    500,
+    500
+  ],
+  "shoe-footland-pilot-orange": [
+    500,
+    500
+  ],
+  "shoe-footland-rainwood": [
+    500,
+    500
+  ],
+  "shoe-footland-signature": [
+    500,
+    500
+  ],
+  "shoe-footland-sumo": [
+    500,
+    500
+  ],
+  "shoe-footland-v8": [
+    500,
+    500
+  ],
+  "shoe-footland-victor": [
+    500,
+    500
+  ],
+  "shoe-footland-yodha": [
+    500,
+    500
+  ],
+  "shoe-footland-z4": [
+    500,
+    500
+  ],
+  "shoe-mallcom-civet": [
+    900,
+    900
+  ],
+  "shoe-tiger-leopard": [
+    900,
+    900
+  ],
+  "shoe-tiger-lorex": [
+    900,
+    900
+  ],
+  "weld-ador-champ400x": [
+    900,
+    853
+  ],
+  "weld-ador-champmig300": [
+    231,
+    221
+  ],
+  "weld-ador-champtig300p": [
+    516,
+    538
+  ],
+  "weld-ador-hc600": [
+    900,
+    683
+  ],
+  "weld-ador-kingbond-s": [
+    855,
+    648
+  ],
+  "weld-ador-kingshield-auto": [
+    900,
+    900
+  ],
+  "weld-ador-kingshield-hand": [
+    900,
+    683
+  ],
+  "weld-ador-kingsword": [
+    900,
+    570
+  ],
+  "weld-ador-leathers": [
+    900,
+    683
+  ],
+  "weld-ador-supabase": [
+    855,
+    648
+  ],
+  "weld-ador-superbond": [
+    855,
+    648
+  ],
+  "weld-ador-superinox-1c": [
+    800,
+    593
+  ],
+  "weld-ador-superinox-2c": [
+    800,
+    593
+  ],
+  "weld-esab-arc400i": [
+    375,
+    375
+  ],
+  "weld-esab-es400i": [
+    550,
+    434
+  ],
+  "weld-esab-ok4600l": [
+    550,
+    458
+  ],
+  "weld-esab-ok5500l": [
+    550,
+    426
+  ],
+  "weld-esab-savage-a40": [
+    441,
+    550
+  ],
+  "weld-esab-swarm-a20": [
+    550,
+    550
+  ],
+  "weld-gbkore-arc400mos": [
+    482,
+    518
+  ],
+  "weld-gbkore-arc630ij": [
+    452,
+    551
+  ],
+  "weld-gbkore-cut120cp": [
+    454,
+    550
+  ],
+  "weld-gbkore-mig400ij": [
+    398,
+    416
+  ],
+  "weld-gbkore-mz1000": [
+    443,
+    563
+  ],
+  "weld-gbkore-tig200": [
+    479,
+    521
+  ],
+  "weld-gbkore-tig400ij": [
+    448,
+    557
+  ],
+  "weld-udyogi-gw250": [
+    900,
+    900
+  ],
+  "weld-udyogi-ultraview-ir": [
+    900,
+    900
+  ],
+  "work-karam-apron": [
+    900,
+    900
+  ],
+  "work-karam-leg-guard": [
+    900,
+    900
+  ],
+  "work-karam-pw1101": [
+    900,
+    900
+  ],
+  "work-karam-pw1201": [
+    900,
+    900
+  ],
+  "work-karam-pw2101": [
+    900,
+    900
+  ],
+  "work-karam-pwifr": [
+    900,
+    900
+  ],
+  "work-mallcom-copenhagen": [
+    900,
+    900
+  ],
+  "work-mallcom-firamid": [
+    900,
+    900
+  ],
+  "work-mallcom-floriad": [
+    900,
+    900
+  ],
+  "work-mallcom-jb8ay": [
+    900,
+    900
+  ],
+  "work-mallcom-k382": [
+    900,
+    900
+  ],
+  "work-mallcom-paris": [
+    900,
+    900
+  ],
+  "work-mallcom-pretoria": [
+    900,
+    900
+  ],
+  "work-mallcom-stratus": [
+    900,
+    900
+  ],
+  "work-mallcom-vest-glo": [
+    900,
+    900
+  ],
+  "work-udyogi-arc12": [
+    900,
+    900
+  ],
+  "work-udyogi-arc8": [
+    900,
+    900
+  ],
+  "work-udyogi-ifr150": [
+    900,
+    900
+  ]
+}
