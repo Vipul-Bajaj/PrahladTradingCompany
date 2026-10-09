@@ -1,5 +1,5 @@
 {
-  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos (retailer listings; Acme's Indian site couldn't be reached) and the generic ladies' helmet photo (supplier listing). 3M photos are from multimedia.3m.com.",
+  "_note": "Logos and product photos, downloaded once by fetch-media.mjs and committed under web/public/media. Sources are the manufacturers' own websites, except the Acme Atom, Storm and Tusker photos (retailer listings; Acme's Indian site couldn't be reached) and the generic ladies' helmet photo (supplier listing). 3M photos are from multimedia.3m.com; ESAB photos from ESAB\u2019s product image CDN; GB-Kore photos from its CMS asset host.",
   "items": [
     {
       "id": "logo-acme",
@@ -993,6 +993,189 @@
       "id": "work-mallcom-jb8ay",
       "candidates": [
         "https://cdn.shopify.com/s/files/1/0606/6821/5434/files/DEVB6138whitewithbluelinesfront_1000x1000_d57728fa-9f90-4967-b263-7c45cafa7c3f.jpg?v=1746789213"
+      ]
+    },
+    {
+      "id": "weld-ador-superbond",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/New-Images-Consumabes-10-23.png",
+        "https://adorwelding.com/wp-content/uploads/2024/11/New-Images-Consumabes-09-14.png"
+      ]
+    },
+    {
+      "id": "weld-ador-kingbond-s",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/New-Images-Consumabes-10-8.png",
+        "https://adorwelding.com/wp-content/uploads/2024/11/New-Images-Consumabes-thumb-09.png"
+      ]
+    },
+    {
+      "id": "weld-ador-supabase",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/New-Images-Consumabes-10-16.png",
+        "https://adorwelding.com/wp-content/uploads/2024/11/New-Images-Consumabes-09-7.png"
+      ]
+    },
+    {
+      "id": "weld-ador-superinox-1c",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/Ador-Stainless-Steel-31.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/Ador-Stainless-Steel-30.jpg"
+      ]
+    },
+    {
+      "id": "weld-ador-superinox-2c",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/Ador-Stainless-Steel-37.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/Ador-Stainless-Steel-36.jpg"
+      ]
+    },
+    {
+      "id": "weld-esab-ok4600l",
+      "candidates": [
+        "https://d363suj4pdptk4.cloudfront.net/externalApps/c7efbbab-3f6a-497d-9dae-cbb24f5f4774/conversion/PIM/assets/141788"
+      ]
+    },
+    {
+      "id": "weld-esab-ok5500l",
+      "candidates": [
+        "https://d24otazn342w10.cloudfront.net/externalApps/c7efbbab-3f6a-497d-9dae-cbb24f5f4774/conversion/PIM/assets/156187"
+      ]
+    },
+    {
+      "id": "weld-ador-hc600",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/main_HC-600-2.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/Thumb__HC-600.jpg"
+      ]
+    },
+    {
+      "id": "weld-ador-kingsword",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/Holder-King-Sword-600-scaled-2.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/Holder-King-Sword-600-scaled-1.jpg"
+      ]
+    },
+    {
+      "id": "weld-ador-kingshield-auto",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/KING-SHEILD-AUTO-scaled-2.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/KING-SHEILD-AUTO-scaled-1.jpg"
+      ]
+    },
+    {
+      "id": "weld-ador-kingshield-hand",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/main_KING-SHEILD-HAND.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/Thumb__KING-SHEILD-HAND.jpg"
+      ]
+    },
+    {
+      "id": "weld-esab-savage-a40",
+      "candidates": [
+        "https://d363suj4pdptk4.cloudfront.net/externalApps/c7efbbab-3f6a-497d-9dae-cbb24f5f4774/conversion/PIM/assets/23484"
+      ]
+    },
+    {
+      "id": "weld-esab-swarm-a20",
+      "candidates": [
+        "https://d363suj4pdptk4.cloudfront.net/externalApps/c7efbbab-3f6a-497d-9dae-cbb24f5f4774/conversion/PIM/assets/130475"
+      ]
+    },
+    {
+      "id": "weld-udyogi-ultraview-ir",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/NC7LP20a16502-00be-45e5-8f15-972f2fe08fce.webp",
+        "https://assets.udyogisafety.com/uploads/products/RX9lJ47519c51-d033-44e8-9276-57fcdb2b0348.webp"
+      ]
+    },
+    {
+      "id": "weld-udyogi-gw250",
+      "candidates": [
+        "https://assets.udyogisafety.com/uploads/products/pX3Wc3eb3dd52-2a33-438e-8d45-d3d2a1807eca.webp",
+        "https://assets.udyogisafety.com/uploads/products/tqEpW981cd075-b3e2-4d71-8b04-e0fae31285f7.webp"
+      ]
+    },
+    {
+      "id": "weld-ador-leathers",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/main_KING-LEG-GUARD.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/main_KING-SLEEVE-GUARD.jpg"
+      ]
+    },
+    {
+      "id": "weld-ador-champ400x",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/1215-scaled-2.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/1216-scaled-2.jpg"
+      ]
+    },
+    {
+      "id": "weld-ador-champtig300p",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2025/02/1973349430.png",
+        "https://adorwelding.com/wp-content/uploads/2025/02/A_6127768-scaled-1.jpg"
+      ]
+    },
+    {
+      "id": "weld-ador-champmig300",
+      "candidates": [
+        "https://adorwelding.com/wp-content/uploads/2024/11/ChampMig_300-1.jpg",
+        "https://adorwelding.com/wp-content/uploads/2024/11/ChampMig_300.jpg"
+      ]
+    },
+    {
+      "id": "weld-esab-arc400i",
+      "candidates": [
+        "https://assets.esab.com/assetbank-esab/servlet/file?contentDispositionFilename=mut3303545375776200716.jpg&signature=79474752684f3850714c365a46586c7867462b63624578676c64435446624f316e326a664d59425355743259617352524a694e6452632f3631567a3335436f6f78736e73707631314c643979706f38544b535354747172506e3864496f326474533030712b59422f4f6b673d&contentDisposition=inline&contentIdentifier=0c3/NpeRH8LjdmS2HuGS2nCea2vstYf4.jpg&contentStoreIdentifier=4"
+      ]
+    },
+    {
+      "id": "weld-esab-es400i",
+      "candidates": [
+        "https://d363suj4pdptk4.cloudfront.net/externalApps/c7efbbab-3f6a-497d-9dae-cbb24f5f4774/conversion/PIM/assets/139373"
+      ]
+    },
+    {
+      "id": "weld-gbkore-arc400mos",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/dad694c7-67be-4087-854e-a0f8eed62f78"
+      ]
+    },
+    {
+      "id": "weld-gbkore-arc630ij",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/09df2fb4-ca2a-470a-bf2a-cdbda15fd8d2"
+      ]
+    },
+    {
+      "id": "weld-gbkore-tig200",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/213e9a71-b1c9-444f-a5ab-797c949e0bb5"
+      ]
+    },
+    {
+      "id": "weld-gbkore-tig400ij",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/227f78d2-d1ce-4bb8-acd3-0190d57c286a"
+      ]
+    },
+    {
+      "id": "weld-gbkore-mig400ij",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/139a5045-4fd7-4ff2-891b-91c3c7bf60f6"
+      ]
+    },
+    {
+      "id": "weld-gbkore-mz1000",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/6398b36a-dae9-4f7c-a54a-892c0e4bab49"
+      ]
+    },
+    {
+      "id": "weld-gbkore-cut120cp",
+      "candidates": [
+        "https://squidex.pritam.pp.ua/api/assets/gbkore-products-website/ff23fe21-f477-4012-a99e-322169fb3c78"
       ]
     }
   ]

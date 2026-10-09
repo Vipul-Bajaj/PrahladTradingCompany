@@ -68,7 +68,7 @@ export const brands = [
   },
 ];
 
-const otherBrandNames = { '3m': '3M' };
+const otherBrandNames = { '3m': '3M', ador: 'Ador', esab: 'ESAB', gbkore: 'GB-Kore' };
 export const brandName = (id) => brands.find((b) => b.id === id)?.name ?? otherBrandNames[id] ?? id;
 
 export const categories = [
@@ -124,11 +124,13 @@ export const categories = [
   },
   {
     id: 'welding',
-    name: 'Welding protection',
-    summary: 'Face shields and leather protection for welding and grinding.',
-    items: ['Welding helmets and hand shields', 'Grinding face shields', 'Leather welding gloves', 'Leather aprons, sleeves and leg guards'],
-    brands: ['udyogi', 'karam'],
+    name: 'Welding products',
+    summary: 'Electrodes, electrode holders, welding helmets and goggles, and welding and cutting machines.',
+    items: ['Mild steel and stainless steel electrodes', 'Electrode holders', 'Auto-darkening helmets and hand shields', 'Welding goggles', 'Stick, TIG, MIG and SAW machines', 'Plasma cutters'],
+    brands: ['ador', 'esab', 'gbkore'],
     media: 'cat-welding',
+    page: '/products/welding/',
+    pageLabel: 'See products and specs',
   },
   {
     id: 'respiratory',
