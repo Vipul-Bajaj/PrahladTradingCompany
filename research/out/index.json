@@ -1,45 +1,28 @@
 [
   {
-    "url": "https://esab.com/in/",
-    "final": "https://esab.com/in/",
-    "status": 403,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 4543
-  },
-  {
-    "url": "https://www.esabindia.com/",
-    "final": "https://esabindia.com/in/ind_en/",
-    "status": 200,
-    "type": "text/html;charset=UTF-8",
-    "bytes": 267759
-  },
-  {
-    "url": "https://gbkore.com/",
-    "final": "https://www.gbkore.com/",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 124265
-  },
-  {
-    "url": "https://www.gbkore.com/",
-    "final": "https://www.gbkore.com/",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 125349
-  },
-  {
-    "url": "https://www.3mindia.in/3M/en_IN/company-in/",
+    "url": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
     "error": "TimeoutError: The operation was aborted due to timeout "
   },
   {
-    "url": "https://www.3m.com/",
+    "url": "https://www.3mindia.in/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
     "error": "TimeoutError: The operation was aborted due to timeout "
   },
   {
-    "url": "https://adorwelding.com/",
-    "final": "https://adorwelding.com/",
+    "url": "https://www.3mindia.in/3M/en_IN/p/d/v000057431/",
+    "error": "TimeoutError: The operation was aborted due to timeout "
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/3M_wordmark.svg/512px-3M_wordmark.svg.png",
+    "final": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/3M_wordmark.svg/512px-3M_wordmark.svg.png",
+    "status": 400,
+    "type": "text/html; charset=utf-8",
+    "bytes": 2008
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:3M_wordmark.svg",
+    "final": "https://commons.wikimedia.org/wiki/File:3M_wordmark.svg",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 151822
+    "bytes": 112257
   }
 ]
