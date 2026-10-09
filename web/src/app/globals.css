@@ -137,20 +137,6 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
   .hero__img { aspect-ratio: 4 / 5; border-radius: var(--radius) var(--radius) 0 0; }
 }
 
-/* Logo strip */
-.logo-strip { border-bottom: 1px solid var(--line); background: var(--white); }
-.logo-strip__list {
-  display: grid; grid-template-columns: repeat(3, 1fr);
-  align-items: center; gap: 18px 24px; padding-block: 22px;
-}
-.logo-strip__item { display: flex; justify-content: center; align-items: center; min-height: 44px; }
-.logo-strip__img { max-height: 40px; max-width: 120px; width: auto; height: auto; object-fit: contain; }
-
-@media (min-width: 640px) {
-  .logo-strip__list { grid-template-columns: repeat(6, 1fr); padding-block: 28px; }
-  .logo-strip__img { max-height: 46px; max-width: 150px; }
-}
-
 .logo-fallback { font-weight: 800; font-stretch: 112%; color: var(--steel); font-size: 1rem; text-align: center; }
 
 /* Sections */

@@ -7,17 +7,17 @@ function Hero() {
     <section className="hero" id="top">
       <div className="wrap hero__grid">
         <div className="hero__copy">
-          <h1 className="hero__title">Safety equipment for Raipur’s plants and work sites.</h1>
+          <h1 className="hero__title">Industrial safety equipment, supplied from Raipur.</h1>
           <p className="hero__lede">
-            Helmets, safety shoes, gloves, respirators, harnesses and fire extinguishers from Acme, Karam, Udyogi, Mallcom, Footland and Omex.
-            Supplying Raipur’s industry for {company.years} years.
+            Personal protective equipment, welding supplies and fire safety products from leading brands. Serving
+            industry in Raipur for over {company.years.replace('+', '')} years.
           </p>
           <div className="hero__actions">
             <a className="btn btn--solid" href={company.phoneHref}>
               <PhoneIcon /> Call {company.phoneDisplay}
             </a>
             <a className="btn btn--line" href={enquiryMailto('Requirement for safety equipment')}>
-              Email your requirement
+              Email an enquiry
             </a>
           </div>
           <p className="hero__hours">Open {company.hoursShort}</p>
@@ -36,34 +36,15 @@ function Hero() {
   );
 }
 
-function LogoStrip() {
-  return (
-    <section className="logo-strip" aria-label="Brands we deal in">
-      <ul className="wrap logo-strip__list">
-        {brands.filter((b) => b.featured).map((b) => (
-          <li key={b.id} className="logo-strip__item">
-            <Media
-              id={b.logo}
-              alt={`${b.name} logo`}
-              className="logo-strip__img"
-              fallback={<span className="logo-fallback">{b.name}</span>}
-            />
-          </li>
-        ))}
-      </ul>
-    </section>
-  );
-}
-
 function Products() {
   return (
     <section className="section" id="products" aria-labelledby="products-title">
       <div className="wrap">
         <div className="section__head">
-          <h2 id="products-title">What we stock</h2>
+          <h2 id="products-title">Our products</h2>
           <p>
-            Ten kinds of protective equipment, in the sizes and quantities a plant or site needs. Open any category to
-            see what’s in it.
+            Protective equipment, welding supplies and fire safety products, in the sizes and quantities your site
+            requires. Select a category to view models and specifications.
           </p>
         </div>
         <ul className="catalogue">
@@ -122,6 +103,8 @@ function Products() {
   );
 }
 
+const listNames = (list) => list.map((b) => b.name).join(', ').replace(/, ([^,]*)$/, ' and $1');
+
 function BrandCard({ b }) {
   const authorized = b.relationship === 'authorized';
   return (
@@ -146,14 +129,14 @@ function Brands() {
     <section className="section section--grey" id="brands" aria-labelledby="brands-title">
       <div className="wrap">
         <div className="section__head">
-          <h2 id="brands-title">Brands we deal in</h2>
+          <h2 id="brands-title">Our brands</h2>
           <p>
-            Authorized dealer for {brands.filter((b) => b.relationship === 'authorized').map((b) => b.name).join(', ').replace(/, ([^,]*)$/, ' and $1')}.
-            Genuine products from the other brands, bought through their distribution network.
+            Authorized dealer for {listNames(brands.filter((b) => b.relationship === 'authorized'))}. We also supply
+            genuine products from {listNames(brands.filter((b) => b.relationship !== 'authorized'))}.
           </p>
         </div>
       </div>
-      <div className="marquee" role="region" aria-label="Brands we deal in" tabIndex={0}>
+      <div className="marquee" role="region" aria-label="Our brands" tabIndex={0}>
         <div className="marquee__track">
           <ul className="marquee__group">
             {brands.map((b) => (
@@ -177,16 +160,16 @@ function Brands() {
 
 function HowToOrder() {
   const steps = [
-    ['Send your list', 'Call us, or email the items, sizes and quantities you need.'],
-    ['Get a quotation', 'We confirm what’s in stock and send you prices.'],
-    ['Confirm and collect', 'Confirm the order and we keep it ready for you.'],
+    ['Share your requirement', 'Call, WhatsApp or email us the items, sizes and quantities you need.'],
+    ['Receive a quotation', 'We confirm availability and send you our prices.'],
+    ['Confirm your order', 'Once you confirm, we keep your order ready for collection.'],
   ];
   return (
     <section className="section" id="order" aria-labelledby="order-title">
       <div className="wrap order">
         <div className="section__head">
-          <h2 id="order-title">Ordering for a plant or site</h2>
-          <p>Bulk and repeat orders are most of our work. Send one list for the whole crew.</p>
+          <h2 id="order-title">How to order</h2>
+          <p>We handle bulk and repeat orders for plants, contractors and work sites.</p>
         </div>
         <ol className="steps">
           {steps.map(([t, d]) => (
@@ -206,8 +189,8 @@ function Contact() {
     <section className="contact" id="contact" aria-labelledby="contact-title">
       <div className="wrap contact__grid">
         <div>
-          <h2 id="contact-title">Talk to us</h2>
-          <p className="contact__lede">Ask for {company.owner}.</p>
+          <h2 id="contact-title">Contact us</h2>
+          <p className="contact__lede">Speak to {company.owner} for prices, availability and bulk orders.</p>
           <div className="hero__actions">
             <a className="btn btn--solid" href={company.phoneHref}>
               <PhoneIcon /> Call {company.phoneDisplay}
@@ -253,7 +236,6 @@ export default function HomePage() {
       <Header />
       <main>
         <Hero />
-        <LogoStrip />
         <Products />
         <Brands />
         <HowToOrder />
