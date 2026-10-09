@@ -1,5 +1,5 @@
-// Static export for GitHub Pages. In CI, NEXT_PUBLIC_BASE_PATH is set to
-// "/PrahladTradingCompany" so links and assets resolve under the repo path.
+// Static export for GitHub Pages, served from the root of prahladtrading.com.
+// Set NEXT_PUBLIC_BASE_PATH only if the site is ever hosted under a sub-path.
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 /** @type {import('next').NextConfig} */

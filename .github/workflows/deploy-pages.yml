@@ -53,18 +53,19 @@ jobs:
           node-version: 20
       - name: Install
         run: npm install --no-audit --no-fund
+      # The site is served from the root of the custom domain (prahladtrading.com),
+      # so it is built without a base path.
       - name: Build
         run: npm run build
-        env:
-          NEXT_PUBLIC_BASE_PATH: /PrahladTradingCompany
       - name: Keep the previous HTML versions reachable
         run: |
           mkdir -p out/old
-          cp ../index.html out/old/index.html
-          cp ../index_v2.html out/old/index_v2.html
+          sed 's#/PrahladTradingCompany/assets/#/assets/#g' ../index.html > out/old/index.html
+          sed 's#/PrahladTradingCompany/assets/#/assets/#g' ../index_v2.html > out/old/index_v2.html
           cp -r ../assets out/old/assets
           cp -r ../assets out/assets
           touch out/.nojekyll
+          echo "prahladtrading.com" > out/CNAME
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web/out
