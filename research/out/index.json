@@ -1,653 +1,79 @@
 [
   {
-    "url": "https://www.karam.in/products/respiratory-protection",
-    "final": "https://www.karam.in/products/respiratory-protection",
+    "url": "https://www.mallcom.in/collections/respiratory-protection/products.json?limit=250",
+    "final": "https://www.mallcom.in/collections/respiratory-protection/products.json?limit=250",
     "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 75146
-  },
-  {
-    "url": "https://udyogisafety.com/products-subcategories/half-face-masks",
-    "final": "https://udyogisafety.com/products-subcategories/half-face-masks",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 92280
-  },
-  {
-    "url": "https://udyogisafety.com/products-subcategories/full-face-masks",
-    "final": "https://udyogisafety.com/products-subcategories/full-face-masks",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 87481
-  },
-  {
-    "url": "https://udyogisafety.com/products-subcategories/particulate-filters",
-    "final": "https://udyogisafety.com/products-subcategories/particulate-filters",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 105160
-  },
-  {
-    "url": "https://udyogisafety.com/products-subcategories/gas-vapour-filters",
-    "final": "https://udyogisafety.com/products-subcategories/gas-vapour-filters",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 91153
-  },
-  {
-    "url": "https://udyogisafety.com/products-subcategories/dust-gas-vapour-filters",
-    "final": "https://udyogisafety.com/products-subcategories/dust-gas-vapour-filters",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 87576
-  },
-  {
-    "url": "https://www.omex.co.in/products",
-    "final": "https://www.omex.co.in/products",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 37295
-  },
-  {
-    "url": "https://www.omex.co.in/category",
-    "final": "https://www.omex.co.in/category",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 25256
-  },
-  {
-    "url": "https://www.omex.co.in/",
-    "final": "https://www.omex.co.in/",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 56956
-  },
-  {
-    "url": "https://www.karam.in/products/about-us",
-    "final": "https://www.karam.in/products/about-us",
-    "status": 404,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 74682
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1s-disposable-face-respirator-ear-loops-RF01",
-    "final": "https://www.karam.in/product/ffp1s-disposable-face-respirator-ear-loops-RF01",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50220
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1s-disposable-face-respirator-ear-loops-and-exhalation-valve-RF01-plus",
-    "final": "https://www.karam.in/product/ffp1s-disposable-face-respirator-ear-loops-and-exhalation-valve-RF01-plus",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50812
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1s-disposable-face-respirator-headbands-RFH01",
-    "final": "https://www.karam.in/product/ffp1s-disposable-face-respirator-headbands-RFH01",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50152
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1s-disposable-face-respirator-headbands-and-exhalation-valve-RFH01-plus",
-    "final": "https://www.karam.in/product/ffp1s-disposable-face-respirator-headbands-and-exhalation-valve-RFH01-plus",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50785
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1s-disposable-face-respirator-headbands-having-adjuster-RFH10",
-    "final": "https://www.karam.in/product/ffp1s-disposable-face-respirator-headbands-having-adjuster-RFH10",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50398
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2s-disposable-face-respirator-ear-loops-RF02",
-    "final": "https://www.karam.in/product/ffp2s-disposable-face-respirator-ear-loops-RF02",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50079
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2s-disposable-face-respirator-ear-loops-and-exhalation-valve-RF02-plus",
-    "final": "https://www.karam.in/product/ffp2s-disposable-face-respirator-ear-loops-and-exhalation-valve-RF02-plus",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50659
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2s-disposable-face-respirator-headbands-RFH02",
-    "final": "https://www.karam.in/product/ffp2s-disposable-face-respirator-headbands-RFH02",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50003
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2s-disposable-face-respirator-headbands-and-exhalation-valve-RFH02-plus",
-    "final": "https://www.karam.in/product/ffp2s-disposable-face-respirator-headbands-and-exhalation-valve-RFH02-plus",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50654
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2s-disposable-face-respirator-headbands-having-adjuster-RFH20",
-    "final": "https://www.karam.in/product/ffp2s-disposable-face-respirator-headbands-having-adjuster-RFH20",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50528
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1-sl-nr-d-disposable-face-respirator-nose-padding-and-headbands-having-adjuster-RFH11",
-    "final": "https://www.karam.in/product/ffp1-sl-nr-d-disposable-face-respirator-nose-padding-and-headbands-having-adjuster-RFH11",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 51364
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1-sl-nr-d-disposable-face-respirator-nose-padding-headbands-having-adjuster-and-RFH11-plus",
-    "final": "https://www.karam.in/product/ffp1-sl-nr-d-disposable-face-respirator-nose-padding-headbands-having-adjuster-and-RFH11-plus",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 51965
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-sl-nr-d-disposable-face-respirator-nose-padding-and-headbands-having-adjuster-RFH12",
-    "final": "https://www.karam.in/product/ffp2-sl-nr-d-disposable-face-respirator-nose-padding-and-headbands-having-adjuster-RFH12",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 51873
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-sl-nr-d-disposable-face-respirator-exhalation-valve-nose-padding-and-headbands-having-RFH12-plus",
-    "final": "https://www.karam.in/product/ffp2-sl-nr-d-disposable-face-respirator-exhalation-valve-nose-padding-and-headbands-having-RFH12-plus",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 51973
-  },
-  {
-    "url": "https://www.karam.in/product/ffp3-sl-nr-d-disposable-face-respirator-exhalation-valve-nose-padding-and-headbands-having-RFH13-plus",
-    "final": "https://www.karam.in/product/ffp3-sl-nr-d-disposable-face-respirator-exhalation-valve-nose-padding-and-headbands-having-RFH13-plus",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 51954
-  },
-  {
-    "url": "https://www.karam.in/product/surgical-3-ply-mask-ear-loops-RFM50",
-    "final": "https://www.karam.in/product/surgical-3-ply-mask-ear-loops-RFM50",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48177
-  },
-  {
-    "url": "https://www.karam.in/product/surgical-3-ply-mask-tieback-straps-RFM51",
-    "final": "https://www.karam.in/product/surgical-3-ply-mask-tieback-straps-RFM51",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48456
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1-s-disposable-flat-fold-respirator-head-strap",
-    "final": "https://www.karam.in/product/ffp1-s-disposable-flat-fold-respirator-head-strap",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 49987
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-sl-disposable-flat-fold-respirator-head-strap",
-    "final": "https://www.karam.in/product/ffp2-sl-disposable-flat-fold-respirator-head-strap",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48961
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1-s-disposable-flat-fold-respirator-head-strap-0",
-    "final": "https://www.karam.in/product/ffp1-s-disposable-flat-fold-respirator-head-strap-0",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 49741
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1-s-disposable-flat-fold-respirator-head-strap-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp1-s-disposable-flat-fold-respirator-head-strap-and-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50465
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-sl-disposable-welding-flat-fold-respirator-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp2-sl-disposable-welding-flat-fold-respirator-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 49307
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1-nr-d-disposable-fish-type-respirator-headband-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp1-nr-d-disposable-fish-type-respirator-headband-and-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48727
-  },
-  {
-    "url": "https://www.karam.in/product/ffp1-nr-d-disposable-fish-type-respirator-without-valve",
-    "final": "https://www.karam.in/product/ffp1-nr-d-disposable-fish-type-respirator-without-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48352
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-nr-d-disposable-fish-type-respirator-headband-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp2-nr-d-disposable-fish-type-respirator-headband-and-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 49116
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-nr-d-disposable-fish-type-respirator-without-valve",
-    "final": "https://www.karam.in/product/ffp2-nr-d-disposable-fish-type-respirator-without-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48723
-  },
-  {
-    "url": "https://www.karam.in/product/ffp3-nr-d-disposable-fish-type-respirator-headband-and-exhalation",
-    "final": "https://www.karam.in/product/ffp3-nr-d-disposable-fish-type-respirator-headband-and-exhalation",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48762
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-nr-d-disposable-welding-respirator-headband-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp2-nr-d-disposable-welding-respirator-headband-and-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 46095
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-nr-d-disposable-painting-respirator-headband-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp2-nr-d-disposable-painting-respirator-headband-and-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 47100
-  },
-  {
-    "url": "https://www.karam.in/product/ffp3-sl-disposable-flat-fold-respirator-head-strap-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp3-sl-disposable-flat-fold-respirator-head-strap-and-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 50573
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-sl-disposable-cup-shape-respirator-head-strap-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp2-sl-disposable-cup-shape-respirator-head-strap-and-exhalation-valve",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 49334
+    "type": "application/json; charset=utf-8",
+    "bytes": 15
   },
   {
-    "url": "https://www.karam.in/product/ffp3-sl-disposable-cup-shape-respirator-head-strap-and-exhalation-valve",
-    "final": "https://www.karam.in/product/ffp3-sl-disposable-cup-shape-respirator-head-strap-and-exhalation-valve",
+    "url": "https://www.mallcom.in/products.json?limit=250",
+    "final": "https://www.mallcom.in/products.json?limit=250",
     "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 49150
-  },
-  {
-    "url": "https://www.karam.in/product/3-ply-surgical-mask",
-    "final": "https://www.karam.in/product/3-ply-surgical-mask",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48069
-  },
-  {
-    "url": "https://www.karam.in/product/ffp2-sl-nr-d-disposable-ov-respirator",
-    "final": "https://www.karam.in/product/ffp2-sl-nr-d-disposable-ov-respirator",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 48459
-  },
-  {
-    "url": "https://udyogisafety.com/products/9000-half-face-mask",
-    "final": "https://udyogisafety.com/products/9000-half-face-mask",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 161238
-  },
-  {
-    "url": "https://udyogisafety.com/products/8200-half-face-mask",
-    "final": "https://udyogisafety.com/products/8200-half-face-mask",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 157560
-  },
-  {
-    "url": "https://udyogisafety.com/products/4200",
-    "final": "https://udyogisafety.com/products/4200",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 157189
-  },
-  {
-    "url": "https://udyogisafety.com/products/8800",
-    "final": "https://udyogisafety.com/products/8800",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 153740
-  },
-  {
-    "url": "https://udyogisafety.com/products/9900",
-    "final": "https://udyogisafety.com/products/9900",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 154509
-  },
-  {
-    "url": "https://udyogisafety.com/products/3001-p3-ov",
-    "final": "https://udyogisafety.com/products/3001-p3-ov",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 152621
-  },
-  {
-    "url": "https://udyogisafety.com/products/3003-p3-ag",
-    "final": "https://udyogisafety.com/products/3003-p3-ag",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 135721
-  },
-  {
-    "url": "https://udyogisafety.com/products/3005-p3",
-    "final": "https://udyogisafety.com/products/3005-p3",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 146806
-  },
-  {
-    "url": "https://udyogisafety.com/products/811",
-    "final": "https://udyogisafety.com/products/811",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 155721
-  },
-  {
-    "url": "https://udyogisafety.com/products/810",
-    "final": "https://udyogisafety.com/products/810",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 126750
-  },
-  {
-    "url": "https://udyogisafety.com/products/4n11",
-    "final": "https://udyogisafety.com/products/4n11",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 96542
-  },
-  {
-    "url": "https://udyogisafety.com/products/8101",
-    "final": "https://udyogisafety.com/products/8101",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 126727
-  },
-  {
-    "url": "https://udyogisafety.com/products/8103",
-    "final": "https://udyogisafety.com/products/8103",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 125354
-  },
-  {
-    "url": "https://udyogisafety.com/products/8104",
-    "final": "https://udyogisafety.com/products/8104",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 146206
-  },
-  {
-    "url": "https://udyogisafety.com/products/8103pr",
-    "final": "https://udyogisafety.com/products/8103pr",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 111381
-  },
-  {
-    "url": "https://udyogisafety.com/products/8106pr",
-    "final": "https://udyogisafety.com/products/8106pr",
-    "status": 200,
-    "type": "text/html; charset=utf-8",
-    "bytes": 107582
-  },
-  {
-    "url": "https://www.omex.co.in/category/113/portable-fire-extinguishers-is15683",
-    "final": "https://www.omex.co.in/category/113/portable-fire-extinguishers-is15683",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 26287
-  },
-  {
-    "url": "https://www.omex.co.in/category/118/trolley-mounted-fire-extinguishers",
-    "final": "https://www.omex.co.in/category/118/trolley-mounted-fire-extinguishers",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21156
-  },
-  {
-    "url": "https://www.omex.co.in/category/116/fire-hydrant-system",
-    "final": "https://www.omex.co.in/category/116/fire-hydrant-system",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 25045
-  },
-  {
-    "url": "https://www.omex.co.in/category/117/fire-fighting-hoses",
-    "final": "https://www.omex.co.in/category/117/fire-fighting-hoses",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21765
-  },
-  {
-    "url": "https://www.omex.co.in/category/103/sprinklers",
-    "final": "https://www.omex.co.in/category/103/sprinklers",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21533
+    "type": "application/json; charset=utf-8",
+    "bytes": 1487346
   },
   {
-    "url": "https://www.omex.co.in/category/115/monitors",
-    "final": "https://www.omex.co.in/category/115/monitors",
+    "url": "https://www.mallcom.in/products.json?limit=250&page=2",
+    "final": "https://www.mallcom.in/products.json?limit=250&page=2",
     "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21771
-  },
-  {
-    "url": "https://www.omex.co.in/category/45/wet-alarm-system",
-    "final": "https://www.omex.co.in/category/45/wet-alarm-system",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 22945
-  },
-  {
-    "url": "https://www.omex.co.in/category/91/refills",
-    "final": "https://www.omex.co.in/category/91/refills",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 24073
-  },
-  {
-    "url": "https://www.omex.co.in/products/searchproduct",
-    "final": "https://www.omex.co.in/products/searchproduct",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 9364
-  },
-  {
-    "url": "https://www.omex.co.in/products/37/detail/four-way",
-    "final": "https://www.omex.co.in/products/37/detail/four-way",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 20771
-  },
-  {
-    "url": "https://www.omex.co.in/products/38/detail/three-way",
-    "final": "https://www.omex.co.in/products/38/detail/three-way",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 20305
-  },
-  {
-    "url": "https://www.omex.co.in/products/39/detail/abc-powder",
-    "final": "https://www.omex.co.in/products/39/detail/abc-powder",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 18720
-  },
-  {
-    "url": "https://www.omex.co.in/products/40/detail/abc-1-kg",
-    "final": "https://www.omex.co.in/products/40/detail/abc-1-kg",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 19489
-  },
-  {
-    "url": "https://www.omex.co.in/products/41/detail/abc-2-kg",
-    "final": "https://www.omex.co.in/products/41/detail/abc-2-kg",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 19423
-  },
-  {
-    "url": "https://www.omex.co.in/products/42/detail/abc-4-kg",
-    "final": "https://www.omex.co.in/products/42/detail/abc-4-kg",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 19947
-  },
-  {
-    "url": "https://www.omex.co.in/products/43/detail/abc-6-kg",
-    "final": "https://www.omex.co.in/products/43/detail/abc-6-kg",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 20347
-  },
-  {
-    "url": "https://www.omex.co.in/products/49/detail/co2-22.5-kg",
-    "final": "https://www.omex.co.in/products/49/detail/co2-22.5-kg",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21156
-  },
-  {
-    "url": "https://www.omex.co.in/products/50/detail/water-monitor",
-    "final": "https://www.omex.co.in/products/50/detail/water-monitor",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 20372
-  },
-  {
-    "url": "https://www.omex.co.in/products/51/detail/smoke-detector",
-    "final": "https://www.omex.co.in/products/51/detail/smoke-detector",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 19227
-  },
-  {
-    "url": "https://www.omex.co.in/products/52/detail/pendent",
-    "final": "https://www.omex.co.in/products/52/detail/pendent",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21385
-  },
-  {
-    "url": "https://www.omex.co.in/products/53/detail/sidewall",
-    "final": "https://www.omex.co.in/products/53/detail/sidewall",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21424
-  },
-  {
-    "url": "https://www.omex.co.in/products/54/detail/upright",
-    "final": "https://www.omex.co.in/products/54/detail/upright",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21417
-  },
-  {
-    "url": "https://www.omex.co.in/products/55/detail/concealed",
-    "final": "https://www.omex.co.in/products/55/detail/concealed",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 21932
-  },
-  {
-    "url": "https://www.omex.co.in/products/56/detail/singal-way-hydrant-valve-ss",
-    "final": "https://www.omex.co.in/products/56/detail/singal-way-hydrant-valve-ss",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 18761
+    "type": "application/json; charset=utf-8",
+    "bytes": 1744928
   },
   {
-    "url": "https://www.omex.co.in/products/57/detail/hose-box",
-    "final": "https://www.omex.co.in/products/57/detail/hose-box",
+    "url": "https://www.mallcom.in/products.json?limit=250&page=3",
+    "final": "https://www.mallcom.in/products.json?limit=250&page=3",
     "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 18903
-  },
-  {
-    "url": "https://www.omex.co.in/products/58/detail/hose-box",
-    "final": "https://www.omex.co.in/products/58/detail/hose-box",
-    "status": 200,
-    "type": "text/html; charset=UTF-8",
-    "bytes": 18763
+    "type": "application/json; charset=utf-8",
+    "bytes": 840911
   },
   {
-    "url": "https://www.omex.co.in/products/59/detail/fireman-axe",
-    "final": "https://www.omex.co.in/products/59/detail/fireman-axe",
+    "url": "https://www.omex.co.in/products/209/water-type-fire-extinguisher-stored-pressure",
+    "final": "https://www.omex.co.in/products/209/water-type-fire-extinguisher-stored-pressure",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 18645
+    "bytes": 18820
   },
   {
-    "url": "https://www.omex.co.in/products/60/detail/single-way-hydrant-valve-gm",
-    "final": "https://www.omex.co.in/products/60/detail/single-way-hydrant-valve-gm",
+    "url": "https://www.omex.co.in/products/211/mfoam-afff-type-fire-extinguisher-stored-pressure",
+    "final": "https://www.omex.co.in/products/211/mfoam-afff-type-fire-extinguisher-stored-pressure",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 21947
+    "bytes": 18896
   },
   {
-    "url": "https://www.omex.co.in/products/61/detail/double-way-haydrant-valve-ss",
-    "final": "https://www.omex.co.in/products/61/detail/double-way-haydrant-valve-ss",
+    "url": "https://www.omex.co.in/category/133/dry-chemical-powder-type-fire-extinguisher",
+    "final": "https://www.omex.co.in/category/133/dry-chemical-powder-type-fire-extinguisher",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 20455
+    "bytes": 19291
   },
   {
-    "url": "https://www.omex.co.in/category/3/accessories",
-    "final": "https://www.omex.co.in/category/3/accessories",
+    "url": "https://www.omex.co.in/products/137/modular-automatic-bcabc-dry-chemical-powder",
+    "final": "https://www.omex.co.in/products/137/modular-automatic-bcabc-dry-chemical-powder",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 19842
+    "bytes": 21511
   },
   {
-    "url": "https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure",
-    "final": "https://www.omex.co.in/products/103/detail/multipurpose-dry-powder-stored-pressure",
+    "url": "https://www.omex.co.in/products/154/reinforced-rubber-lined-fire-hose-rrl-type-1",
+    "final": "https://www.omex.co.in/products/154/reinforced-rubber-lined-fire-hose-rrl-type-1",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 25445
+    "bytes": 22072
   },
   {
-    "url": "https://www.omex.co.in/products/100/detail/clean-agent-fk-5-1-12-type-fire-extinguisher",
-    "final": "https://www.omex.co.in/products/100/detail/clean-agent-fk-5-1-12-type-fire-extinguisher",
+    "url": "https://www.omex.co.in/products/152/first-aid-hose-reel-swinging-type",
+    "final": "https://www.omex.co.in/products/152/first-aid-hose-reel-swinging-type",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 23762
+    "bytes": 19718
   },
   {
-    "url": "https://www.omex.co.in/products/96/detail/modular-automatic-bc-abc-dry-chemical-powder-fire-extinguisher",
-    "final": "https://www.omex.co.in/products/96/detail/modular-automatic-bc-abc-dry-chemical-powder-fire-extinguisher",
+    "url": "https://www.omex.co.in/products/188/smoke-detector",
+    "final": "https://www.omex.co.in/products/188/smoke-detector",
     "status": 200,
     "type": "text/html; charset=UTF-8",
-    "bytes": 18872
+    "bytes": 18282
   }
 ]

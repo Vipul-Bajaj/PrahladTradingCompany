@@ -1,0 +1,5 @@
+URL: https://www.mallcom.in/collections/respiratory-protection/products.json?limit=250
+STATUS: 200
+TYPE: application/json; charset=utf-8
+
+{"products":[]}

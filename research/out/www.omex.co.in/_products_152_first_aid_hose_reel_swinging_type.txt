@@ -1,0 +1,463 @@
+URL: https://www.omex.co.in/products/152/first-aid-hose-reel-swinging-type
+STATUS: 200
+TYPE: text/html; charset=UTF-8
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Welcome to :: Chawla Fire Protection </title>
+<meta name="description" content="Welcome to :: Chawla Fire Protection" />
+<meta  name="keywords" content="Welcome to :: Chawla Fire Protection" />
+<link rel="shortcut icon" href="https://www.omex.co.in/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no;user-scalable=0;"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800%7cOswald:200,300,400,500;600,700&display=swap" rel="stylesheet">
+
+<script type="text/javascript"> //<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+
+<link rel="stylesheet" href="https://www.omex.co.in/assets/public/default/css/conditional.css">
+<link rel="stylesheet" href="https://www.omex.co.in/assets/public/default/css/fluid_dg.css">
+<link rel="stylesheet" href="https://www.omex.co.in/assets/public/resources/zoom/magiczoomplus.css">
+
+<script type="text/javascript">var _siteRoot='index.html',_root='index.html';</script>
+<script type="text/javascript" > var site_url = 'https://www.omex.co.in/';</script>
+<script type="text/javascript" > var theme_url = 'https://www.omex.co.in/assets/public/default/';</script>
+<script type="text/javascript" > var resource_url = 'https://www.omex.co.in/assets/public/resources/'; var gObj = {};</script>
+
+</head>
+<body>
+
+
+<div class="calls" align="center"><a target="_blank" href="https://api.whatsapp.com/send?phone=9810004147&text=Hello "><img src="https://www.omex.co.in/assets/public/default/images/whatsaap.png" alt="" title="9810004147"></a></div>
+<div class="top_bg">
+  <div class="container">
+    <div class="language position-relative">
+      <div id="google_translate_element"></div><script type="text/javascript">function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en',layout:google.translate.TranslateElement.InlineLayout.HORIZONTAL},'google_translate_element')}</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script><i class="fas fa-caret-down"></i></div>
+      
+    <p class="top_social"><a href="#" title="Facebook"><span class="fab fa-facebook-f"></span></a> <a href="#" title="Twitter"><span class="fab fa-twitter"></span></a> <a href="#" title="Instagram"><span class="fab fa-instagram"></span></a> <a href="#" title="Linkedin"><span class="fab fa-linkedin-in"></span></a> <a href="#" title="Youtube"><span class="fab fa-youtube"></span></a> <a href="#" title="Whatsapp"><span class="fab fa-whatsapp"></span></a> </p>
+    <div class="call_mail">
+      <p class="d-block d-md-none white fs14 hand" onClick="$('.call_mail_mob').slideToggle();"><i class="fas fa-angle-double-down"></i> Contact Info</p>
+      <p class="mob_hid"><span class="mr-2"><i class="fas fa-phone"></i> <a href="tel:+ 011-42458300-01">+ 011-42458300-01</a></span> <span class="mr-2"><i class="fas fa-envelope"></i> <a href="mailto:info@omex.co.in">info@omex.co.in</a></span></p>
+    </div>
+    <p class="clearfix"></p>
+    <p class="call_mail_mob dn"><i class="fas fa-phone"></i> <b class="mr-2">+ 011-42458300-01</b> <i class="fas fa-envelope"></i> <b class="black"><a href="mailto:info@omex.co.in">info@omex.co.in</a></b></p>
+  </div>
+</div>
+<header>
+  <div class="container position-relative">
+    <div class="logo-area"><a href="https://www.omex.co.in/" title="Omex Complete Fire Protectionuae"><img src="https://www.omex.co.in/assets/public/default/images/logo.png" alt="Omex Complete Fire Protectionuae"></a></div>
+    <div class="menu">
+      <nav class="navbar navbar-expand-lg">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="fas fa-bars"></span></button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item"><a class="nav-link active" href="https://www.omex.co.in/" title="Home">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://www.omex.co.in/about_us" title="About Us">About Us</a></li>
+           
+            <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Our Products">Our Products</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown1"> 
+			 
+              <a href="https://www.omex.co.in/category/113/portable-fire-extinguishers-is15683" class="dropdown-item" title="Portable Fire Extinguishers (IS:15683)">Portable Fire Extinguishers (IS:15683)</a> 
+			 
+              <a href="https://www.omex.co.in/category/118/trolley-mounted-fire-extinguishers" class="dropdown-item" title="Trolley Mounted Fire Extinguishers">Trolley Mounted Fire Extinguishers</a> 
+			 
+              <a href="https://www.omex.co.in/category/116/fire-hydrant-system" class="dropdown-item" title="Fire Hydrant System">Fire Hydrant System</a> 
+			 
+              <a href="https://www.omex.co.in/category/117/fire-fighting-hoses" class="dropdown-item" title="Fire Fighting Hoses">Fire Fighting Hoses</a> 
+			 
+              <a href="https://www.omex.co.in/category/103/sprinklers" class="dropdown-item" title="Sprinklers">Sprinklers</a> 
+			 
+              <a href="https://www.omex.co.in/category/115/monitors" class="dropdown-item" title="Monitors">Monitors</a> 
+			 
+              <a href="https://www.omex.co.in/category/45/wet-alarm-system" class="dropdown-item" title="Wet Alarm System">Wet Alarm System</a> 
+			 
+              <a href="https://www.omex.co.in/category/91/refills" class="dropdown-item" title="Refills">Refills</a> 
+			  
+			  
+			  <a href="https://www.omex.co.in/category" class="dropdown-item" title="View All">View All</a></div>
+            </li>
+            
+            <li class="nav-item"><a class="nav-link" href="https://www.omex.co.in/gallery" title="Our Gallery">Our Gallery</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://www.omex.co.in/clients" title="Our Clients">Our Clients</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://www.omex.co.in/contactus" title="Contact Us">Contact Us</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div class="search_pos"><a href="https://www.omex.co.in/products/searchproduct" data-fancybox="" data-type="iframe" class="forgot" title="Search"><i class="fas fa-search"></i></a></div>
+    <p class="brochure"><a href="https://www.omex.co.in/assets/public/default/images/OMEX-Cat-2021.pdf" title="Download Brochure" target="_blank"><img src="https://www.omex.co.in/assets/public/default/images/download-brochure.png" alt="" title="Download Brochure"/></a></p>
+    <p class="clearfix"></p>
+  </div>
+</header> <script type="text/javascript">function serialize_form() { return $('#myform').serialize(); } </script> 
+<p class=""><img src="https://www.omex.co.in/uploaded_files/clients/inner-bannerZgoW.jpg" class="img-fluid" alt=""></p>
+<nav aria-label="breadcrumb" class="breadcrum_bg">
+  <div class="container">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="https://www.omex.co.in/">Home</a></li>
+      <li class="breadcrumb-item"><a href="https://www.omex.co.in/category">Category</a></li>
+      <li class="breadcrumb-item"><a href="https://www.omex.co.in/category/116/fire-hydrant-system">Fire Hydrant System</a></li><li class="breadcrumb-item active" aria-current="page">First Aid Hose Reel Swinging Type</li>    </ol>
+  </div>
+</nav>
+<div class="container">
+  <div class="mid_area">
+<form action="https://www.omex.co.in/products" id="myform" method="post" accept-charset="utf-8">    
+    <div class="cms_area">
+          <h1 class="mb20">
+                First Aid Hose Reel Swinging Type          </h1>
+      <div class="row mt-1">
+        
+                      <div class="col-sm-6 col-lg-4 col-xl-3 no_pad">
+			<div class="news_box">
+              <div class="news_pic">
+                <figure><a href="https://www.omex.co.in/products/66/detail/compact-type-hose-reel-drum">
+                
+                          <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_Hose_Reel_DrumOEqM.jpg"  alt="Compact Type Hose Reel Drum"  />
+                          
+                </a></figure>
+              </div>
+              <div class="content-box">
+                <p class="date-cont"><a href="https://www.omex.co.in/products/66/detail/compact-type-hose-reel-drum" title="Compact Type Hose Reel Drum">Compact Type Hose&#8230; </a></p>
+                <p class="newspack_name"><a href="https://www.omex.co.in/products/66/detail/compact-type-hose-reel-drum">GENERAL SPECIFICATION Corrosion&#8230;</a></p>
+				<div class="rdr-btn"><a href="https://www.omex.co.in/products/66/detail/compact-type-hose-reel-drum" title="View Details">View Details</a></div>
+                <p class="clearfix"></p>
+              </div>
+            </div>
+			</div>
+                   <div class="col-sm-6 col-lg-4 col-xl-3 no_pad">
+			<div class="news_box">
+              <div class="news_pic">
+                <figure><a href="https://www.omex.co.in/products/67/detail/first-aid-hose-reel-swimigin-type-isi-mark">
+                
+                          <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_285_261_HRD_ISIO006.jpg"  alt="First Aid Hose Reel Swimigin Type isi mark"  />
+                          
+                </a></figure>
+              </div>
+              <div class="content-box">
+                <p class="date-cont"><a href="https://www.omex.co.in/products/67/detail/first-aid-hose-reel-swimigin-type-isi-mark" title="First Aid Hose Reel Swimigin Type isi mark">First Aid Hose&#8230; </a></p>
+                <p class="newspack_name"><a href="https://www.omex.co.in/products/67/detail/first-aid-hose-reel-swimigin-type-isi-mark">GENERAL SPECIFICATION &nbsp;&#8230;</a></p>
+				<div class="rdr-btn"><a href="https://www.omex.co.in/products/67/detail/first-aid-hose-reel-swimigin-type-isi-mark" title="View Details">View Details</a></div>
+                <p class="clearfix"></p>
+              </div>
+            </div>
+			</div>
+                   
+          
+          
+            
+            
+           
+           
+            
+            
+         
+		  <p class="clearfix w-100"></p>
+         
+          
+          
+          <div class="mt-3 d-none d-lg-block border p-2 bg-gray black">
+                     <img src="https://www.omex.co.in/uploaded_files/thumb_cache/thumb_120_76_Hose_Reel_DrumKPhn.jpg"  class="float-left mr-3" alt="First Aid Hose Reel Swinging Type" title="First Aid Hose Reel Swinging Type" />
+         
+     <br />
+            <p class="clearfix w-100"></p>
+          </div>
+          
+          
+      </div>
+    </div>
+</form>    
+  </div>
+</div>
+<div class="clearfix"></div><footer>
+  <div class="footer_bg">
+
+    <div class="container">
+
+      <div class="addressbar">
+
+        <div class="row">
+
+          <div class="col-sm-4 no_pad">
+
+			  <div class="cols">
+
+            <p class="adb-icon"><i class="fas fa-map-marker-alt"></i></p>
+
+            <div class="adb-sec">
+
+              <p class="adb-h">Address</p>
+
+              <p class="adb-text">A-56, Phase-II, Industrial Area, Mangol Puri, Delhi - 110 083 </p>
+
+            </div>
+
+            </div>
+
+          </div>
+
+          <div class="col-sm-4 no_pad">
+
+			  <div class="cols">
+
+            <p class="adb-icon"><i class="fas fa-phone-alt"></i></p>
+
+            <div class="adb-sec">
+
+              <p class="adb-h">Contact NO.</p>
+
+              <p class="adb-text">Tel: <a href="tel: 011-42458300-01"> 011-42458300-01</a><br>
+
+                </p>
+
+            </div>
+
+				  </div>
+
+          </div>
+
+          <div class="col-sm-4 no_pad">
+
+			  <div class="cols">
+
+            <p class="adb-icon"><i class="fas fa-envelope"></i></p>
+
+            <div class="adb-sec">
+
+              <p class="adb-h">Email ID</p>
+
+              <p class="adb-text"><a href="matilto:info@omex.co.in">info@omex.co.in</a></p>
+
+            </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="footer_sec1">
+
+        <div class="d-none d-md-block">
+
+          <h2>Quick Links</h2>
+
+        </div>
+
+        <div class="d-block d-md-none dd_next hand">
+
+          <h2>Quick Links</h2>
+
+        </div>
+
+        <div class="f_dd_box">
+
+          <div class="ft_link"> <a href="https://www.omex.co.in/" title="Home">Home</a> <a href="https://www.omex.co.in/about_us" title="About Us">About Us</a> <a href="https://www.omex.co.in/gallery" title="Our Gallery">Our Gallery</a> <a href="https://www.omex.co.in/clients" title="Our Clients">Our Clients</a> <a href="https://www.omex.co.in/isi_license" title="ISI Licenses">ISI Licenses</a> <a href="https://www.omex.co.in/faq" title="FAQs">FAQs</a> <a data-fancybox="" data-type="iframe" data-src="https://www.omex.co.in/pages/mynewsletter" href="" title="Newsletter" class="forgot">Newsletter</a> <a href="https://www.omex.co.in/contactus" title="Contact Us">Contact Us</a> <a href="https://www.omex.co.in/sitemap" title="Sitemap">Sitemap</a></div>
+
+        </div>
+
+      </div>
+
+      <div class="footer_sec2">
+
+        <div class="d-none d-md-block">
+
+          <h2>Our Products</h2>
+
+        </div>
+
+        <div class="d-block d-md-none dd_next hand">
+
+          <h2>Our Products</h2>
+
+        </div>
+
+        <div class="f_dd_box">
+
+         
+
+          <div class="ft_link">
+
+			  
+
+              	<a href="https://www.omex.co.in/category/113/portable-fire-extinguishers-is15683" title="Portable Fire Extinguishers (IS:15683)">Portable Fire Extinguishers (IS:15683)</a>           
+
+			    
+
+              	<a href="https://www.omex.co.in/category/118/trolley-mounted-fire-extinguishers" title="Trolley Mounted Fire Extinguishers">Trolley Mounted Fire Extinguishers</a>           
+
+			    
+
+              	<a href="https://www.omex.co.in/category/116/fire-hydrant-system" title="Fire Hydrant System">Fire Hydrant System</a>           
+
+			    
+
+              	<a href="https://www.omex.co.in/category/117/fire-fighting-hoses" title="Fire Fighting Hoses">Fire Fighting Hoses</a>           
+
+			    
+
+              	<a href="https://www.omex.co.in/category/103/sprinklers" title="Sprinklers">Sprinklers</a>           
+
+			    
+
+              	<a href="https://www.omex.co.in/category/115/monitors" title="Monitors">Monitors</a>           
+
+			    
+
+              	<a href="https://www.omex.co.in/category/45/wet-alarm-system" title="Wet Alarm System">Wet Alarm System</a>           
+
+			  
+			  
+
+			  <a href="https://www.omex.co.in/category" title="View All">View All</a></div>
+
+              
+
+        </div>
+
+      </div>
+
+      <div class="footer_sec4">
+
+        <div class="d-none d-md-block">
+
+          <h2>Our Reach</h2>
+
+        </div>
+
+        <div class="d-block d-md-none dd_next hand">
+
+          <h2>Our Reach</h2>
+
+        </div>
+
+        <div class="f_dd_box">
+
+          <p class="mb-4"><img src="https://www.omex.co.in/assets/public/default/images/map.png" class="img-fluid" alt=""/></p>
+
+			<p class="bookmark"><a class="addthis_button undr" href="https://www.addthis.com/bookmark.php"><i class="fas fa-star"></i> Bookmark Us</a></p>
+
+			<p class="bookmark"><a data-fancybox="" data-type="iframe" data-src="https://www.omex.co.in/pages/referfriend" href="" title="Refer a Friend" class="forgot"><i class="fas fa-user-friends"></i> Refer a Friend</a></p>
+
+          <div class="clearfix"></div>
+
+        </div>
+
+      </div>
+
+      <div class="footer_sec3">
+
+        <div class="d-none d-md-block">
+
+
+
+          <h2>Follow us on</h2>
+
+        </div>
+
+        <div class="d-block d-md-none dd_next hand">
+
+          <h2>Follow us on</h2>
+
+        </div>
+
+        <div class="f_dd_box">
+
+          <p class="footer_social"> 
+
+            <a href="#" title="Facebook"><span><i class="fab fa-facebook-f"></i></span>Facebook</a> 
+
+            <a href="#" title="Instagram"><span><i class="fab fa-instagram"></i></span>Instagram</a>
+
+            <a href="#" title="Twitter"><span><i class="fab fa-twitter"></i></span>Twitter</a>
+
+            <a href="#" title="Linkedin"><span><i class="fab fa-linkedin-in"></i></span>Linked In</a>
+
+            <a href="#" title="Youtube"><span><i class="fab fa-youtube"></i></span>Youtube</a>
+
+            <a href="#" title="Whatsapp"><span><i class="fab fa-whatsapp"></i></span>Whatsapp</a>
+
+          </p>
+          <p class="mt-2"><script type="text/javascript"> //<![CDATA[
+  var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
+  document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]></script>
+<script language="JavaScript" type="text/javascript">
+  TrustLogo("https://www.positivessl.com/images/seals/positivessl_trust_seal_sm_124x32.png", "POSDV", "none");
+</script>
+</p>
+
+        </div>
+
+      </div>
+
+      <div class="footer_sec5">
+
+        <p><a href="https://www.omex.co.in/" title="Omex Complete Fire Protection"><img src="https://www.omex.co.in/assets/public/default/images/logo.png" class="d-block img-fluid mx-auto" alt=""></a></p>
+
+        <p class="copys">Copyright @ 2026, CHAWLA FIRE 
+
+          <br>
+
+          PROTECTION ENGINEERS PVT. LTD..
+
+          <br>
+
+        All rights reserved.</p>
+
+        <p class="mt-4 pt-2 check">
+         <span id="siteseal"><script async type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=xXdq9nTjTlQiLyziGzKeJRC6WRk68pvJEndd0U6IX1e3HyOLbMEi0S6fYjSf"></script></span>
+        </p>
+
+      
+      </div>
+
+      <div class="clearfix"></div>
+
+    </div>
+
+  </div>
+
+	<div class="foot_botto">
+
+    <div class="container"> <img src="https://www.omex.co.in/assets/public/default/images/weblink.png" class="img-fluid mx-auto d-block" alt="">
+
+      <p class="dev">Developed and Managed by <a href="https://www.weblinkindia.net/" rel="nofollow">WeblinkIndia.NET</a></p>
+
+    </div>
+
+  </div>
+
+</footer>
+
+<!--Footer End--><!-- #EndLibraryItem --><!--Footer End-->
+
+<div id="back-top"><a href="#top"><span></span></a></div>
+
+
+
+	<script type="text/javascript">var Page='';</script>
+
+	
+
+<link href="https://site-assets.fontawesome.com/releases/v6.6.0/css/all.css" rel="stylesheet">
+
+<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-1.10.2.min.js"></script> 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script> 
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> 
+
+
+
+<script type="text/javascript" src="https://www.omex.co.in/assets/public/resources/Scripts/script.int.dg.js"></script>
+
+</body>
+
+</html>
