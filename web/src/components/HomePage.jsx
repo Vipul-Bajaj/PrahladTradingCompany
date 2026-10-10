@@ -1,4 +1,5 @@
 import Media from './Media';
+import ContactForm from './ContactForm';
 import { Header, Footer, PhoneIcon, href } from './Chrome';
 import { company, brands, categories, brandName, enquiryMailto } from '../data/site';
 
@@ -189,40 +190,36 @@ function Contact() {
   return (
     <section className="contact" id="contact" aria-labelledby="contact-title">
       <div className="wrap contact__grid">
-        <div>
+        <div className="contact__info">
           <h2 id="contact-title">Contact us</h2>
           <p className="contact__lede">Speak to {company.owner} for prices, availability and bulk orders.</p>
-          <div className="hero__actions">
-            <a className="btn btn--solid" href={company.phoneHref}>
-              <PhoneIcon /> Call {company.phoneDisplay}
-            </a>
-            <a className="btn btn--line btn--on-dark" href={enquiryMailto('Enquiry from website')}>
-              Email us
-            </a>
-          </div>
+          <dl className="contact__facts">
+            <div>
+              <dt>Phone</dt>
+              <dd>
+                <a href={company.phoneHref}>{company.phoneDisplay}</a>
+              </dd>
+            </div>
+            <div>
+              <dt>Email</dt>
+              <dd>
+                <a href={`mailto:${company.email}`}>{company.email}</a>
+              </dd>
+            </div>
+            <div>
+              <dt>Hours</dt>
+              <dd>{company.hours}</dd>
+            </div>
+            <div>
+              <dt>Location</dt>
+              <dd>{company.city}</dd>
+            </div>
+          </dl>
+          <a className="btn btn--solid contact__call" href={company.phoneHref}>
+            <PhoneIcon /> Call {company.phoneDisplay}
+          </a>
         </div>
-        <dl className="contact__facts">
-          <div>
-            <dt>Phone</dt>
-            <dd>
-              <a href={company.phoneHref}>{company.phoneDisplay}</a>
-            </dd>
-          </div>
-          <div>
-            <dt>Email</dt>
-            <dd>
-              <a href={`mailto:${company.email}`}>{company.email}</a>
-            </dd>
-          </div>
-          <div>
-            <dt>Hours</dt>
-            <dd>{company.hours}</dd>
-          </div>
-          <div>
-            <dt>Location</dt>
-            <dd>{company.city}</dd>
-          </div>
-        </dl>
+        <ContactForm />
       </div>
     </section>
   );

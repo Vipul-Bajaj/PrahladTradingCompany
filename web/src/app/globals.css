@@ -261,7 +261,7 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
 }
 @media (min-width: 960px) {
   .contact { padding-block: 88px; }
-  .contact__grid { grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }
+  .contact__grid { grid-template-columns: 5fr 7fr; gap: 64px; align-items: start; }
 }
 
 /* Footer */
@@ -373,13 +373,13 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
 @media (min-width: 480px) { .field-row { grid-template-columns: 1fr 1fr; } }
 .field { display: grid; gap: 6px; font-weight: 600; font-size: .95rem; }
 .field em { font-style: normal; font-weight: 400; color: var(--steel); }
-.field input, .field textarea {
+.field input, .field textarea, .field select {
   font: inherit; font-weight: 400; font-size: 1rem; color: var(--ink);
   min-height: 46px; padding: 10px 12px; border: 1.5px solid #b9c0c5; border-radius: var(--radius); background: var(--white);
 }
 .field textarea { resize: vertical; }
-.field input:focus-visible, .field textarea:focus-visible { outline: none; border-color: var(--orange); box-shadow: 0 0 0 3px var(--tint); }
-.field input:user-invalid { border-color: #b3261e; }
+.field input:focus-visible, .field textarea:focus-visible, .field select:focus-visible { outline: none; border-color: var(--orange); box-shadow: 0 0 0 3px var(--tint); }
+.field input:user-invalid, .field textarea:user-invalid { border-color: #b3261e; }
 
 .btn--whatsapp { background: #1e8e4f; color: var(--white); }
 .btn--whatsapp:hover { background: #166c3c; }
@@ -412,3 +412,20 @@ h3 { font-size: 1.125rem; line-height: 1.25; }
 .site-footer { padding-bottom: 88px; }
 
 .section__head .order__note { margin-top: 12px; font-size: .95rem; color: var(--steel); }
+
+/* Contact section enquiry form */
+.contact__info { display: grid; gap: 28px; align-content: start; }
+.contact__info .contact__lede { margin-top: -18px; }
+.contact__call { justify-self: start; }
+.contact-form {
+  background: var(--white); color: var(--ink);
+  border-radius: 10px; padding: 24px 20px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, .25);
+}
+.contact-form h3 { font-size: 1.35rem; color: var(--ink); }
+.contact-form .enquiry__intro { margin-top: 4px; }
+.contact-form__actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 4px; }
+.contact-form--sent { display: grid; gap: 10px; }
+.contact-form--sent p { color: var(--steel); }
+.field select { appearance: none; background-image: linear-gradient(45deg, transparent 50%, var(--steel) 50%), linear-gradient(135deg, var(--steel) 50%, transparent 50%); background-position: calc(100% - 18px) 50%, calc(100% - 13px) 50%; background-size: 5px 5px; background-repeat: no-repeat; padding-right: 36px; }
+@media (min-width: 640px) { .contact-form { padding: 32px; } }
